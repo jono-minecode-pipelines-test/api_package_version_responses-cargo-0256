@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 566937,
+        "crate": "zzhack",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zzhack/0.0.1/download",
+        "readme_path": "/api/v1/crates/zzhack/0.0.1/readme",
+        "updated_at": "2022-06-15T05:02:49.205002Z",
+        "created_at": "2022-06-15T05:02:49.205002Z",
+        "downloads": 1051,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzhack/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zzhack/0.0.1/downloads",
+            "authors": "/api/v1/crates/zzhack/0.0.1/authors"
+        },
+        "crate_size": 2834,
+        "published_by": {
+            "id": 158301,
+            "login": "mistricky",
+            "name": "The Mist",
+            "avatar": "https://avatars.githubusercontent.com/u/22574136?v=4",
+            "url": "https://github.com/mistricky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 158301,
+                    "login": "mistricky",
+                    "name": "The Mist",
+                    "avatar": "https://avatars.githubusercontent.com/u/22574136?v=4",
+                    "url": "https://github.com/mistricky"
+                },
+                "time": "2022-06-15T05:02:49.205002Z"
+            }
+        ],
+        "checksum": "0639926f3c1a5096b8f22563cabf303007b2d33d219b5d5991ca913b24b9ddeb",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zzhack"
+        ],
+        "edition": "2021",
+        "description": "A CLI tool to generate static websites.",
+        "homepage": "https://github.com/zzhack-stack/reducer",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 25,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 25,
+            "total_comment_lines": 0
+        }
+    }
+}
