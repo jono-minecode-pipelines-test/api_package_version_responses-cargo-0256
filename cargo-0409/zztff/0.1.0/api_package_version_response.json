@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2121699,
+        "crate": "zztff",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zztff/0.1.0/download",
+        "readme_path": "/api/v1/crates/zztff/0.1.0/readme",
+        "updated_at": "2026-03-14T10:57:29.348265Z",
+        "created_at": "2026-03-14T10:57:29.348265Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zztff/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zztff/0.1.0/downloads",
+            "authors": "/api/v1/crates/zztff/0.1.0/authors"
+        },
+        "crate_size": 16371,
+        "published_by": {
+            "id": 343690,
+            "login": "cmounce",
+            "name": "Chris Mounce",
+            "avatar": "https://avatars.githubusercontent.com/u/3722224?v=4",
+            "url": "https://github.com/cmounce"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 343690,
+                    "login": "cmounce",
+                    "name": "Chris Mounce",
+                    "avatar": "https://avatars.githubusercontent.com/u/3722224?v=4",
+                    "url": "https://github.com/cmounce"
+                },
+                "time": "2026-03-14T10:57:29.348265Z"
+            }
+        ],
+        "checksum": "39516292849efa265f5c6839894f2dd777abfec64408bdbdb655097b68a8d1ba",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Library for reading/writing ZZT worlds and boards",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/cmounce/zztff",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 715,
+                    "comment_lines": 18,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 715,
+            "total_comment_lines": 18
+        }
+    }
+}

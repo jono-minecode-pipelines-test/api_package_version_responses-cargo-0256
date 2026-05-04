@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2065364,
+        "crate": "zzsleep",
+        "num": "0.0.7",
+        "dl_path": "/api/v1/crates/zzsleep/0.0.7/download",
+        "readme_path": "/api/v1/crates/zzsleep/0.0.7/readme",
+        "updated_at": "2026-02-26T04:18:51.231934Z",
+        "created_at": "2026-02-26T04:18:51.231934Z",
+        "downloads": 660,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzsleep/0.0.7/dependencies",
+            "version_downloads": "/api/v1/crates/zzsleep/0.0.7/downloads",
+            "authors": "/api/v1/crates/zzsleep/0.0.7/authors"
+        },
+        "crate_size": 17739,
+        "published_by": {
+            "id": 126745,
+            "login": "takumi3488",
+            "name": "Takumi Mori",
+            "avatar": "https://avatars.githubusercontent.com/u/51111242?v=4",
+            "url": "https://github.com/takumi3488"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126745,
+                    "login": "takumi3488",
+                    "name": "Takumi Mori",
+                    "avatar": "https://avatars.githubusercontent.com/u/51111242?v=4",
+                    "url": "https://github.com/takumi3488"
+                },
+                "time": "2026-02-26T04:18:51.231934Z"
+            }
+        ],
+        "checksum": "59f17cec0916f06b7a28fecbcc87bfe0979b56135e42f4855d0cf5fb57ef7dac",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zz"
+        ],
+        "edition": "2024",
+        "description": "A CLI timer tool that waits until a specified time with a progress bar",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/takumi3488/zz",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 386,
+                    "comment_lines": 16,
+                    "files": 2
+                },
+                "Shell": {
+                    "code_lines": 6,
+                    "comment_lines": 4,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 392,
+            "total_comment_lines": 20
+        }
+    }
+}
