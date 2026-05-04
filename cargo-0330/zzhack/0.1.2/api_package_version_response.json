@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 590584,
+        "crate": "zzhack",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zzhack/0.1.2/download",
+        "readme_path": "/api/v1/crates/zzhack/0.1.2/readme",
+        "updated_at": "2022-07-25T06:42:00.075707Z",
+        "created_at": "2022-07-25T06:42:00.075707Z",
+        "downloads": 1135,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzhack/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zzhack/0.1.2/downloads",
+            "authors": "/api/v1/crates/zzhack/0.1.2/authors"
+        },
+        "crate_size": 28122,
+        "published_by": {
+            "id": 158301,
+            "login": "mistricky",
+            "name": "The Mist",
+            "avatar": "https://avatars.githubusercontent.com/u/22574136?v=4",
+            "url": "https://github.com/mistricky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 158301,
+                    "login": "mistricky",
+                    "name": "The Mist",
+                    "avatar": "https://avatars.githubusercontent.com/u/22574136?v=4",
+                    "url": "https://github.com/mistricky"
+                },
+                "time": "2022-07-25T06:42:00.075707Z"
+            }
+        ],
+        "checksum": "4588c9a15736254fe2472b396cee5cb43afca5af3e8c1bad1b466972702d3013",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zzhack"
+        ],
+        "edition": "2021",
+        "description": "ZZHACK WASM webapp build tool",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 925,
+                    "comment_lines": 17,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 925,
+            "total_comment_lines": 17
+        }
+    }
+}
