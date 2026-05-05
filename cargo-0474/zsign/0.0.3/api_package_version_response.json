@@ -1,0 +1,89 @@
+{
+    "version": {
+        "id": 1061236,
+        "crate": "zsign",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zsign/0.0.3/download",
+        "readme_path": "/api/v1/crates/zsign/0.0.3/readme",
+        "updated_at": "2024-02-23T07:40:04.058255Z",
+        "created_at": "2024-02-23T07:40:04.058255Z",
+        "downloads": 1245,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsign/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zsign/0.0.3/downloads",
+            "authors": "/api/v1/crates/zsign/0.0.3/authors"
+        },
+        "crate_size": 156058,
+        "published_by": {
+            "id": 247229,
+            "login": "dounine",
+            "name": "dounine",
+            "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+            "url": "https://github.com/dounine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 247229,
+                    "login": "dounine",
+                    "name": "dounine",
+                    "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+                    "url": "https://github.com/dounine"
+                },
+                "time": "2024-02-23T07:40:04.058255Z"
+            }
+        ],
+        "checksum": "9baf7da3896bffefddd9beb5afde40e1cedc4b8d53aede5dbf943e99356bbe41",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ipa sign",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dounine/rust-zsign",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 1582,
+                    "comment_lines": 121,
+                    "files": 1
+                },
+                "C Header": {
+                    "code_lines": 8897,
+                    "comment_lines": 1645,
+                    "files": 12
+                },
+                "C++": {
+                    "code_lines": 5780,
+                    "comment_lines": 91,
+                    "files": 9
+                },
+                "Lua": {
+                    "code_lines": 8,
+                    "comment_lines": 92,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 42,
+                    "comment_lines": 24,
+                    "files": 3
+                },
+                "Shell": {
+                    "code_lines": 33,
+                    "comment_lines": 17,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 16342,
+            "total_comment_lines": 1990
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 2293342,
+        "crate": "zsh-src",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsh-src/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsh-src/0.1.0/readme",
+        "updated_at": "2026-04-22T20:55:58.867815Z",
+        "created_at": "2026-04-22T20:55:58.867815Z",
+        "downloads": 15,
+        "features": {
+            "default": [
+                "download"
+            ],
+            "download": [
+                "directories",
+                "file-guard",
+                "tar",
+                "ureq",
+                "xz2"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-src/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-src/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsh-src/0.1.0/authors"
+        },
+        "crate_size": 16354,
+        "published_by": {
+            "id": 390235,
+            "login": "colemcanelly",
+            "name": "Cole McAnelly",
+            "avatar": "https://avatars.githubusercontent.com/u/76577549?v=4",
+            "url": "https://github.com/colemcanelly"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 390235,
+                    "login": "colemcanelly",
+                    "name": "Cole McAnelly",
+                    "avatar": "https://avatars.githubusercontent.com/u/76577549?v=4",
+                    "url": "https://github.com/colemcanelly"
+                },
+                "time": "2026-04-22T20:55:58.867815Z"
+            }
+        ],
+        "checksum": "a8794e5c1ece39e824c5ce2faddcad59d66a958aa53f729a0d176d6b727d50da",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Source of ZSH and logic to build it.\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zsh-rs/zsh-src",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 198,
+                    "comment_lines": 0,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 198,
+            "total_comment_lines": 0
+        }
+    }
+}

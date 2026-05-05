@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1971656,
+        "crate": "zsh-prompt-helper",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsh-prompt-helper/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsh-prompt-helper/0.1.0/readme",
+        "updated_at": "2026-01-25T14:19:32.649439Z",
+        "created_at": "2026-01-25T14:19:32.649439Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-prompt-helper/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-prompt-helper/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsh-prompt-helper/0.1.0/authors"
+        },
+        "crate_size": 11960,
+        "published_by": {
+            "id": 291666,
+            "login": "czt08883",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/3933937?v=4",
+            "url": "https://github.com/czt08883"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 291666,
+                    "login": "czt08883",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/3933937?v=4",
+                    "url": "https://github.com/czt08883"
+                },
+                "time": "2026-01-25T14:19:32.649439Z"
+            }
+        ],
+        "checksum": "56ba45cfa4429e700c2e16e6bcddc354c613be18d03aae83d70a08c519ca18db",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zsh-prompt-helper"
+        ],
+        "edition": "2021",
+        "description": "zsh-prompt-helper -- starship-like prompt for specific needs",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1112,
+                    "comment_lines": 20,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 1112,
+            "total_comment_lines": 20
+        }
+    }
+}

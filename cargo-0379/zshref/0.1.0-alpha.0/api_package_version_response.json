@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2287057,
+        "crate": "zshref",
+        "num": "0.1.0-alpha.0",
+        "dl_path": "/api/v1/crates/zshref/0.1.0-alpha.0/download",
+        "readme_path": "/api/v1/crates/zshref/0.1.0-alpha.0/readme",
+        "updated_at": "2026-04-21T14:35:03.382238Z",
+        "created_at": "2026-04-21T14:35:03.382238Z",
+        "downloads": 10,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zshref/0.1.0-alpha.0/dependencies",
+            "version_downloads": "/api/v1/crates/zshref/0.1.0-alpha.0/downloads",
+            "authors": "/api/v1/crates/zshref/0.1.0-alpha.0/authors"
+        },
+        "crate_size": 170351,
+        "published_by": {
+            "id": 408863,
+            "login": "carlwr",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/76884940?v=4",
+            "url": "https://github.com/carlwr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 408863,
+                    "login": "carlwr",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/76884940?v=4",
+                    "url": "https://github.com/carlwr"
+                },
+                "time": "2026-04-21T14:35:03.382238Z"
+            }
+        ],
+        "checksum": "96eb81d3ff430606eb5764244ad1020c6df88fad481c1619b231495d029cebd0",
+        "rust_version": "1.82",
+        "has_lib": false,
+        "bin_names": [
+            "zshref"
+        ],
+        "edition": "2021",
+        "description": "Query the bundled static zsh reference from the command line.",
+        "homepage": "https://github.com/carlwr/better-zsh",
+        "documentation": null,
+        "repository": "https://github.com/carlwr/better-zsh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 917,
+                    "comment_lines": 54,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 917,
+            "total_comment_lines": 54
+        }
+    }
+}
