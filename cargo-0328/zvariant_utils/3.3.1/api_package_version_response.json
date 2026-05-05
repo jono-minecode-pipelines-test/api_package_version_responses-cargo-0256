@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 2311067,
+        "crate": "zvariant_utils",
+        "num": "3.3.1",
+        "dl_path": "/api/v1/crates/zvariant_utils/3.3.1/download",
+        "readme_path": "/api/v1/crates/zvariant_utils/3.3.1/readme",
+        "updated_at": "2026-04-26T16:58:40.169551Z",
+        "created_at": "2026-04-26T16:58:40.169551Z",
+        "downloads": 168733,
+        "features": {
+            "default": [],
+            "gvariant": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant_utils/3.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant_utils/3.3.1/downloads",
+            "authors": "/api/v1/crates/zvariant_utils/3.3.1/authors"
+        },
+        "crate_size": 15680,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2026-04-26T16:58:40.169551Z"
+            }
+        ],
+        "checksum": "6d464f5733ffa07a3164d656f18533caace9d0638596721355d73256a410d691",
+        "rust_version": "1.87",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Various utilities used internally by the zvariant crate.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1337,
+                    "comment_lines": 26,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1337,
+            "total_comment_lines": 26
+        }
+    }
+}

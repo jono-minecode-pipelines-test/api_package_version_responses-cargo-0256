@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 1305384,
+        "crate": "zvariant_utils",
+        "num": "3.0.0",
+        "dl_path": "/api/v1/crates/zvariant_utils/3.0.0/download",
+        "readme_path": "/api/v1/crates/zvariant_utils/3.0.0/readme",
+        "updated_at": "2024-10-17T02:10:43.602997Z",
+        "created_at": "2024-10-17T02:10:43.602997Z",
+        "downloads": 30204,
+        "features": {
+            "default": [],
+            "gvariant": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant_utils/3.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant_utils/3.0.0/downloads",
+            "authors": "/api/v1/crates/zvariant_utils/3.0.0/authors"
+        },
+        "crate_size": 13786,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2024-10-17T02:10:43.602997Z"
+            }
+        ],
+        "checksum": "05195b9a8930cfccb637b8ff1531404b5e16c5383f8f025078106793e24f9974",
+        "rust_version": "1.81",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Various utilities used internally by the zvariant crate.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dbus2/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1313,
+                    "comment_lines": 21,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1313,
+            "total_comment_lines": 21
+        }
+    }
+}

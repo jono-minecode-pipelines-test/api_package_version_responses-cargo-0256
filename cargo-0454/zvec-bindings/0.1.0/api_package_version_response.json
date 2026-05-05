@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2026934,
+        "crate": "zvec-bindings",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvec-bindings/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvec-bindings/0.1.0/readme",
+        "updated_at": "2026-02-14T00:08:59.391303Z",
+        "created_at": "2026-02-14T00:08:59.391303Z",
+        "downloads": 18,
+        "features": {
+            "default": [],
+            "static": [
+                "zvec-sys/static"
+            ],
+            "sync": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvec-bindings/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvec-bindings/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvec-bindings/0.1.0/authors"
+        },
+        "crate_size": 25529,
+        "published_by": {
+            "id": 389298,
+            "login": "igobypenn",
+            "name": "Penn",
+            "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+            "url": "https://github.com/igobypenn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389298,
+                    "login": "igobypenn",
+                    "name": "Penn",
+                    "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+                    "url": "https://github.com/igobypenn"
+                },
+                "time": "2026-02-14T00:08:59.391303Z"
+            }
+        ],
+        "checksum": "b86815d9b9fea470f25807182de98432e8f6efeaaacf36ffbd092095f5cd5c2d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Idiomatic Rust bindings for zvec vector database",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/alibaba/zvec",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1447,
+                    "comment_lines": 15,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 1447,
+            "total_comment_lines": 15
+        }
+    }
+}

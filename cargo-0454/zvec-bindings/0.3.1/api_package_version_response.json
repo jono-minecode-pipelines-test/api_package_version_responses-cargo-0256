@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2155158,
+        "crate": "zvec-bindings",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zvec-bindings/0.3.1/download",
+        "readme_path": "/api/v1/crates/zvec-bindings/0.3.1/readme",
+        "updated_at": "2026-03-22T21:09:41.114482Z",
+        "created_at": "2026-03-22T21:09:41.114482Z",
+        "downloads": 43,
+        "features": {
+            "default": [],
+            "static": [
+                "zvec-sys/static"
+            ],
+            "sync": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvec-bindings/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zvec-bindings/0.3.1/downloads",
+            "authors": "/api/v1/crates/zvec-bindings/0.3.1/authors"
+        },
+        "crate_size": 29939,
+        "published_by": {
+            "id": 389298,
+            "login": "igobypenn",
+            "name": "Penn",
+            "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+            "url": "https://github.com/igobypenn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389298,
+                    "login": "igobypenn",
+                    "name": "Penn",
+                    "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+                    "url": "https://github.com/igobypenn"
+                },
+                "time": "2026-03-22T21:09:41.114482Z"
+            }
+        ],
+        "checksum": "6f70e9e462ca055002b350132c9216e038bbd8b770290ceb5e3544b727b928bf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Idiomatic Rust bindings for zvec vector database",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/igobypenn/zvec-rust-binding",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1912,
+                    "comment_lines": 17,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1912,
+            "total_comment_lines": 17
+        }
+    }
+}
