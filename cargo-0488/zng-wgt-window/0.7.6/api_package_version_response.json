@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 1403904,
+        "crate": "zng-wgt-window",
+        "num": "0.7.6",
+        "dl_path": "/api/v1/crates/zng-wgt-window/0.7.6/download",
+        "readme_path": "/api/v1/crates/zng-wgt-window/0.7.6/readme",
+        "updated_at": "2025-01-11T21:00:46.434599Z",
+        "created_at": "2025-01-11T21:00:46.434599Z",
+        "downloads": 769,
+        "features": {
+            "debug_default": [
+                "zng-wgt/debug_default"
+            ],
+            "default": [
+                "debug_default"
+            ],
+            "dyn_closure": [
+                "zng-wgt/dyn_closure"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-window/0.7.6/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-window/0.7.6/downloads",
+            "authors": "/api/v1/crates/zng-wgt-window/0.7.6/authors"
+        },
+        "crate_size": 33457,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-01-11T21:00:46.434599Z"
+            }
+        ],
+        "checksum": "7ecbe7fd1fa86f3a76fc337e338657949749bd87865ede0d0284b28cc22816aa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_window",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 817,
+                    "comment_lines": 13,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 817,
+            "total_comment_lines": 13
+        }
+    }
+}
