@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1382451,
+        "crate": "zsh-git-prompt-rs",
+        "num": "0.3.5",
+        "dl_path": "/api/v1/crates/zsh-git-prompt-rs/0.3.5/download",
+        "readme_path": "/api/v1/crates/zsh-git-prompt-rs/0.3.5/readme",
+        "updated_at": "2024-12-21T14:46:02.195750Z",
+        "created_at": "2024-12-21T14:46:02.195750Z",
+        "downloads": 781,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-git-prompt-rs/0.3.5/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-git-prompt-rs/0.3.5/downloads",
+            "authors": "/api/v1/crates/zsh-git-prompt-rs/0.3.5/authors"
+        },
+        "crate_size": 8351,
+        "published_by": {
+            "id": 23503,
+            "login": "navicore",
+            "name": "Ed Sweeney",
+            "avatar": "https://avatars.githubusercontent.com/u/110999?v=4",
+            "url": "https://github.com/navicore"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 23503,
+                    "login": "navicore",
+                    "name": "Ed Sweeney",
+                    "avatar": "https://avatars.githubusercontent.com/u/110999?v=4",
+                    "url": "https://github.com/navicore"
+                },
+                "time": "2024-12-21T14:46:02.195750Z"
+            }
+        ],
+        "checksum": "8ba9cb4c2e15295d8cf2f4c859c47c46e8f480efcde092a90f92c0a2406ff481",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "gitstatus"
+        ],
+        "edition": "2021",
+        "description": "A git status prompt for zsh written in Rust",
+        "homepage": null,
+        "documentation": "https://docs.rs/zsh-git-prompt-rs",
+        "repository": "https://github.com/navicore/zsh-git-prompt-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 474,
+                    "comment_lines": 15,
+                    "files": 4
+                },
+                "Shell": {
+                    "code_lines": 76,
+                    "comment_lines": 6,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 550,
+            "total_comment_lines": 21
+        }
+    }
+}

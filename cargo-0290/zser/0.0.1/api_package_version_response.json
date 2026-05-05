@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 55272,
+        "crate": "zser",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zser/0.0.1/download",
+        "readme_path": "/api/v1/crates/zser/0.0.1/readme",
+        "updated_at": "2017-11-30T02:27:29.871288Z",
+        "created_at": "2017-05-31T06:10:54.386890Z",
+        "downloads": 2240,
+        "features": {
+            "bench": [],
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zser/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zser/0.0.1/downloads",
+            "authors": "/api/v1/crates/zser/0.0.1/authors"
+        },
+        "crate_size": 7374,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "dff1e77d12622c83684b4249219b4753cc8c3f2da9c6cec30e83e0e7fdced4f2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A protobuf-inspired minimalistic serialization format with cryptographic authentication",
+        "homepage": "https://www.zcred.org",
+        "documentation": null,
+        "repository": "https://github.com/zcred/zser",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 338,
+                    "comment_lines": 25,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 338,
+            "total_comment_lines": 25
+        }
+    }
+}
