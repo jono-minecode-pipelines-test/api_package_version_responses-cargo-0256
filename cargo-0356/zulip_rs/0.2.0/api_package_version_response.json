@@ -1,0 +1,91 @@
+{
+    "version": {
+        "id": 384018,
+        "crate": "zulip_rs",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zulip_rs/0.2.0/download",
+        "readme_path": "/api/v1/crates/zulip_rs/0.2.0/readme",
+        "updated_at": "2021-05-30T17:35:37.555880Z",
+        "created_at": "2021-05-30T17:32:58.798101Z",
+        "downloads": 1612,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zulip_rs/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zulip_rs/0.2.0/downloads",
+            "authors": "/api/v1/crates/zulip_rs/0.2.0/authors"
+        },
+        "crate_size": 5597,
+        "published_by": {
+            "id": 92690,
+            "login": "nukr",
+            "name": "nukr",
+            "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+            "url": "https://github.com/nukr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 92690,
+                    "login": "nukr",
+                    "name": "nukr",
+                    "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+                    "url": "https://github.com/nukr"
+                },
+                "time": "2021-05-30T17:32:58.798101Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 92690,
+                    "login": "nukr",
+                    "name": "nukr",
+                    "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+                    "url": "https://github.com/nukr"
+                },
+                "time": "2021-05-30T17:35:27.432997Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 92690,
+                    "login": "nukr",
+                    "name": "nukr",
+                    "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+                    "url": "https://github.com/nukr"
+                },
+                "time": "2021-05-30T17:35:30.617952Z"
+            }
+        ],
+        "checksum": "a18f97c37eaf3a66a3c47ee60c63e9bba12f9ca74be332ff6c994e842c3b0c10",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust library to access the Zulip API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/nukr/zulip_rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Pest": {
+                    "code_lines": 10,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 599,
+                    "comment_lines": 1,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 609,
+            "total_comment_lines": 1
+        }
+    }
+}

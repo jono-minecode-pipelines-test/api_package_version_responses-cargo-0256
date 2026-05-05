@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 156612,
+        "crate": "zui-window",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zui-window/0.0.0/download",
+        "readme_path": "/api/v1/crates/zui-window/0.0.0/readme",
+        "updated_at": "2019-06-15T13:57:26.069807Z",
+        "created_at": "2019-06-15T13:57:26.069807Z",
+        "downloads": 2011,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zui-window/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zui-window/0.0.0/downloads",
+            "authors": "/api/v1/crates/zui-window/0.0.0/authors"
+        },
+        "crate_size": 5388,
+        "published_by": {
+            "id": 3832,
+            "login": "nvzqz",
+            "name": "Nikolai Vazquez",
+            "avatar": "https://avatars.githubusercontent.com/u/10367662?v=4",
+            "url": "https://github.com/nvzqz"
+        },
+        "audit_actions": [],
+        "checksum": "bb7fef0649520fcd090486b85ac3248fffc1357ff6438f96ffa215c4f852d8d7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "[WIP] ZedUI windowing utilities.",
+        "homepage": "https://github.com/zed-ui",
+        "documentation": "https://docs.rs/zui",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 715552,
+        "crate": "zuicon-ant",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zuicon-ant/0.1.0/download",
+        "readme_path": "/api/v1/crates/zuicon-ant/0.1.0/readme",
+        "updated_at": "2023-01-31T05:49:23.580445Z",
+        "created_at": "2023-01-31T05:49:23.580445Z",
+        "downloads": 1270,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuicon-ant/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuicon-ant/0.1.0/downloads",
+            "authors": "/api/v1/crates/zuicon-ant/0.1.0/authors"
+        },
+        "crate_size": 553148,
+        "published_by": {
+            "id": 49033,
+            "login": "XuShaohua",
+            "name": "Xu Shaohua",
+            "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+            "url": "https://github.com/XuShaohua"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49033,
+                    "login": "XuShaohua",
+                    "name": "Xu Shaohua",
+                    "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+                    "url": "https://github.com/XuShaohua"
+                },
+                "time": "2023-01-31T05:49:23.580445Z"
+            }
+        ],
+        "checksum": "3e8a5110d362dad4a6d61ea5c79e9266da8b62eafe6c6c5716e493295801f3e8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Wrapper of ant design icons for yew framework",
+        "homepage": "https://github.com/RustVis/zu",
+        "documentation": "https://docs.rs/zu",
+        "repository": "https://github.com/RustVis/zu",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 224,
+                    "comment_lines": 5,
+                    "files": 9
+                },
+                "Rust": {
+                    "code_lines": 38329,
+                    "comment_lines": 1584,
+                    "files": 792
+                },
+                "Shell": {
+                    "code_lines": 4,
+                    "comment_lines": 4,
+                    "files": 2
+                },
+                "TSX": {
+                    "code_lines": 19621,
+                    "comment_lines": 3190,
+                    "files": 1589
+                },
+                "TypeScript": {
+                    "code_lines": 2159,
+                    "comment_lines": 239,
+                    "files": 49
+                }
+            },
+            "total_code_lines": 60337,
+            "total_comment_lines": 5022
+        }
+    }
+}

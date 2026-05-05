@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 309510,
+        "crate": "zulip_rs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zulip_rs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zulip_rs/0.1.0/readme",
+        "updated_at": "2020-11-27T07:53:54.188463Z",
+        "created_at": "2020-11-27T07:53:54.188463Z",
+        "downloads": 1158,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zulip_rs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zulip_rs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zulip_rs/0.1.0/authors"
+        },
+        "crate_size": 2080,
+        "published_by": {
+            "id": 92690,
+            "login": "nukr",
+            "name": "nukr",
+            "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+            "url": "https://github.com/nukr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 92690,
+                    "login": "nukr",
+                    "name": "nukr",
+                    "avatar": "https://avatars.githubusercontent.com/u/1206615?v=4",
+                    "url": "https://github.com/nukr"
+                },
+                "time": "2020-11-27T07:53:54.188463Z"
+            }
+        ],
+        "checksum": "eef45dfcfa415cd77a5e1ee57fd25ce03557a84e16465239100a5e68a204b82c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust library to access the Zulip API",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Pest": {
+                    "code_lines": 10,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 100,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 110,
+            "total_comment_lines": 1
+        }
+    }
+}

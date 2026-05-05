@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 877149,
+        "crate": "zula",
+        "num": "0.0.8",
+        "dl_path": "/api/v1/crates/zula/0.0.8/download",
+        "readme_path": "/api/v1/crates/zula/0.0.8/readme",
+        "updated_at": "2023-08-21T18:12:40.578302Z",
+        "created_at": "2023-08-21T18:12:40.578302Z",
+        "downloads": 1124,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zula/0.0.8/dependencies",
+            "version_downloads": "/api/v1/crates/zula/0.0.8/downloads",
+            "authors": "/api/v1/crates/zula/0.0.8/authors"
+        },
+        "crate_size": 6110,
+        "published_by": {
+            "id": 202835,
+            "login": "JamieH01",
+            "name": "Jamie",
+            "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+            "url": "https://github.com/JamieH01"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 202835,
+                    "login": "JamieH01",
+                    "name": "Jamie",
+                    "avatar": "https://avatars.githubusercontent.com/u/115036920?v=4",
+                    "url": "https://github.com/JamieH01"
+                },
+                "time": "2023-08-21T18:12:40.578302Z"
+            }
+        ],
+        "checksum": "340413dd9da648ae484363de8a564ae4d3caabea7915891297a4366ceeb64df7",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zula"
+        ],
+        "edition": "2021",
+        "description": "a minimal and highly customizable terminal shell",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/JamieH01/zula",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 256,
+                    "comment_lines": 15,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 256,
+            "total_comment_lines": 15
+        }
+    }
+}

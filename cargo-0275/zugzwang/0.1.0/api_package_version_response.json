@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 877969,
+        "crate": "zugzwang",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zugzwang/0.1.0/download",
+        "readme_path": "/api/v1/crates/zugzwang/0.1.0/readme",
+        "updated_at": "2023-08-22T18:33:06.094769Z",
+        "created_at": "2023-08-22T18:33:06.094769Z",
+        "downloads": 1449,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zugzwang/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zugzwang/0.1.0/downloads",
+            "authors": "/api/v1/crates/zugzwang/0.1.0/authors"
+        },
+        "crate_size": 835,
+        "published_by": {
+            "id": 168968,
+            "login": "rcholla",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/63457499?v=4",
+            "url": "https://github.com/rcholla"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 168968,
+                    "login": "rcholla",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/63457499?v=4",
+                    "url": "https://github.com/rcholla"
+                },
+                "time": "2023-08-22T18:33:06.094769Z"
+            }
+        ],
+        "checksum": "9be00b78d162cf52c30cbfa8f1dcc0b48c9f7bb52c8448104c8e21cffbc113e2",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zugzwang"
+        ],
+        "edition": "2021",
+        "description": "Reserved for future use",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
