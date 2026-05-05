@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 957206,
+        "crate": "zune-psd",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zune-psd/0.4.0/download",
+        "readme_path": "/api/v1/crates/zune-psd/0.4.0/readme",
+        "updated_at": "2023-11-16T20:11:02.183870Z",
+        "created_at": "2023-11-16T20:11:02.183870Z",
+        "downloads": 31946,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-psd/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zune-psd/0.4.0/downloads",
+            "authors": "/api/v1/crates/zune-psd/0.4.0/authors"
+        },
+        "crate_size": 6959,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2023-11-16T20:11:02.183870Z"
+            }
+        ],
+        "checksum": "ab11275d621813206ba4c20f4ec647eab0733c0fc71c3276d1238229fd834d49",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Photoshop Simple PSD decoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-psd",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 443,
+                    "comment_lines": 59,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 443,
+            "total_comment_lines": 59
+        }
+    }
+}

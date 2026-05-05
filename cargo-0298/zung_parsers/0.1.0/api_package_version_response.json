@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1297445,
+        "crate": "zung_parsers",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zung_parsers/0.1.0/download",
+        "readme_path": "/api/v1/crates/zung_parsers/0.1.0/readme",
+        "updated_at": "2024-10-10T19:07:49.928389Z",
+        "created_at": "2024-10-10T19:07:49.928389Z",
+        "downloads": 827,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zung_parsers/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zung_parsers/0.1.0/downloads",
+            "authors": "/api/v1/crates/zung_parsers/0.1.0/authors"
+        },
+        "crate_size": 17455,
+        "published_by": {
+            "id": 292267,
+            "login": "ishaan26",
+            "name": "Ishaan Goel",
+            "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+            "url": "https://github.com/ishaan26"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 292267,
+                    "login": "ishaan26",
+                    "name": "Ishaan Goel",
+                    "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+                    "url": "https://github.com/ishaan26"
+                },
+                "time": "2024-10-10T19:07:49.928389Z"
+            }
+        ],
+        "checksum": "d4621abf3e2ec49ba5e06c88ddda89a2c30a51b3992e4ac72cbef7b6aa42a042",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Mini rust projects that target specific features of rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ishaan26/zung",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1684,
+                    "comment_lines": 254,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1684,
+            "total_comment_lines": 254
+        }
+    }
+}

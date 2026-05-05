@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1969936,
+        "crate": "zune-psd",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zune-psd/0.5.1/download",
+        "readme_path": "/api/v1/crates/zune-psd/0.5.1/readme",
+        "updated_at": "2026-01-24T18:24:48.324129Z",
+        "created_at": "2026-01-24T18:24:48.324129Z",
+        "downloads": 1344,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-psd/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zune-psd/0.5.1/downloads",
+            "authors": "/api/v1/crates/zune-psd/0.5.1/authors"
+        },
+        "crate_size": 12135,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-24T18:24:48.324129Z"
+            }
+        ],
+        "checksum": "8a518b7a7bee76246a6c783d795c56204cd9184ce0e2e4483717f1b9438c902c",
+        "rust_version": "1.70.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Photoshop Simple PSD decoder",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-psd",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 447,
+                    "comment_lines": 65,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 447,
+            "total_comment_lines": 65
+        }
+    }
+}

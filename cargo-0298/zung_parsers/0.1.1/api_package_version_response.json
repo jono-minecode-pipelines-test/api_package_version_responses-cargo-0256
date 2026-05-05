@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1297450,
+        "crate": "zung_parsers",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zung_parsers/0.1.1/download",
+        "readme_path": "/api/v1/crates/zung_parsers/0.1.1/readme",
+        "updated_at": "2024-10-10T19:10:45.578110Z",
+        "created_at": "2024-10-10T19:10:45.578110Z",
+        "downloads": 1301,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zung_parsers/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zung_parsers/0.1.1/downloads",
+            "authors": "/api/v1/crates/zung_parsers/0.1.1/authors"
+        },
+        "crate_size": 17436,
+        "published_by": {
+            "id": 292267,
+            "login": "ishaan26",
+            "name": "Ishaan Goel",
+            "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+            "url": "https://github.com/ishaan26"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 292267,
+                    "login": "ishaan26",
+                    "name": "Ishaan Goel",
+                    "avatar": "https://avatars.githubusercontent.com/u/46309254?v=4",
+                    "url": "https://github.com/ishaan26"
+                },
+                "time": "2024-10-10T19:10:45.578110Z"
+            }
+        ],
+        "checksum": "cd50f101b9b4e15c40a6f3c594cb9deb815561faa7cf15dc60918f5e8495e36e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Data Format Parsing in Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ishaan26/zung",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1684,
+                    "comment_lines": 254,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1684,
+            "total_comment_lines": 254
+        }
+    }
+}

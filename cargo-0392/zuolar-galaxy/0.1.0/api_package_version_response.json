@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 386319,
+        "crate": "zuolar-galaxy",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zuolar-galaxy/0.1.0/download",
+        "readme_path": "/api/v1/crates/zuolar-galaxy/0.1.0/readme",
+        "updated_at": "2021-06-05T11:50:44.981165Z",
+        "created_at": "2021-06-05T11:50:44.981165Z",
+        "downloads": 1608,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuolar-galaxy/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuolar-galaxy/0.1.0/downloads",
+            "authors": "/api/v1/crates/zuolar-galaxy/0.1.0/authors"
+        },
+        "crate_size": 6650,
+        "published_by": {
+            "id": 123626,
+            "login": "yam8511",
+            "name": "Zuolar",
+            "avatar": "https://avatars.githubusercontent.com/u/13272737?v=4",
+            "url": "https://github.com/yam8511"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 123626,
+                    "login": "yam8511",
+                    "name": "Zuolar",
+                    "avatar": "https://avatars.githubusercontent.com/u/13272737?v=4",
+                    "url": "https://github.com/yam8511"
+                },
+                "time": "2021-06-05T11:50:44.981165Z"
+            }
+        ],
+        "checksum": "5380fcc03829dbc49abb68c350177367bbd188a67e5566a92c06a2fe6d1ff00c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "output-log",
+            "zuolar-galaxy"
+        ],
+        "edition": "2018",
+        "description": "Practice project. A tool to search files, like `grep`",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 33,
+                    "comment_lines": 38,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 33,
+            "total_comment_lines": 38
+        }
+    }
+}

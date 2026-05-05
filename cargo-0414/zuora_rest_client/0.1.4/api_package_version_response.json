@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 448977,
+        "crate": "zuora_rest_client",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zuora_rest_client/0.1.4/download",
+        "readme_path": "/api/v1/crates/zuora_rest_client/0.1.4/readme",
+        "updated_at": "2021-11-04T21:50:54.244242Z",
+        "created_at": "2021-11-04T21:50:54.244242Z",
+        "downloads": 1173,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuora_rest_client/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zuora_rest_client/0.1.4/downloads",
+            "authors": "/api/v1/crates/zuora_rest_client/0.1.4/authors"
+        },
+        "crate_size": 12979,
+        "published_by": {
+            "id": 136800,
+            "login": "peteyb",
+            "name": "Peter Bryant",
+            "avatar": "https://avatars.githubusercontent.com/u/647320?v=4",
+            "url": "https://github.com/peteyb"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 136800,
+                    "login": "peteyb",
+                    "name": "Peter Bryant",
+                    "avatar": "https://avatars.githubusercontent.com/u/647320?v=4",
+                    "url": "https://github.com/peteyb"
+                },
+                "time": "2021-11-04T21:50:54.244242Z"
+            }
+        ],
+        "checksum": "d9b64df9ba1b13b203c1c501c0c385e10a23211307b837443af673859e2cfaf1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "main"
+        ],
+        "edition": "2018",
+        "description": "A HTTP Client built on top of the reqwest package for accessing the Zuora Billing REST API.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zuora_rest_client",
+        "repository": "https://github.com/peteyb/zuora_rest_client",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 371,
+                    "comment_lines": 4,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 371,
+            "total_comment_lines": 4
+        }
+    }
+}
