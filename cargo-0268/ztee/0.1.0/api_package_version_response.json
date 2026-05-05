@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 237216,
+        "crate": "ztee",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/ztee/0.1.0/download",
+        "readme_path": "/api/v1/crates/ztee/0.1.0/readme",
+        "updated_at": "2020-05-02T22:34:46.901895Z",
+        "created_at": "2020-05-02T22:34:46.901895Z",
+        "downloads": 1834,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/ztee/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztee/0.1.0/downloads",
+            "authors": "/api/v1/crates/ztee/0.1.0/authors"
+        },
+        "crate_size": 3076,
+        "published_by": {
+            "id": 87959,
+            "login": "dagit",
+            "name": "Jason Dagit",
+            "avatar": "https://avatars2.githubusercontent.com/u/384637?v=4",
+            "url": "https://github.com/dagit"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 87959,
+                    "login": "dagit",
+                    "name": "Jason Dagit",
+                    "avatar": "https://avatars2.githubusercontent.com/u/384637?v=4",
+                    "url": "https://github.com/dagit"
+                },
+                "time": "2020-05-02T22:34:46.901895Z"
+            }
+        ],
+        "checksum": "71f256f1876401bc59169451ed70ced2fdd2ac5aab79fe1bd07c4a3915311023",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztee"
+        ],
+        "edition": "2018",
+        "description": "Similar to unix command tee, but compresses file output",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dagit/ztee",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 37,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 37,
+            "total_comment_lines": 0
+        }
+    }
+}
