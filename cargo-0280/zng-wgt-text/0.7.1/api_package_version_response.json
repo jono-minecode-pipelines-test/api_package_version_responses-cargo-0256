@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 1569015,
+        "crate": "zng-wgt-text",
+        "num": "0.7.1",
+        "dl_path": "/api/v1/crates/zng-wgt-text/0.7.1/download",
+        "readme_path": "/api/v1/crates/zng-wgt-text/0.7.1/readme",
+        "updated_at": "2025-05-19T04:32:34.994498Z",
+        "created_at": "2025-05-19T00:28:34.132403Z",
+        "downloads": 439,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-text/0.7.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-text/0.7.1/downloads",
+            "authors": "/api/v1/crates/zng-wgt-text/0.7.1/authors"
+        },
+        "crate_size": 95663,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-19T00:28:34.132403Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-19T04:32:34.997092Z"
+            }
+        ],
+        "checksum": "9efeedd001bd96d850d80445033eaf3d37912073af7da577ee6f985fd8bb3c18",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_text",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 21,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 8196,
+                    "comment_lines": 124,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 8217,
+            "total_comment_lines": 124
+        }
+    }
+}

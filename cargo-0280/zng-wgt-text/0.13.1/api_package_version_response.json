@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2056809,
+        "crate": "zng-wgt-text",
+        "num": "0.13.1",
+        "dl_path": "/api/v1/crates/zng-wgt-text/0.13.1/download",
+        "readme_path": "/api/v1/crates/zng-wgt-text/0.13.1/readme",
+        "updated_at": "2026-02-23T19:47:47.048361Z",
+        "created_at": "2026-02-23T19:47:47.048361Z",
+        "downloads": 68,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-text/0.13.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-text/0.13.1/downloads",
+            "authors": "/api/v1/crates/zng-wgt-text/0.13.1/authors"
+        },
+        "crate_size": 98397,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-02-23T19:47:47.048361Z"
+            }
+        ],
+        "checksum": "5008e6177a492a8c52b25bd31bb706df255f544eb2babca91a3dae17654af0ec",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_text",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 22,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 8286,
+                    "comment_lines": 131,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 8308,
+            "total_comment_lines": 131
+        }
+    }
+}
