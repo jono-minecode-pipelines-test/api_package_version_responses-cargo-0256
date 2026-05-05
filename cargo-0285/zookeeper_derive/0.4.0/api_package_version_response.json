@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 100525,
+        "crate": "zookeeper_derive",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zookeeper_derive/0.4.0/download",
+        "readme_path": "/api/v1/crates/zookeeper_derive/0.4.0/readme",
+        "updated_at": "2018-07-20T06:09:17.217734Z",
+        "created_at": "2018-07-20T06:09:17.217734Z",
+        "downloads": 19060,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper_derive/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper_derive/0.4.0/downloads",
+            "authors": "/api/v1/crates/zookeeper_derive/0.4.0/authors"
+        },
+        "crate_size": 2156,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "deb033fa1544f8923fbda1e3ff7410671de3a9fa001e4820a9b5fbade395b9da",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Derive implementations used to build the ZooKeeper library",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 97,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 97,
+            "total_comment_lines": 0
+        }
+    }
+}

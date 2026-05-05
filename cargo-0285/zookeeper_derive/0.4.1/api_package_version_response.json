@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 208019,
+        "crate": "zookeeper_derive",
+        "num": "0.4.1",
+        "dl_path": "/api/v1/crates/zookeeper_derive/0.4.1/download",
+        "readme_path": "/api/v1/crates/zookeeper_derive/0.4.1/readme",
+        "updated_at": "2020-01-30T15:25:25.375556Z",
+        "created_at": "2020-01-30T15:25:25.375556Z",
+        "downloads": 962012,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper_derive/0.4.1/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper_derive/0.4.1/downloads",
+            "authors": "/api/v1/crates/zookeeper_derive/0.4.1/authors"
+        },
+        "crate_size": 2240,
+        "published_by": {
+            "id": 382,
+            "login": "bonifaido",
+            "name": "N\u00e1ndor Istv\u00e1n Kr\u00e1cser",
+            "avatar": "https://avatars.githubusercontent.com/u/23779?v=4",
+            "url": "https://github.com/bonifaido"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 382,
+                    "login": "bonifaido",
+                    "name": "N\u00e1ndor Istv\u00e1n Kr\u00e1cser",
+                    "avatar": "https://avatars.githubusercontent.com/u/23779?v=4",
+                    "url": "https://github.com/bonifaido"
+                },
+                "time": "2020-01-30T15:25:25.375556Z"
+            }
+        ],
+        "checksum": "42307291e3c8b2e4082e5647572da863f0470511d0ecb1618a4cd0a361549723",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Derive implementations used to build the ZooKeeper library",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 97,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 97,
+            "total_comment_lines": 0
+        }
+    }
+}

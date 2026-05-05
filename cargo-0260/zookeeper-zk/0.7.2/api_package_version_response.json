@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 779078,
+        "crate": "zookeeper-zk",
+        "num": "0.7.2",
+        "dl_path": "/api/v1/crates/zookeeper-zk/0.7.2/download",
+        "readme_path": "/api/v1/crates/zookeeper-zk/0.7.2/readme",
+        "updated_at": "2023-04-18T05:46:55.558563Z",
+        "created_at": "2023-04-18T05:46:55.558563Z",
+        "downloads": 1113,
+        "features": {
+            "unstable": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-zk/0.7.2/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-zk/0.7.2/downloads",
+            "authors": "/api/v1/crates/zookeeper-zk/0.7.2/authors"
+        },
+        "crate_size": 39140,
+        "published_by": {
+            "id": 206099,
+            "login": "yangsenzk",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/116810037?v=4",
+            "url": "https://github.com/yangsenzk"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 206099,
+                    "login": "yangsenzk",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/116810037?v=4",
+                    "url": "https://github.com/yangsenzk"
+                },
+                "time": "2023-04-18T05:46:55.558563Z"
+            }
+        ],
+        "checksum": "647fe02b22c021d89c5b0a264b799aefadcbba9fa7b5bf1d4ca516fa1e8b75e2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A minimal ZooKeeper client",
+        "homepage": "https://github.com/yangsenzk/rust-zookeeper",
+        "documentation": "https://github.com/yangsenzk/rust-zookeeper",
+        "repository": "https://github.com/yangsenzk/rust-zookeeper",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Kotlin": {
+                    "code_lines": 39,
+                    "comment_lines": 1,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 2541,
+                    "comment_lines": 80,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 2580,
+            "total_comment_lines": 81
+        }
+    }
+}
