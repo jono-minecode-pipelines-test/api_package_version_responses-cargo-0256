@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1355389,
+        "crate": "zram-generator",
+        "num": "1.2.0",
+        "dl_path": "/api/v1/crates/zram-generator/1.2.0/download",
+        "readme_path": "/api/v1/crates/zram-generator/1.2.0/readme",
+        "updated_at": "2024-11-28T10:48:00.714616Z",
+        "created_at": "2024-11-27T23:02:29.994599Z",
+        "downloads": 752,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zram-generator/1.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zram-generator/1.2.0/downloads",
+            "authors": "/api/v1/crates/zram-generator/1.2.0/authors"
+        },
+        "crate_size": 31360,
+        "published_by": {
+            "id": 27415,
+            "login": "keszybz",
+            "name": "Zbigniew J\u0119drzejewski-Szmek",
+            "avatar": "https://avatars.githubusercontent.com/u/349618?v=4",
+            "url": "https://github.com/keszybz"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 27415,
+                    "login": "keszybz",
+                    "name": "Zbigniew J\u0119drzejewski-Szmek",
+                    "avatar": "https://avatars.githubusercontent.com/u/349618?v=4",
+                    "url": "https://github.com/keszybz"
+                },
+                "time": "2024-11-27T23:02:29.994599Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 27415,
+                    "login": "keszybz",
+                    "name": "Zbigniew J\u0119drzejewski-Szmek",
+                    "avatar": "https://avatars.githubusercontent.com/u/349618?v=4",
+                    "url": "https://github.com/keszybz"
+                },
+                "time": "2024-11-28T10:48:00.717862Z"
+            }
+        ],
+        "checksum": "1524a0263333339e0fa98fb89fccbccccdf67a80ca48755abafd86b23ae50c98",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zram-generator"
+        ],
+        "edition": "2021",
+        "description": "Systemd unit generator for zram swap devices.",
+        "homepage": "https://github.com/systemd/zram-generator",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1351,
+                    "comment_lines": 28,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1351,
+            "total_comment_lines": 28
+        }
+    }
+}

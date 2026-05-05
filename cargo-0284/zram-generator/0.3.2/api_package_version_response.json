@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 343894,
+        "crate": "zram-generator",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zram-generator/0.3.2/download",
+        "readme_path": "/api/v1/crates/zram-generator/0.3.2/readme",
+        "updated_at": "2021-02-24T08:41:48.532524Z",
+        "created_at": "2021-02-24T08:41:48.532524Z",
+        "downloads": 1274,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zram-generator/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zram-generator/0.3.2/downloads",
+            "authors": "/api/v1/crates/zram-generator/0.3.2/authors"
+        },
+        "crate_size": 21237,
+        "published_by": {
+            "id": 27415,
+            "login": "keszybz",
+            "name": "Zbigniew J\u0119drzejewski-Szmek",
+            "avatar": "https://avatars.githubusercontent.com/u/349618?v=4",
+            "url": "https://github.com/keszybz"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 27415,
+                    "login": "keszybz",
+                    "name": "Zbigniew J\u0119drzejewski-Szmek",
+                    "avatar": "https://avatars.githubusercontent.com/u/349618?v=4",
+                    "url": "https://github.com/keszybz"
+                },
+                "time": "2021-02-24T08:41:48.532524Z"
+            }
+        ],
+        "checksum": "c2010f414b08cf423d9f93f35aa66aa2d9e7e4657ff107e8cc31e0c4cc13ae9f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zram-generator"
+        ],
+        "edition": "2018",
+        "description": "Systemd unit generator for zram swap devices.",
+        "homepage": "https://github.com/systemd/zram-generator",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 904,
+                    "comment_lines": 25,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 904,
+            "total_comment_lines": 25
+        }
+    }
+}

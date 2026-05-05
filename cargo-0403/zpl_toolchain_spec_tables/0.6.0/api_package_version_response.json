@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2048157,
+        "crate": "zpl_toolchain_spec_tables",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zpl_toolchain_spec_tables/0.6.0/download",
+        "readme_path": "/api/v1/crates/zpl_toolchain_spec_tables/0.6.0/readme",
+        "updated_at": "2026-02-21T01:53:37.147529Z",
+        "created_at": "2026-02-21T01:53:37.147529Z",
+        "downloads": 140,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl_toolchain_spec_tables/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpl_toolchain_spec_tables/0.6.0/downloads",
+            "authors": "/api/v1/crates/zpl_toolchain_spec_tables/0.6.0/authors"
+        },
+        "crate_size": 13320,
+        "published_by": {
+            "id": 387920,
+            "login": "trevordcampbell",
+            "name": "Trevor Campbell",
+            "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+            "url": "https://github.com/trevordcampbell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387920,
+                    "login": "trevordcampbell",
+                    "name": "Trevor Campbell",
+                    "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+                    "url": "https://github.com/trevordcampbell"
+                },
+                "time": "2026-02-21T01:53:37.147529Z"
+            }
+        ],
+        "checksum": "17378f898bc2b359e3177ca5f4a7897142dc8fb57f63c8f4c4a563c09a08fb65",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Parser tables and command spec data structures for the ZPL toolchain",
+        "homepage": "https://github.com/trevordcampbell/zpl-toolchain",
+        "documentation": null,
+        "repository": "https://github.com/trevordcampbell/zpl-toolchain",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 784,
+                    "comment_lines": 7,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 784,
+            "total_comment_lines": 7
+        }
+    }
+}

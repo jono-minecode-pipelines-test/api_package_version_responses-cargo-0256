@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 105317,
+        "crate": "zram-generator",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zram-generator/0.1.0/download",
+        "readme_path": "/api/v1/crates/zram-generator/0.1.0/readme",
+        "updated_at": "2018-08-25T09:11:23.255226Z",
+        "created_at": "2018-08-25T09:11:23.255226Z",
+        "downloads": 1463,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zram-generator/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zram-generator/0.1.0/downloads",
+            "authors": "/api/v1/crates/zram-generator/0.1.0/authors"
+        },
+        "crate_size": 4108,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "ceeb1d394ebe052778c1b42de3428810b216b1a0012ed9085b3234f4277e3c47",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zram-generator"
+        ],
+        "edition": null,
+        "description": "Systemd unit generator for zram devices",
+        "homepage": "https://github.com/systemd/zram-generator",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 211,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 211,
+            "total_comment_lines": 2
+        }
+    }
+}

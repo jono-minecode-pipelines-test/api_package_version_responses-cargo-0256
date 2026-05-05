@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2151322,
+        "crate": "zqlu",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zqlu/0.2.1/download",
+        "readme_path": "/api/v1/crates/zqlu/0.2.1/readme",
+        "updated_at": "2026-03-21T18:35:35.786334Z",
+        "created_at": "2026-03-21T18:35:35.786334Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zqlu/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zqlu/0.2.1/downloads",
+            "authors": "/api/v1/crates/zqlu/0.2.1/authors"
+        },
+        "crate_size": 27581,
+        "published_by": {
+            "id": 197768,
+            "login": "nresare",
+            "name": "Noa Resare",
+            "avatar": "https://avatars.githubusercontent.com/u/541939?v=4",
+            "url": "https://github.com/nresare"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 197768,
+                    "login": "nresare",
+                    "name": "Noa Resare",
+                    "avatar": "https://avatars.githubusercontent.com/u/541939?v=4",
+                    "url": "https://github.com/nresare"
+                },
+                "time": "2026-03-21T18:35:35.786334Z"
+            }
+        ],
+        "checksum": "f98fff7c82acfb8394af18104581ea647a5fc0e7e47b66ba844e055a51d4e9c0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zqlu"
+        ],
+        "edition": "2024",
+        "description": "zqlu is a convenient text-based format for public keys",
+        "homepage": "https://zq.lu",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 41,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 596,
+                    "comment_lines": 13,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 637,
+            "total_comment_lines": 13
+        }
+    }
+}
