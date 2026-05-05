@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1418055,
+        "crate": "zksync_state",
+        "num": "26.1.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_state/26.1.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_state/26.1.0-non-semver-compat/readme",
+        "updated_at": "2025-01-22T18:57:57.939541Z",
+        "created_at": "2025-01-22T18:57:57.939541Z",
+        "downloads": 665,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_state/26.1.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_state/26.1.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_state/26.1.0-non-semver-compat/authors"
+        },
+        "crate_size": 35390,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2025-01-22T18:57:57.939541Z"
+            }
+        ],
+        "checksum": "030006b0d8c7a1b774f1790ad9d95bff81714a969e1abff5b68bef8967b56ff0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync state keeper state",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3372,
+                    "comment_lines": 92,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 3372,
+            "total_comment_lines": 92
+        }
+    }
+}
