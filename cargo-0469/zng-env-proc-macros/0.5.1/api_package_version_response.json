@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1925966,
+        "crate": "zng-env-proc-macros",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zng-env-proc-macros/0.5.1/download",
+        "readme_path": "/api/v1/crates/zng-env-proc-macros/0.5.1/readme",
+        "updated_at": "2026-01-06T21:06:50.732855Z",
+        "created_at": "2026-01-06T21:06:50.732855Z",
+        "downloads": 1063,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-env-proc-macros/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-env-proc-macros/0.5.1/downloads",
+            "authors": "/api/v1/crates/zng-env-proc-macros/0.5.1/authors"
+        },
+        "crate_size": 4784,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-01-06T21:06:50.732855Z"
+            }
+        ],
+        "checksum": "47990c316b37b660375a9147c88eb234995550c3a43b8cd92fce8076b0dcdc63",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_env_proc_macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 160,
+                    "comment_lines": 17,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 160,
+            "total_comment_lines": 17
+        }
+    }
+}
