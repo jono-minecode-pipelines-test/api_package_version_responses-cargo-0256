@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2233209,
+        "crate": "zlayer-observability",
+        "num": "0.10.68",
+        "dl_path": "/api/v1/crates/zlayer-observability/0.10.68/download",
+        "readme_path": "/api/v1/crates/zlayer-observability/0.10.68/readme",
+        "updated_at": "2026-04-09T16:35:47.973946Z",
+        "created_at": "2026-04-09T16:35:47.973946Z",
+        "downloads": 14,
+        "features": {
+            "axum": [
+                "dep:axum"
+            ],
+            "default": [],
+            "propagation": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-observability/0.10.68/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-observability/0.10.68/downloads",
+            "authors": "/api/v1/crates/zlayer-observability/0.10.68/authors"
+        },
+        "crate_size": 36659,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-09T16:35:47.973946Z"
+            }
+        ],
+        "checksum": "ffa1f2a3de6362d1239917d02de4fd226b3bed756d5e1c46d0310e5f08a690ea",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "OpenTelemetry tracing and Prometheus metrics for ZLayer",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1698,
+                    "comment_lines": 47,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1698,
+            "total_comment_lines": 47
+        }
+    }
+}

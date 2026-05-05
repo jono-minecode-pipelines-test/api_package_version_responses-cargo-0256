@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2307641,
+        "crate": "zlayer-observability",
+        "num": "0.11.1",
+        "dl_path": "/api/v1/crates/zlayer-observability/0.11.1/download",
+        "readme_path": "/api/v1/crates/zlayer-observability/0.11.1/readme",
+        "updated_at": "2026-04-25T20:31:01.914980Z",
+        "created_at": "2026-04-25T20:31:01.914980Z",
+        "downloads": 12,
+        "features": {
+            "axum": [
+                "dep:axum"
+            ],
+            "default": [],
+            "propagation": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-observability/0.11.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-observability/0.11.1/downloads",
+            "authors": "/api/v1/crates/zlayer-observability/0.11.1/authors"
+        },
+        "crate_size": 36660,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-25T20:31:01.914980Z"
+            }
+        ],
+        "checksum": "54a74e7de3240af36a8da0b1402559458babd826cfc686a25d9f5d8c3138f0e6",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "OpenTelemetry tracing and Prometheus metrics for ZLayer",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1698,
+                    "comment_lines": 47,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1698,
+            "total_comment_lines": 47
+        }
+    }
+}
