@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 1796855,
+        "crate": "zoneinfo64",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zoneinfo64/0.2.1/download",
+        "readme_path": "/api/v1/crates/zoneinfo64/0.2.1/readme",
+        "updated_at": "2025-10-28T16:19:44.648533Z",
+        "created_at": "2025-10-28T16:19:44.648533Z",
+        "downloads": 1088292,
+        "features": {
+            "chrono": [
+                "dep:chrono"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Unicode-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo64/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo64/0.2.1/downloads",
+            "authors": "/api/v1/crates/zoneinfo64/0.2.1/authors"
+        },
+        "crate_size": 80706,
+        "published_by": {
+            "id": 1139,
+            "login": "Manishearth",
+            "name": "Manish Goregaokar",
+            "avatar": "https://avatars.githubusercontent.com/u/1617736?v=4",
+            "url": "https://github.com/Manishearth"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 1139,
+                    "login": "Manishearth",
+                    "name": "Manish Goregaokar",
+                    "avatar": "https://avatars.githubusercontent.com/u/1617736?v=4",
+                    "url": "https://github.com/Manishearth"
+                },
+                "time": "2025-10-28T16:19:44.648533Z"
+            }
+        ],
+        "checksum": "bb2e5597efbe7c421da8a7fd396b20b571704e787c21a272eecf35dfe9d386f0",
+        "rust_version": "1.82",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Working with ICU zoneinfo64.res timezone data bundles",
+        "homepage": "https://icu4x.unicode.org",
+        "documentation": null,
+        "repository": "https://github.com/unicode-org/icu4x",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "ReScript": {
+                    "code_lines": 444,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1536,
+                    "comment_lines": 115,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1980,
+            "total_comment_lines": 115
+        }
+    }
+}

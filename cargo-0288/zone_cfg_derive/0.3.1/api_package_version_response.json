@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1505975,
+        "crate": "zone_cfg_derive",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zone_cfg_derive/0.3.1/download",
+        "readme_path": "/api/v1/crates/zone_cfg_derive/0.3.1/readme",
+        "updated_at": "2025-04-01T21:14:40.934140Z",
+        "created_at": "2025-04-01T21:14:40.934140Z",
+        "downloads": 57731,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zone_cfg_derive/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zone_cfg_derive/0.3.1/downloads",
+            "authors": "/api/v1/crates/zone_cfg_derive/0.3.1/authors"
+        },
+        "crate_size": 5015,
+        "published_by": {
+            "id": 86039,
+            "login": "smklein",
+            "name": "Sean Klein",
+            "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+            "url": "https://github.com/smklein"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 86039,
+                    "login": "smklein",
+                    "name": "Sean Klein",
+                    "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+                    "url": "https://github.com/smklein"
+                },
+                "time": "2025-04-01T21:14:40.934140Z"
+            }
+        ],
+        "checksum": "ea6cd6c20bb854b78a242e19d51b21077fb60f5e409259d7573279a43bacdffa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust bindings for Zone management (proc macro generation helper)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/oxidecomputer/zone",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 334,
+                    "comment_lines": 14,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 334,
+            "total_comment_lines": 14
+        }
+    }
+}
