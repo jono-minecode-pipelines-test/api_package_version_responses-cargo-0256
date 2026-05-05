@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 449982,
+        "crate": "zuul",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zuul/0.1.0/download",
+        "readme_path": "/api/v1/crates/zuul/0.1.0/readme",
+        "updated_at": "2021-11-07T16:44:46.208072Z",
+        "created_at": "2021-11-07T16:44:46.208072Z",
+        "downloads": 1585,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuul/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuul/0.1.0/downloads",
+            "authors": "/api/v1/crates/zuul/0.1.0/authors"
+        },
+        "crate_size": 23767,
+        "published_by": {
+            "id": 137646,
+            "login": "TristanCacqueray",
+            "name": "Tristan de Cacqueray",
+            "avatar": "https://avatars.githubusercontent.com/u/154392?v=4",
+            "url": "https://github.com/TristanCacqueray"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 137646,
+                    "login": "TristanCacqueray",
+                    "name": "Tristan de Cacqueray",
+                    "avatar": "https://avatars.githubusercontent.com/u/154392?v=4",
+                    "url": "https://github.com/TristanCacqueray"
+                },
+                "time": "2021-11-07T16:44:46.208072Z"
+            }
+        ],
+        "checksum": "b43f96eebce9d14739d4c8689c117fef21999ce6d82cb3b48e4d96a502b3fc8a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A client library to interface with https://zuul-ci.org.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zuul/",
+        "repository": "https://github.com/TristanCacqueray/zuul-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 325,
+                    "comment_lines": 10,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 325,
+            "total_comment_lines": 10
+        }
+    }
+}

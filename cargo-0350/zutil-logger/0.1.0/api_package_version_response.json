@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1878560,
+        "crate": "zutil-logger",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zutil-logger/0.1.0/download",
+        "readme_path": "/api/v1/crates/zutil-logger/0.1.0/readme",
+        "updated_at": "2025-12-13T17:23:28.948213Z",
+        "created_at": "2025-12-13T17:23:28.948213Z",
+        "downloads": 215,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zutil-logger/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zutil-logger/0.1.0/downloads",
+            "authors": "/api/v1/crates/zutil-logger/0.1.0/authors"
+        },
+        "crate_size": 7652,
+        "published_by": {
+            "id": 75551,
+            "login": "Zenithsiz",
+            "name": "Filipe Rodrigues",
+            "avatar": "https://avatars.githubusercontent.com/u/34359769?v=4",
+            "url": "https://github.com/Zenithsiz"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 75551,
+                    "login": "Zenithsiz",
+                    "name": "Filipe Rodrigues",
+                    "avatar": "https://avatars.githubusercontent.com/u/34359769?v=4",
+                    "url": "https://github.com/Zenithsiz"
+                },
+                "time": "2025-12-13T17:23:28.948213Z"
+            }
+        ],
+        "checksum": "9c8dbf0e9190aded917d048533176339a10964c9fafee1735cf2110311322e50",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "`tracing` logger",
+        "homepage": "https://github.com/zenithsiz/zutil",
+        "documentation": null,
+        "repository": "https://github.com/zenithsiz/zutil",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 341,
+                    "comment_lines": 21,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 341,
+            "total_comment_lines": 21
+        }
+    }
+}

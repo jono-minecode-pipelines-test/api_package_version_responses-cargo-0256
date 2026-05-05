@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2173353,
+        "crate": "zuul-secrets",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zuul-secrets/0.1.0/download",
+        "readme_path": "/api/v1/crates/zuul-secrets/0.1.0/readme",
+        "updated_at": "2026-03-27T00:49:42.490606Z",
+        "created_at": "2026-03-27T00:49:42.490606Z",
+        "downloads": 14,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zuul-secrets/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zuul-secrets/0.1.0/downloads",
+            "authors": "/api/v1/crates/zuul-secrets/0.1.0/authors"
+        },
+        "crate_size": 207354,
+        "published_by": {
+            "id": 401358,
+            "login": "farmisen",
+            "name": "Fabrice",
+            "avatar": "https://avatars.githubusercontent.com/u/229946?v=4",
+            "url": "https://github.com/farmisen"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 401358,
+                    "login": "farmisen",
+                    "name": "Fabrice",
+                    "avatar": "https://avatars.githubusercontent.com/u/229946?v=4",
+                    "url": "https://github.com/farmisen"
+                },
+                "time": "2026-03-27T00:49:42.490606Z"
+            }
+        ],
+        "checksum": "90745f2c38d4a314695d709a28ce43639e65dcc7f071cff73f04b8c35ca17ff7",
+        "rust_version": "1.94",
+        "has_lib": true,
+        "bin_names": [
+            "zuul"
+        ],
+        "edition": "2024",
+        "description": "CLI tool for managing secrets across multiple environments, backed by pluggable cloud secret managers",
+        "homepage": "https://github.com/farmisen/zuul",
+        "documentation": null,
+        "repository": "https://github.com/farmisen/zuul",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "HCL": {
+                    "code_lines": 320,
+                    "comment_lines": 30,
+                    "files": 4
+                },
+                "Rust": {
+                    "code_lines": 7890,
+                    "comment_lines": 198,
+                    "files": 30
+                }
+            },
+            "total_code_lines": 8210,
+            "total_comment_lines": 228
+        }
+    }
+}
