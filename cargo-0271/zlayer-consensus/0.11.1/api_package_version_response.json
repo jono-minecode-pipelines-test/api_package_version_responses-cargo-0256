@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 2307636,
+        "crate": "zlayer-consensus",
+        "num": "0.11.1",
+        "dl_path": "/api/v1/crates/zlayer-consensus/0.11.1/download",
+        "readme_path": "/api/v1/crates/zlayer-consensus/0.11.1/readme",
+        "updated_at": "2026-04-25T20:29:23.340024Z",
+        "created_at": "2026-04-25T20:29:23.340024Z",
+        "downloads": 17,
+        "features": {
+            "default": [
+                "mem-store"
+            ],
+            "mem-store": [],
+            "redb-store": [
+                "dep:redb"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-consensus/0.11.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-consensus/0.11.1/downloads",
+            "authors": "/api/v1/crates/zlayer-consensus/0.11.1/authors"
+        },
+        "crate_size": 39650,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-25T20:29:23.340024Z"
+            }
+        ],
+        "checksum": "1fae6cfb2359bdecd5ec84165f69b602b3435b2fa63468a047f2901081735afc",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Shared Raft consensus library built on openraft 0.9 for ZLayer and Zatabase",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2133,
+                    "comment_lines": 60,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2133,
+            "total_comment_lines": 60
+        }
+    }
+}

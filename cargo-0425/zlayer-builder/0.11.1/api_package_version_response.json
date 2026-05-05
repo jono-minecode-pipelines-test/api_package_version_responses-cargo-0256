@@ -1,0 +1,82 @@
+{
+    "version": {
+        "id": 2307677,
+        "crate": "zlayer-builder",
+        "num": "0.11.1",
+        "dl_path": "/api/v1/crates/zlayer-builder/0.11.1/download",
+        "readme_path": "/api/v1/crates/zlayer-builder/0.11.1/readme",
+        "updated_at": "2026-04-25T20:37:07.778592Z",
+        "created_at": "2026-04-25T20:37:07.778592Z",
+        "downloads": 10,
+        "features": {
+            "cache": [
+                "oci-client",
+                "zlayer-core"
+            ],
+            "cache-persistent": [
+                "cache",
+                "zlayer-registry/persistent"
+            ],
+            "cache-s3": [
+                "cache",
+                "zlayer-registry/s3"
+            ],
+            "default": [],
+            "local-registry": [
+                "cache",
+                "zlayer-registry/local"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-builder/0.11.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-builder/0.11.1/downloads",
+            "authors": "/api/v1/crates/zlayer-builder/0.11.1/authors"
+        },
+        "crate_size": 296693,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-25T20:37:07.778592Z"
+            }
+        ],
+        "checksum": "b0e94000d0ad2644d6376bcec08a80ef473c8a0a6c69953efe1bdae7063712e9",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Dockerfile parsing and buildah-based container image building",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 23233,
+                    "comment_lines": 1683,
+                    "files": 39
+                }
+            },
+            "total_code_lines": 23233,
+            "total_comment_lines": 1683
+        }
+    }
+}
