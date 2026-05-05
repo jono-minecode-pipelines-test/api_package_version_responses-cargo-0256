@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 1896191,
+        "crate": "zombie_profiler",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zombie_profiler/0.0.2/download",
+        "readme_path": "/api/v1/crates/zombie_profiler/0.0.2/readme",
+        "updated_at": "2025-12-22T10:32:05.467597Z",
+        "created_at": "2025-12-22T10:32:05.467597Z",
+        "downloads": 22,
+        "features": {
+            "default": [
+                "std",
+                "ui"
+            ],
+            "std": [],
+            "ui": [
+                "std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zombie_profiler/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zombie_profiler/0.0.2/downloads",
+            "authors": "/api/v1/crates/zombie_profiler/0.0.2/authors"
+        },
+        "crate_size": 7040,
+        "published_by": {
+            "id": 337376,
+            "login": "kawayww",
+            "name": "K.Y.",
+            "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+            "url": "https://github.com/kawayww"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 337376,
+                    "login": "kawayww",
+                    "name": "K.Y.",
+                    "avatar": "https://avatars.githubusercontent.com/u/213631983?v=4",
+                    "url": "https://github.com/kawayww"
+                },
+                "time": "2025-12-22T10:32:05.467597Z"
+            }
+        ],
+        "checksum": "206d436bda11c5f8b36bcc017e8788c7ea3c833df6efee2dfec27306ba0a40f9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Zero-overhead profiling utilities for Zombie benchmarks",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kawayww/zombie-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 467,
+                    "comment_lines": 30,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 467,
+            "total_comment_lines": 30
+        }
+    }
+}
