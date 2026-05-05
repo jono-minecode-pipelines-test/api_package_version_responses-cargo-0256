@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 2122932,
+        "crate": "zng-tp-licenses",
+        "num": "0.8.1",
+        "dl_path": "/api/v1/crates/zng-tp-licenses/0.8.1/download",
+        "readme_path": "/api/v1/crates/zng-tp-licenses/0.8.1/readme",
+        "updated_at": "2026-03-14T20:06:25.216152Z",
+        "created_at": "2026-03-14T20:06:25.216152Z",
+        "downloads": 1164,
+        "features": {
+            "build": [
+                "dep:serde_json",
+                "dep:deflate",
+                "dep:bincode"
+            ],
+            "bundle": [
+                "dep:inflate",
+                "dep:bincode"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-tp-licenses/0.8.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-tp-licenses/0.8.1/downloads",
+            "authors": "/api/v1/crates/zng-tp-licenses/0.8.1/authors"
+        },
+        "crate_size": 6024,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-03-14T20:06:25.216152Z"
+            }
+        ],
+        "checksum": "628734f324c8276b54ed612334338414fa6dd38da704b93205fe70aff060a7ca",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_third_party_licenses",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 209,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 209,
+            "total_comment_lines": 1
+        }
+    }
+}
