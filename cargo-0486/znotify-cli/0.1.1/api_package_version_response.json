@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 661657,
+        "crate": "znotify-cli",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/znotify-cli/0.1.1/download",
+        "readme_path": "/api/v1/crates/znotify-cli/0.1.1/readme",
+        "updated_at": "2022-11-11T18:08:57.037500Z",
+        "created_at": "2022-11-11T18:08:57.037500Z",
+        "downloads": 1514,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/znotify-cli/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/znotify-cli/0.1.1/downloads",
+            "authors": "/api/v1/crates/znotify-cli/0.1.1/authors"
+        },
+        "crate_size": 14000,
+        "published_by": {
+            "id": 181814,
+            "login": "Zxilly",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+            "url": "https://github.com/Zxilly"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181814,
+                    "login": "Zxilly",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/31370133?v=4",
+                    "url": "https://github.com/Zxilly"
+                },
+                "time": "2022-11-11T18:08:57.037500Z"
+            }
+        ],
+        "checksum": "082d7277c0e726ba3b0e2dfecf54e931545093611b404a7c094907cda84edc84",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "znotify"
+        ],
+        "edition": "2021",
+        "description": "Send notification to ZNotify server",
+        "homepage": "https://github.com/ZNotify/cli",
+        "documentation": null,
+        "repository": "https://github.com/ZNotify/cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 195,
+                    "comment_lines": 0,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 195,
+            "total_comment_lines": 0
+        }
+    }
+}
