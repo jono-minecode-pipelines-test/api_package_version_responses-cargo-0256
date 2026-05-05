@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1969865,
+        "crate": "zune-farbfeld",
+        "num": "0.5.1",
+        "dl_path": "/api/v1/crates/zune-farbfeld/0.5.1/download",
+        "readme_path": "/api/v1/crates/zune-farbfeld/0.5.1/readme",
+        "updated_at": "2026-01-24T18:01:15.684518Z",
+        "created_at": "2026-01-24T18:01:15.684518Z",
+        "downloads": 59,
+        "features": {
+            "log": [
+                "zune-core/log"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0 OR Zlib",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-farbfeld/0.5.1/dependencies",
+            "version_downloads": "/api/v1/crates/zune-farbfeld/0.5.1/downloads",
+            "authors": "/api/v1/crates/zune-farbfeld/0.5.1/authors"
+        },
+        "crate_size": 10744,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2026-01-24T18:01:15.684518Z"
+            }
+        ],
+        "checksum": "f6aa7b94d9459f9c3fdd251e435f9b8b5d73d2b3b7d96aa27b95777042fd2c4a",
+        "rust_version": "1.87.0",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Farbfeld image decoder",
+        "homepage": "https://github.com/etemesi254/zune-image/tree/dev/crates/zune-farbfeld",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 249,
+                    "comment_lines": 36,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 249,
+            "total_comment_lines": 36
+        }
+    }
+}

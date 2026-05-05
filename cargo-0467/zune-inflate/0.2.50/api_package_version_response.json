@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 725837,
+        "crate": "zune-inflate",
+        "num": "0.2.50",
+        "dl_path": "/api/v1/crates/zune-inflate/0.2.50/download",
+        "readme_path": "/api/v1/crates/zune-inflate/0.2.50/readme",
+        "updated_at": "2023-02-13T08:51:36.003997Z",
+        "created_at": "2023-02-13T08:51:36.003997Z",
+        "downloads": 423225,
+        "features": {
+            "default": [
+                "zlib",
+                "gzip",
+                "std"
+            ],
+            "gzip": [],
+            "std": [],
+            "zlib": [
+                "simd-adler32"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zune-inflate/0.2.50/dependencies",
+            "version_downloads": "/api/v1/crates/zune-inflate/0.2.50/downloads",
+            "authors": "/api/v1/crates/zune-inflate/0.2.50/authors"
+        },
+        "crate_size": 37058,
+        "published_by": {
+            "id": 159371,
+            "login": "etemesi254",
+            "name": "Caleb Etemesi",
+            "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+            "url": "https://github.com/etemesi254"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 159371,
+                    "login": "etemesi254",
+                    "name": "Caleb Etemesi",
+                    "avatar": "https://avatars.githubusercontent.com/u/24320659?v=4",
+                    "url": "https://github.com/etemesi254"
+                },
+                "time": "2023-02-13T08:51:36.003997Z"
+            }
+        ],
+        "checksum": "589245df6230839c305984dcc0a8385cc72af1fd223f360ffd5d65efa4216d40",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A heavily optimized deflate decompressor in Pure Rust",
+        "homepage": "https://github.com/etemesi254/zune-image/tree/main/zune-inflate",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1698,
+                    "comment_lines": 347,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1698,
+            "total_comment_lines": 347
+        }
+    }
+}
