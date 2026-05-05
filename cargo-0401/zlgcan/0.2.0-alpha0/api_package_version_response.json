@@ -1,0 +1,79 @@
+{
+    "version": {
+        "id": 1489477,
+        "crate": "zlgcan",
+        "num": "0.2.0-alpha0",
+        "dl_path": "/api/v1/crates/zlgcan/0.2.0-alpha0/download",
+        "readme_path": "/api/v1/crates/zlgcan/0.2.0-alpha0/readme",
+        "updated_at": "2025-03-20T07:25:22.088935Z",
+        "created_at": "2025-03-20T07:25:22.088935Z",
+        "downloads": 723,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlgcan/0.2.0-alpha0/dependencies",
+            "version_downloads": "/api/v1/crates/zlgcan/0.2.0-alpha0/downloads",
+            "authors": "/api/v1/crates/zlgcan/0.2.0-alpha0/authors"
+        },
+        "crate_size": 6814134,
+        "published_by": {
+            "id": 213250,
+            "login": "jesses2025smith",
+            "name": "Jesse Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+            "url": "https://github.com/jesses2025smith"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 213250,
+                    "login": "jesses2025smith",
+                    "name": "Jesse Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+                    "url": "https://github.com/jesses2025smith"
+                },
+                "time": "2025-03-20T07:25:22.088935Z"
+            }
+        ],
+        "checksum": "8cd1c98e4e87fe156a9dafb5297c02b4eadbf109edec03a3ee3c5ac3e5351511",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Cross-platform ZLGCAN driver.",
+        "homepage": "https://github.com/zhuyu4839/rust-can",
+        "documentation": null,
+        "repository": "https://github.com/zhuyu4839/rust-can",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 563,
+                    "comment_lines": 20,
+                    "files": 2
+                },
+                "C Header": {
+                    "code_lines": 4969,
+                    "comment_lines": 1119,
+                    "files": 29
+                },
+                "C++": {
+                    "code_lines": 377,
+                    "comment_lines": 13,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 5227,
+                    "comment_lines": 123,
+                    "files": 34
+                }
+            },
+            "total_code_lines": 11136,
+            "total_comment_lines": 1275
+        }
+    }
+}

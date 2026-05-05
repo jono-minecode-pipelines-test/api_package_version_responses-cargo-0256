@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 1474270,
+        "crate": "zlib-header",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlib-header/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlib-header/0.1.0/readme",
+        "updated_at": "2025-03-07T21:15:03.134069Z",
+        "created_at": "2025-03-07T20:54:47.140815Z",
+        "downloads": 526,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-header/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-header/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlib-header/0.1.0/authors"
+        },
+        "crate_size": 4143,
+        "published_by": {
+            "id": 319716,
+            "login": "DrFrugalOfficial",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+            "url": "https://github.com/DrFrugalOfficial"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T20:54:47.140815Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:14:36.658654Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:14:58.815767Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:15:03.136606Z"
+            }
+        ],
+        "checksum": "b5021132586b42df9f150f4c10feb7d1d254bf30bb2075c41a9e5f9b5a87cdd1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Library to work with the 2 Byte zlib header, as defined in RFC 1950.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 181,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 181,
+            "total_comment_lines": 0
+        }
+    }
+}

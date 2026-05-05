@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1638276,
+        "crate": "zlgcan",
+        "num": "0.3.0-b0",
+        "dl_path": "/api/v1/crates/zlgcan/0.3.0-b0/download",
+        "readme_path": "/api/v1/crates/zlgcan/0.3.0-b0/readme",
+        "updated_at": "2025-07-12T01:10:02.621033Z",
+        "created_at": "2025-07-12T01:10:02.621033Z",
+        "downloads": 367,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlgcan/0.3.0-b0/dependencies",
+            "version_downloads": "/api/v1/crates/zlgcan/0.3.0-b0/downloads",
+            "authors": "/api/v1/crates/zlgcan/0.3.0-b0/authors"
+        },
+        "crate_size": 47445,
+        "published_by": {
+            "id": 213250,
+            "login": "jesses2025smith",
+            "name": "Jesse Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+            "url": "https://github.com/jesses2025smith"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 213250,
+                    "login": "jesses2025smith",
+                    "name": "Jesse Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/15953541?v=4",
+                    "url": "https://github.com/jesses2025smith"
+                },
+                "time": "2025-07-12T01:10:02.621033Z"
+            }
+        ],
+        "checksum": "55b167ccf10885c8f873986adb554fdcacd38969fd328c557f41b0446df35a85",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A Cross-platform ZLGCAN driver.",
+        "homepage": "https://github.com/jesses2025smith/rust-can/tree/master/zlgcan",
+        "documentation": null,
+        "repository": "https://github.com/jesses2025smith/rust-can",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6378,
+                    "comment_lines": 112,
+                    "files": 58
+                }
+            },
+            "total_code_lines": 6378,
+            "total_comment_lines": 112
+        }
+    }
+}
