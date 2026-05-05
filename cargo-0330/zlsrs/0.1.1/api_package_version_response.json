@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 1432658,
+        "crate": "zlsrs",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zlsrs/0.1.1/download",
+        "readme_path": "/api/v1/crates/zlsrs/0.1.1/readme",
+        "updated_at": "2025-02-04T09:18:38.536669Z",
+        "created_at": "2025-02-04T09:18:38.536669Z",
+        "downloads": 636,
+        "features": {
+            "default": [
+                "zfile",
+                "zerror"
+            ],
+            "full": [
+                "default",
+                "zlog"
+            ],
+            "zerror": [],
+            "zfile": [],
+            "zlog": [
+                "time",
+                "tracing",
+                "tracing-appender",
+                "tracing-subscriber"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlsrs/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlsrs/0.1.1/downloads",
+            "authors": "/api/v1/crates/zlsrs/0.1.1/authors"
+        },
+        "crate_size": 8802,
+        "published_by": {
+            "id": 313957,
+            "login": "sohaha",
+            "name": "Ryan",
+            "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+            "url": "https://github.com/sohaha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 313957,
+                    "login": "sohaha",
+                    "name": "Ryan",
+                    "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+                    "url": "https://github.com/sohaha"
+                },
+                "time": "2025-02-04T09:18:38.536669Z"
+            }
+        ],
+        "checksum": "498c35865cef93503d4f8f8082b8979bf8cf92288d92e82f9b8f3b401edc1663",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust \u6807\u51c6\u5e93\u6269\u5c55\u5de5\u5177\u96c6\uff0c\u63d0\u4f9b\u66f4\u4fbf\u6377\u7684\u4f7f\u7528\u65b9\u5f0f",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/sohaha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 411,
+                    "comment_lines": 33,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 411,
+            "total_comment_lines": 33
+        }
+    }
+}

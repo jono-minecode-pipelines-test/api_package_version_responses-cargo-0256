@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2347934,
+        "crate": "zlog-gpui-unofficial",
+        "num": "1.0.1",
+        "dl_path": "/api/v1/crates/zlog-gpui-unofficial/1.0.1/download",
+        "readme_path": "/api/v1/crates/zlog-gpui-unofficial/1.0.1/readme",
+        "updated_at": "2026-05-04T14:05:54.208491Z",
+        "created_at": "2026-05-04T14:05:54.208491Z",
+        "downloads": 33,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zlog-gpui-unofficial/1.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlog-gpui-unofficial/1.0.1/downloads",
+            "authors": "/api/v1/crates/zlog-gpui-unofficial/1.0.1/authors"
+        },
+        "crate_size": 31434,
+        "published_by": {
+            "id": 233347,
+            "login": "iamnbutler",
+            "name": "Nate Butler",
+            "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+            "url": "https://github.com/iamnbutler"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 233347,
+                    "login": "iamnbutler",
+                    "name": "Nate Butler",
+                    "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+                    "url": "https://github.com/iamnbutler"
+                },
+                "time": "2026-05-04T14:05:54.208491Z"
+            }
+        ],
+        "checksum": "c7d6f22a55a47745f4941dc1ed41d41ee80cb0a768fd1c8c58870d80ac5ee7b7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Unofficial release of Zed's zlog crate",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/iamnbutler/gpui-unofficial",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1468,
+                    "comment_lines": 36,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1468,
+            "total_comment_lines": 36
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "version": {
+        "id": 1442231,
+        "crate": "zlsrs",
+        "num": "0.1.12",
+        "dl_path": "/api/v1/crates/zlsrs/0.1.12/download",
+        "readme_path": "/api/v1/crates/zlsrs/0.1.12/readme",
+        "updated_at": "2025-02-11T12:09:57.262049Z",
+        "created_at": "2025-02-11T12:09:57.262049Z",
+        "downloads": 619,
+        "features": {
+            "default": [
+                "zfile",
+                "zerror",
+                "zlog",
+                "zhttp",
+                "zutil",
+                "json"
+            ],
+            "full": [
+                "zfile",
+                "zerror",
+                "zlog",
+                "zhttp",
+                "zutil"
+            ],
+            "json": [
+                "dep:serde",
+                "dep:serde_json"
+            ],
+            "tracing": [
+                "dep:tracing",
+                "dep:tracing-appender",
+                "dep:tracing-subscriber"
+            ],
+            "zerror": [],
+            "zfile": [
+                "zerror"
+            ],
+            "zhttp": [
+                "dep:url",
+                "dep:urlencoding",
+                "dep:thiserror",
+                "dep:base64",
+                "dep:uuid",
+                "dep:rustls",
+                "dep:rustls-native-certs"
+            ],
+            "zlog": [
+                "dep:time",
+                "dep:log"
+            ],
+            "zutil": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlsrs/0.1.12/dependencies",
+            "version_downloads": "/api/v1/crates/zlsrs/0.1.12/downloads",
+            "authors": "/api/v1/crates/zlsrs/0.1.12/authors"
+        },
+        "crate_size": 34669,
+        "published_by": {
+            "id": 313957,
+            "login": "sohaha",
+            "name": "Ryan",
+            "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+            "url": "https://github.com/sohaha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 313957,
+                    "login": "sohaha",
+                    "name": "Ryan",
+                    "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+                    "url": "https://github.com/sohaha"
+                },
+                "time": "2025-02-11T12:09:57.262049Z"
+            }
+        ],
+        "checksum": "77bac1dfd3a66c8393951645bda0a881a2e35a41068111fc7fdbdbed1cd646a9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust \u6807\u51c6\u5e93\u6269\u5c55\u5de5\u5177\u96c6\uff0c\u63d0\u4f9b\u66f4\u4fbf\u6377\u7684\u4f7f\u7528\u65b9\u5f0f",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/sohaha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1993,
+                    "comment_lines": 66,
+                    "files": 25
+                }
+            },
+            "total_code_lines": 1993,
+            "total_comment_lines": 66
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "version": {
+        "id": 1451821,
+        "crate": "zlsrs",
+        "num": "0.1.18",
+        "dl_path": "/api/v1/crates/zlsrs/0.1.18/download",
+        "readme_path": "/api/v1/crates/zlsrs/0.1.18/readme",
+        "updated_at": "2025-02-19T06:29:12.508840Z",
+        "created_at": "2025-02-19T06:29:12.508840Z",
+        "downloads": 658,
+        "features": {
+            "async": [
+                "dep:tokio",
+                "dep:tokio-native-tls",
+                "zerror"
+            ],
+            "default": [
+                "macros",
+                "zfile",
+                "zerror",
+                "zlog",
+                "zhttp",
+                "zutil",
+                "json",
+                "async"
+            ],
+            "full": [
+                "macros",
+                "zfile",
+                "zerror",
+                "zlog",
+                "zhttp",
+                "zutil",
+                "json"
+            ],
+            "json": [
+                "dep:serde",
+                "dep:serde_json"
+            ],
+            "macros": [],
+            "native-tls": [
+                "dep:native-tls"
+            ],
+            "rustls": [
+                "dep:tokio-rustls",
+                "dep:rustls",
+                "dep:rustls-native-certs"
+            ],
+            "tracing": [
+                "dep:tracing",
+                "dep:tracing-appender",
+                "dep:tracing-subscriber"
+            ],
+            "webpki-roots": [
+                "dep:webpki-roots"
+            ],
+            "zerror": [],
+            "zfile": [
+                "zerror"
+            ],
+            "zhttp": [
+                "zfile",
+                "zerror",
+                "dep:url",
+                "dep:urlencoding",
+                "dep:base64",
+                "dep:uuid",
+                "native-tls"
+            ],
+            "zlog": [
+                "dep:time",
+                "dep:log"
+            ],
+            "zutil": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlsrs/0.1.18/dependencies",
+            "version_downloads": "/api/v1/crates/zlsrs/0.1.18/downloads",
+            "authors": "/api/v1/crates/zlsrs/0.1.18/authors"
+        },
+        "crate_size": 43795,
+        "published_by": {
+            "id": 313957,
+            "login": "sohaha",
+            "name": "Ryan",
+            "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+            "url": "https://github.com/sohaha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 313957,
+                    "login": "sohaha",
+                    "name": "Ryan",
+                    "avatar": "https://avatars.githubusercontent.com/u/18098083?v=4",
+                    "url": "https://github.com/sohaha"
+                },
+                "time": "2025-02-19T06:29:12.508840Z"
+            }
+        ],
+        "checksum": "ac9ae92125131a9405d73a33caf5fae2cc2a6b90950680d2a01d0b6be07d3099",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust \u6807\u51c6\u5e93\u6269\u5c55\u5de5\u5177\u96c6\uff0c\u63d0\u4f9b\u66f4\u4fbf\u6377\u7684\u4f7f\u7528\u65b9\u5f0f",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/sohaha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2163,
+                    "comment_lines": 58,
+                    "files": 25
+                }
+            },
+            "total_code_lines": 2163,
+            "total_comment_lines": 58
+        }
+    }
+}

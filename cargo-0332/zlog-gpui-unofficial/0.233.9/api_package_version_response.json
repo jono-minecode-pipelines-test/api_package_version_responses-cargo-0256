@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2301265,
+        "crate": "zlog-gpui-unofficial",
+        "num": "0.233.9",
+        "dl_path": "/api/v1/crates/zlog-gpui-unofficial/0.233.9/download",
+        "readme_path": "/api/v1/crates/zlog-gpui-unofficial/0.233.9/readme",
+        "updated_at": "2026-04-24T14:03:41.180345Z",
+        "created_at": "2026-04-24T14:03:41.180345Z",
+        "downloads": 20,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zlog-gpui-unofficial/0.233.9/dependencies",
+            "version_downloads": "/api/v1/crates/zlog-gpui-unofficial/0.233.9/downloads",
+            "authors": "/api/v1/crates/zlog-gpui-unofficial/0.233.9/authors"
+        },
+        "crate_size": 31134,
+        "published_by": {
+            "id": 233347,
+            "login": "iamnbutler",
+            "name": "Nate Butler",
+            "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+            "url": "https://github.com/iamnbutler"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 233347,
+                    "login": "iamnbutler",
+                    "name": "Nate Butler",
+                    "avatar": "https://avatars.githubusercontent.com/u/1714999?v=4",
+                    "url": "https://github.com/iamnbutler"
+                },
+                "time": "2026-04-24T14:03:41.180345Z"
+            }
+        ],
+        "checksum": "ec8e0811ccf4d63903fa72b210e9a028335b3f7f1985f24cb1469e704214fd03",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Unofficial release of Zed's zlog crate",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/iamnbutler/gpui-unofficial",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1468,
+                    "comment_lines": 36,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1468,
+            "total_comment_lines": 36
+        }
+    }
+}

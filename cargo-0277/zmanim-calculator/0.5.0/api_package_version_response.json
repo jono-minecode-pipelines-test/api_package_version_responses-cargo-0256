@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 2084367,
+        "crate": "zmanim-calculator",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zmanim-calculator/0.5.0/download",
+        "readme_path": "/api/v1/crates/zmanim-calculator/0.5.0/readme",
+        "updated_at": "2026-03-04T01:49:11.352177Z",
+        "created_at": "2026-03-04T01:49:11.352177Z",
+        "downloads": 19,
+        "features": {
+            "c": [
+                "std",
+                "dep:interoptopus",
+                "dep:interoptopus_backend_c"
+            ],
+            "default": [],
+            "defmt": [
+                "dep:defmt"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "LGPL-2.1",
+        "links": {
+            "dependencies": "/api/v1/crates/zmanim-calculator/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmanim-calculator/0.5.0/downloads",
+            "authors": "/api/v1/crates/zmanim-calculator/0.5.0/authors"
+        },
+        "crate_size": 437316,
+        "published_by": {
+            "id": 352357,
+            "login": "dickermoshe",
+            "name": "Moshe Dicker",
+            "avatar": "https://avatars.githubusercontent.com/u/75931499?v=4",
+            "url": "https://github.com/dickermoshe"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 352357,
+                    "login": "dickermoshe",
+                    "name": "Moshe Dicker",
+                    "avatar": "https://avatars.githubusercontent.com/u/75931499?v=4",
+                    "url": "https://github.com/dickermoshe"
+                },
+                "time": "2026-03-04T01:49:11.352177Z"
+            }
+        ],
+        "checksum": "b0eca055d9a7d9cfb7057abe82c84d937bddaf8e8ca4982a40e5f0ab0039486f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "build_c_headers"
+        ],
+        "edition": "2021",
+        "description": "A comprehensive Rust library for calculating Zmanim with no_std support",
+        "homepage": "https://github.com/dickermoshe/rust-zmanim-project",
+        "documentation": "https://docs.rs/zmanim-calculator",
+        "repository": "https://github.com/dickermoshe/rust-zmanim-project",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 54,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Java": {
+                    "code_lines": 5001,
+                    "comment_lines": 9994,
+                    "files": 22
+                },
+                "Python": {
+                    "code_lines": 118,
+                    "comment_lines": 7,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 4075,
+                    "comment_lines": 10,
+                    "files": 11
+                },
+                "Shell": {
+                    "code_lines": 11,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 9259,
+            "total_comment_lines": 10012
+        }
+    }
+}
