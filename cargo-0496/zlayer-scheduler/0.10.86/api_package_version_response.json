@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2278621,
+        "crate": "zlayer-scheduler",
+        "num": "0.10.86",
+        "dl_path": "/api/v1/crates/zlayer-scheduler/0.10.86/download",
+        "readme_path": "/api/v1/crates/zlayer-scheduler/0.10.86/readme",
+        "updated_at": "2026-04-19T21:11:43.854333Z",
+        "created_at": "2026-04-19T21:11:43.854333Z",
+        "downloads": 14,
+        "features": {
+            "persistent": [
+                "zlayer-consensus/redb-store"
+            ],
+            "test-skip-http": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-scheduler/0.10.86/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-scheduler/0.10.86/downloads",
+            "authors": "/api/v1/crates/zlayer-scheduler/0.10.86/authors"
+        },
+        "crate_size": 75507,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-19T21:11:43.854333Z"
+            }
+        ],
+        "checksum": "77dc2de84bb20b300f8fe013fdf156ae71f8f5cf65d8c11b01d1b082d24257ed",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Raft-based distributed scheduler for container orchestration",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4621,
+                    "comment_lines": 297,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 4621,
+            "total_comment_lines": 297
+        }
+    }
+}
