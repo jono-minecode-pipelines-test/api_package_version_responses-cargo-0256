@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 606851,
+        "crate": "zombienet-execution-kubernetes",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zombienet-execution-kubernetes/0.0.0/download",
+        "readme_path": "/api/v1/crates/zombienet-execution-kubernetes/0.0.0/readme",
+        "updated_at": "2022-08-22T09:37:39.696066Z",
+        "created_at": "2022-08-22T09:37:39.696066Z",
+        "downloads": 1622,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-execution-kubernetes/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-execution-kubernetes/0.0.0/downloads",
+            "authors": "/api/v1/crates/zombienet-execution-kubernetes/0.0.0/authors"
+        },
+        "crate_size": 925,
+        "published_by": {
+            "id": 6840,
+            "login": "drahnr",
+            "name": "Bernhard Schuster",
+            "avatar": "https://avatars.githubusercontent.com/u/667047?v=4",
+            "url": "https://github.com/drahnr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6840,
+                    "login": "drahnr",
+                    "name": "Bernhard Schuster",
+                    "avatar": "https://avatars.githubusercontent.com/u/667047?v=4",
+                    "url": "https://github.com/drahnr"
+                },
+                "time": "2022-08-22T09:37:39.696066Z"
+            }
+        ],
+        "checksum": "193363a7c910de7b4860af9619d127b032f5541c18034c646386af999de964d6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zombienet-execution-kubernetes"
+        ],
+        "edition": "2021",
+        "description": "Integration test for Polkadot based repos, execution impl kubernetes",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/drahnr/zombienet.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
