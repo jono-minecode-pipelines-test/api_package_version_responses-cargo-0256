@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 476136,
+        "crate": "zsplit",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zsplit/0.2.1/download",
+        "readme_path": "/api/v1/crates/zsplit/0.2.1/readme",
+        "updated_at": "2022-01-02T20:45:56.685278Z",
+        "created_at": "2022-01-02T20:45:56.685278Z",
+        "downloads": 1168,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zsplit/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zsplit/0.2.1/downloads",
+            "authors": "/api/v1/crates/zsplit/0.2.1/authors"
+        },
+        "crate_size": 32255,
+        "published_by": {
+            "id": 113130,
+            "login": "TheAlgorythm",
+            "name": "zSchoen",
+            "avatar": "https://avatars.githubusercontent.com/u/36081522?v=4",
+            "url": "https://github.com/TheAlgorythm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 113130,
+                    "login": "TheAlgorythm",
+                    "name": "zSchoen",
+                    "avatar": "https://avatars.githubusercontent.com/u/36081522?v=4",
+                    "url": "https://github.com/TheAlgorythm"
+                },
+                "time": "2022-01-02T20:45:56.685278Z"
+            }
+        ],
+        "checksum": "888fa797228fa1080db2d34d71d58d28e61fd6285aa0ba3a2888c18df3898311",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zsplit"
+        ],
+        "edition": "2018",
+        "description": "Split text into multiple files",
+        "homepage": "https://zschoen.dev/projects/zsplit",
+        "documentation": "https://docs.rs/crate/zsplit",
+        "repository": "https://github.com/TheAlgorythm/zsplit",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 391,
+                    "comment_lines": 4,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 391,
+            "total_comment_lines": 4
+        }
+    }
+}

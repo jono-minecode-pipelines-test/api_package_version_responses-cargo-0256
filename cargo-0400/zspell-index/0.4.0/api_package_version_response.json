@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1018102,
+        "crate": "zspell-index",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zspell-index/0.4.0/download",
+        "readme_path": "/api/v1/crates/zspell-index/0.4.0/readme",
+        "updated_at": "2024-01-18T12:15:15.172153Z",
+        "created_at": "2024-01-18T12:15:15.172153Z",
+        "downloads": 1163,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zspell-index/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zspell-index/0.4.0/downloads",
+            "authors": "/api/v1/crates/zspell-index/0.4.0/authors"
+        },
+        "crate_size": 1795,
+        "published_by": {
+            "id": 157114,
+            "login": "tgross35",
+            "name": "Trevor Gross",
+            "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+            "url": "https://github.com/tgross35"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157114,
+                    "login": "tgross35",
+                    "name": "Trevor Gross",
+                    "avatar": "https://avatars.githubusercontent.com/u/13724985?v=4",
+                    "url": "https://github.com/tgross35"
+                },
+                "time": "2024-01-18T12:15:15.172153Z"
+            }
+        ],
+        "checksum": "bc65ceb80466fc6a4ff296f4c397e3aa7d92212a0103715835551918ced50a4d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Index format for the ZSpell spellchecker",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pluots/zspell-index",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 47,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 47,
+            "total_comment_lines": 1
+        }
+    }
+}
