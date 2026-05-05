@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1219782,
+        "crate": "zookeeper-cache",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zookeeper-cache/0.1.2/download",
+        "readme_path": "/api/v1/crates/zookeeper-cache/0.1.2/readme",
+        "updated_at": "2024-07-31T12:13:56.553938Z",
+        "created_at": "2024-07-31T12:13:56.553938Z",
+        "downloads": 1265,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zookeeper-cache/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zookeeper-cache/0.1.2/downloads",
+            "authors": "/api/v1/crates/zookeeper-cache/0.1.2/authors"
+        },
+        "crate_size": 10295,
+        "published_by": {
+            "id": 238859,
+            "login": "misssonder",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/44472482?v=4",
+            "url": "https://github.com/misssonder"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 238859,
+                    "login": "misssonder",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/44472482?v=4",
+                    "url": "https://github.com/misssonder"
+                },
+                "time": "2024-07-31T12:13:56.553938Z"
+            }
+        ],
+        "checksum": "9b94ea6ed16ddcb698b8f5903f13a31b01063c22728f9260f6e1d8bbb28a67a1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZooKeeper client cache",
+        "homepage": "https://github.com/misssonder/zookeeper-cache-rust",
+        "documentation": null,
+        "repository": "https://github.com/misssonder/zookeeper-cache-rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 767,
+                    "comment_lines": 12,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 767,
+            "total_comment_lines": 12
+        }
+    }
+}

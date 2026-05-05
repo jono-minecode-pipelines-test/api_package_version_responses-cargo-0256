@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 121751,
+        "crate": "zonename",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zonename/0.1.0/download",
+        "readme_path": "/api/v1/crates/zonename/0.1.0/readme",
+        "updated_at": "2018-12-10T21:42:12.903775Z",
+        "created_at": "2018-12-10T21:42:12.903775Z",
+        "downloads": 2302,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zonename/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonename/0.1.0/downloads",
+            "authors": "/api/v1/crates/zonename/0.1.0/authors"
+        },
+        "crate_size": 2394,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "ea9a7a2352c276be710aba103c4ec5d36d195bcac8e14b61d9641d183acc8fae",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zonename"
+        ],
+        "edition": null,
+        "description": "Bindings to getzoneid(3C), getzoneidbyname(3C), and getzonenamebyid(3C) for illumos based systems.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/bahamas10/rust-zonename",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 70,
+                    "comment_lines": 8,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 70,
+            "total_comment_lines": 8
+        }
+    }
+}

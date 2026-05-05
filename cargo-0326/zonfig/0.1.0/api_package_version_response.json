@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2319177,
+        "crate": "zonfig",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zonfig/0.1.0/download",
+        "readme_path": "/api/v1/crates/zonfig/0.1.0/readme",
+        "updated_at": "2026-04-28T09:31:51.718356Z",
+        "created_at": "2026-04-28T09:31:51.718356Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zonfig/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonfig/0.1.0/downloads",
+            "authors": "/api/v1/crates/zonfig/0.1.0/authors"
+        },
+        "crate_size": 14086,
+        "published_by": {
+            "id": 207555,
+            "login": "zlx2019",
+            "name": "Zero",
+            "avatar": "https://avatars.githubusercontent.com/u/53161693?v=4",
+            "url": "https://github.com/zlx2019"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 207555,
+                    "login": "zlx2019",
+                    "name": "Zero",
+                    "avatar": "https://avatars.githubusercontent.com/u/53161693?v=4",
+                    "url": "https://github.com/zlx2019"
+                },
+                "time": "2026-04-28T09:31:51.718356Z"
+            }
+        ],
+        "checksum": "176f1d00e74dc788827eaf152419a36a81f46c99ad303ad0553e9bb8d664d790",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A small dynamic configuration loader with file watching and hot reload support.",
+        "homepage": "https://github.com/zlx2019/zonfig",
+        "documentation": "https://docs.rs/zonfig",
+        "repository": "https://github.com/zlx2019/zonfig",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 453,
+                    "comment_lines": 2,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 453,
+            "total_comment_lines": 2
+        }
+    }
+}

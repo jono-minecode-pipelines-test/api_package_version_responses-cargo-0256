@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 479322,
+        "crate": "zooid",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zooid/0.0.1/download",
+        "readme_path": "/api/v1/crates/zooid/0.0.1/readme",
+        "updated_at": "2022-01-08T07:04:18.545614Z",
+        "created_at": "2022-01-08T07:04:18.545614Z",
+        "downloads": 1548,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zooid/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zooid/0.0.1/downloads",
+            "authors": "/api/v1/crates/zooid/0.0.1/authors"
+        },
+        "crate_size": 2397,
+        "published_by": {
+            "id": 144720,
+            "login": "wsgalaxy",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/48625677?v=4",
+            "url": "https://github.com/wsgalaxy"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 144720,
+                    "login": "wsgalaxy",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/48625677?v=4",
+                    "url": "https://github.com/wsgalaxy"
+                },
+                "time": "2022-01-08T07:04:18.545614Z"
+            }
+        ],
+        "checksum": "c55cbbeab1d103e7d5099fbf7beee5c4c13a121d08d3cc0e03c5d585fd18837d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An actor library inspired by actix",
+        "homepage": "https://github.com/wsgalaxy/zooid",
+        "documentation": null,
+        "repository": "https://github.com/wsgalaxy/zooid",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 210,
+                    "comment_lines": 5,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 210,
+            "total_comment_lines": 5
+        }
+    }
+}
