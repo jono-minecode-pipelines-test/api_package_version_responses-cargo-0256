@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1115076,
+        "crate": "zng-clone-move",
+        "num": "0.2.3",
+        "dl_path": "/api/v1/crates/zng-clone-move/0.2.3/download",
+        "readme_path": "/api/v1/crates/zng-clone-move/0.2.3/readme",
+        "updated_at": "2024-04-14T21:27:12.164618Z",
+        "created_at": "2024-04-14T21:27:12.164618Z",
+        "downloads": 1323,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-clone-move/0.2.3/dependencies",
+            "version_downloads": "/api/v1/crates/zng-clone-move/0.2.3/downloads",
+            "authors": "/api/v1/crates/zng-clone-move/0.2.3/authors"
+        },
+        "crate_size": 3488,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-14T21:27:12.164618Z"
+            }
+        ],
+        "checksum": "ce9911f3e38b0dcf601b78d27a7ba6d4ef6653ecdc7c88ba32e74912b1d9e758",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_clone_move",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 386,
+                    "comment_lines": 30,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 386,
+            "total_comment_lines": 30
+        }
+    }
+}
