@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1077401,
+        "crate": "zyx-compiler",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyx-compiler/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyx-compiler/0.1.0/readme",
+        "updated_at": "2024-03-09T16:36:35.583359Z",
+        "created_at": "2024-03-09T16:36:35.583359Z",
+        "downloads": 1235,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": [
+                "zyx-core/std"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx-compiler/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyx-compiler/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyx-compiler/0.1.0/authors"
+        },
+        "crate_size": 9477,
+        "published_by": {
+            "id": 177851,
+            "login": "zk4x",
+            "name": "zk4x",
+            "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+            "url": "https://github.com/zk4x"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 177851,
+                    "login": "zk4x",
+                    "name": "zk4x",
+                    "avatar": "https://avatars.githubusercontent.com/u/114350751?v=4",
+                    "url": "https://github.com/zk4x"
+                },
+                "time": "2024-03-09T16:36:35.583359Z"
+            }
+        ],
+        "checksum": "3a522459809218a4139d135794e818a61eaf03cdc9ef2a1dec352cfb7fb3c72f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zyx OpenCL backend",
+        "homepage": "https://github.com/zk4x/zyx",
+        "documentation": "https://docs.rs/zyx-opencl",
+        "repository": "https://github.com/zk4x/zyx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1215,
+                    "comment_lines": 76,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1215,
+            "total_comment_lines": 76
+        }
+    }
+}

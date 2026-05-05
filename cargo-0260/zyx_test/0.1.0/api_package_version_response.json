@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 75875,
+        "crate": "zyx_test",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyx_test/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyx_test/0.1.0/readme",
+        "updated_at": "2017-12-30T05:43:06.644546Z",
+        "created_at": "2017-12-30T05:37:48.164524Z",
+        "downloads": 1649,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyx_test/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyx_test/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyx_test/0.1.0/authors"
+        },
+        "crate_size": 1300,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "dcd2110366c100f31cc170452e60a2dd193d94281cbcc23701d3354cff264792",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "minigrep"
+        ],
+        "edition": null,
+        "description": "test",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 15,
+                    "comment_lines": 31,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 15,
+            "total_comment_lines": 31
+        }
+    }
+}

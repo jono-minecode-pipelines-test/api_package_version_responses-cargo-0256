@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1884451,
+        "crate": "zz-account",
+        "num": "0.1.6",
+        "dl_path": "/api/v1/crates/zz-account/0.1.6/download",
+        "readme_path": "/api/v1/crates/zz-account/0.1.6/readme",
+        "updated_at": "2025-12-16T17:22:22.115226Z",
+        "created_at": "2025-12-16T17:22:22.115226Z",
+        "downloads": 21,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zz-account/0.1.6/dependencies",
+            "version_downloads": "/api/v1/crates/zz-account/0.1.6/downloads",
+            "authors": "/api/v1/crates/zz-account/0.1.6/authors"
+        },
+        "crate_size": 27069,
+        "published_by": {
+            "id": 39663,
+            "login": "calidion",
+            "name": "Eric",
+            "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+            "url": "https://github.com/calidion"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 39663,
+                    "login": "calidion",
+                    "name": "Eric",
+                    "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+                    "url": "https://github.com/calidion"
+                },
+                "time": "2025-12-16T17:22:22.115226Z"
+            }
+        ],
+        "checksum": "3ca74e34b044eed4b7077148657e3d9bbc73d674d0383ddb17193050c65b699c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A Rust library for managing cryptocurrency accounts with mnemonic phrases and hierarchical deterministic wallets.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Free-Web-Movement/zz-rust-mod-account",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 697,
+                    "comment_lines": 25,
+                    "files": 5
+                },
+                "Shell": {
+                    "code_lines": 22,
+                    "comment_lines": 10,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 719,
+            "total_comment_lines": 35
+        }
+    }
+}
