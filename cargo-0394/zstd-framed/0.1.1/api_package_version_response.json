@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1342972,
+        "crate": "zstd-framed",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zstd-framed/0.1.1/download",
+        "readme_path": "/api/v1/crates/zstd-framed/0.1.1/readme",
+        "updated_at": "2024-11-17T11:03:06.673315Z",
+        "created_at": "2024-11-17T11:03:06.673315Z",
+        "downloads": 156306,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Unlicense",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-framed/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-framed/0.1.1/downloads",
+            "authors": "/api/v1/crates/zstd-framed/0.1.1/authors"
+        },
+        "crate_size": 96756,
+        "published_by": {
+            "id": 3642,
+            "login": "kylewlacy",
+            "name": "Kyle Lacy",
+            "avatar": "https://avatars.githubusercontent.com/u/1362179?v=4",
+            "url": "https://github.com/kylewlacy"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3642,
+                    "login": "kylewlacy",
+                    "name": "Kyle Lacy",
+                    "avatar": "https://avatars.githubusercontent.com/u/1362179?v=4",
+                    "url": "https://github.com/kylewlacy"
+                },
+                "time": "2024-11-17T11:03:06.673315Z"
+            }
+        ],
+        "checksum": "c62b9e3ab74fc13257dfb915a4410efab52f336b52ee99b7c11a89d76dc80ca4",
+        "rust_version": "1.81",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zstd seekable format compression and decompression. Supports sync and async I/O",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kylewlacy/zstd-framed",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2576,
+                    "comment_lines": 635,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 2576,
+            "total_comment_lines": 635
+        }
+    }
+}
