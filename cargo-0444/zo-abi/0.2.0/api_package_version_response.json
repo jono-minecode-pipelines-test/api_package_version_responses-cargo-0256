@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 488437,
+        "crate": "zo-abi",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zo-abi/0.2.0/download",
+        "readme_path": "/api/v1/crates/zo-abi/0.2.0/readme",
+        "updated_at": "2022-01-23T19:34:04.290517Z",
+        "created_at": "2022-01-23T19:34:04.290517Z",
+        "downloads": 1094,
+        "features": {
+            "cpi": [
+                "no-entrypoint"
+            ],
+            "default": [
+                "no-entrypoint"
+            ],
+            "no-entrypoint": [],
+            "no-idl": [],
+            "no-log-ix-name": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zo-abi/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zo-abi/0.2.0/downloads",
+            "authors": "/api/v1/crates/zo-abi/0.2.0/authors"
+        },
+        "crate_size": 12567,
+        "published_by": {
+            "id": 11016,
+            "login": "CherryMan",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/15808018?v=4",
+            "url": "https://github.com/CherryMan"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 11016,
+                    "login": "CherryMan",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/15808018?v=4",
+                    "url": "https://github.com/CherryMan"
+                },
+                "time": "2022-01-23T19:34:04.290517Z"
+            }
+        ],
+        "checksum": "55cc4e5c0ce302e886ddf8d9f4f5f2e448369ae32a99aff097f098dd5f45d7ec",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "01.xyz anchor program interface",
+        "homepage": "https://github.com/01protocol/zo-abi",
+        "documentation": "https://docs.rs/zo-abi",
+        "repository": "https://github.com/01protocol/zo-abi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 925,
+                    "comment_lines": 13,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 925,
+            "total_comment_lines": 13
+        }
+    }
+}
