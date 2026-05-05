@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2091926,
+        "crate": "zng-wgt-window",
+        "num": "0.15.3",
+        "dl_path": "/api/v1/crates/zng-wgt-window/0.15.3/download",
+        "readme_path": "/api/v1/crates/zng-wgt-window/0.15.3/readme",
+        "updated_at": "2026-03-06T00:39:49.175111Z",
+        "created_at": "2026-03-06T00:39:49.175111Z",
+        "downloads": 54,
+        "features": {
+            "config": [
+                "dep:zng-ext-config"
+            ],
+            "image": [
+                "zng-ext-window/image"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-window/0.15.3/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-window/0.15.3/downloads",
+            "authors": "/api/v1/crates/zng-wgt-window/0.15.3/authors"
+        },
+        "crate_size": 35034,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-03-06T00:39:49.175111Z"
+            }
+        ],
+        "checksum": "185dd8c0f07dd0117600af51ae1abafa9d55ebcc9652c36d13175c039cc8003f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_window",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 988,
+                    "comment_lines": 18,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 988,
+            "total_comment_lines": 18
+        }
+    }
+}
