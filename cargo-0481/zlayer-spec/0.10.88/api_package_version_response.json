@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2288822,
+        "crate": "zlayer-spec",
+        "num": "0.10.88",
+        "dl_path": "/api/v1/crates/zlayer-spec/0.10.88/download",
+        "readme_path": "/api/v1/crates/zlayer-spec/0.10.88/readme",
+        "updated_at": "2026-04-21T21:14:00.804782Z",
+        "created_at": "2026-04-21T21:14:00.804782Z",
+        "downloads": 23,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-spec/0.10.88/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-spec/0.10.88/downloads",
+            "authors": "/api/v1/crates/zlayer-spec/0.10.88/authors"
+        },
+        "crate_size": 39445,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-21T21:14:00.804782Z"
+            }
+        ],
+        "checksum": "6503c44cdd01be99e3724a9a0490d47f3b993dcf5966eff3ac3415c453f4e017",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZLayer deployment specification parsing and validation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4282,
+                    "comment_lines": 169,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 4282,
+            "total_comment_lines": 169
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2353658,
+        "crate": "zlayer-spec",
+        "num": "0.11.13",
+        "dl_path": "/api/v1/crates/zlayer-spec/0.11.13/download",
+        "readme_path": "/api/v1/crates/zlayer-spec/0.11.13/readme",
+        "updated_at": "2026-05-05T18:45:45.074214Z",
+        "created_at": "2026-05-05T18:45:45.074214Z",
+        "downloads": 0,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-spec/0.11.13/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-spec/0.11.13/downloads",
+            "authors": "/api/v1/crates/zlayer-spec/0.11.13/authors"
+        },
+        "crate_size": 16689,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-05-05T18:45:45.074214Z"
+            }
+        ],
+        "checksum": "87f0ff055ad7f70b0a25fa02edce9800d1e362badec4ceedc8e0463fdf4ef886",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZLayer deployment specification parsing and validation",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1,
+            "total_comment_lines": 0
+        }
+    }
+}
