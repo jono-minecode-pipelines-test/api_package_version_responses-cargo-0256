@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1176833,
+        "crate": "znap-cli",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/znap-cli/0.1.2/download",
+        "readme_path": "/api/v1/crates/znap-cli/0.1.2/readme",
+        "updated_at": "2024-06-17T18:25:33.950438Z",
+        "created_at": "2024-06-17T18:25:33.950438Z",
+        "downloads": 1009,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znap-cli/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/znap-cli/0.1.2/downloads",
+            "authors": "/api/v1/crates/znap-cli/0.1.2/authors"
+        },
+        "crate_size": 7470,
+        "published_by": {
+            "id": 275644,
+            "login": "danmt",
+            "name": "Daniel Marin",
+            "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+            "url": "https://github.com/danmt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 275644,
+                    "login": "danmt",
+                    "name": "Daniel Marin",
+                    "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+                    "url": "https://github.com/danmt"
+                },
+                "time": "2024-06-17T18:25:33.950438Z"
+            }
+        ],
+        "checksum": "6259fcca09801f39a3036344b845be431fc6438ef782bea75e4ebd186d97487c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "znap"
+        ],
+        "edition": "2021",
+        "description": "Manage your znap workspaces",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/heavy-duty/znap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 333,
+                    "comment_lines": 19,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 333,
+            "total_comment_lines": 19
+        }
+    }
+}
