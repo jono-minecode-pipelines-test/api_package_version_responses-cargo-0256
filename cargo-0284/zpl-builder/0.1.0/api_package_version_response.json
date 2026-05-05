@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2236593,
+        "crate": "zpl-builder",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zpl-builder/0.1.0/download",
+        "readme_path": "/api/v1/crates/zpl-builder/0.1.0/readme",
+        "updated_at": "2026-04-10T12:00:23.038312Z",
+        "created_at": "2026-04-10T12:00:23.038312Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl-builder/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpl-builder/0.1.0/downloads",
+            "authors": "/api/v1/crates/zpl-builder/0.1.0/authors"
+        },
+        "crate_size": 12941,
+        "published_by": {
+            "id": 290281,
+            "login": "LudSoc",
+            "name": "Ludovic Soci\u00e9",
+            "avatar": "https://avatars.githubusercontent.com/u/169981583?v=4",
+            "url": "https://github.com/LudSoc"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 290281,
+                    "login": "LudSoc",
+                    "name": "Ludovic Soci\u00e9",
+                    "avatar": "https://avatars.githubusercontent.com/u/169981583?v=4",
+                    "url": "https://github.com/LudSoc"
+                },
+                "time": "2026-04-10T12:00:23.038312Z"
+            }
+        ],
+        "checksum": "b7c7938232bc472ebb71cc83a40e15ef9c982d1499415467781fae7f78371dea",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A builder for ZPL II label strings, for use with Zebra thermal printers",
+        "homepage": "https://github.com/LudSoc/zpl-builder",
+        "documentation": "https://docs.rs/zpl-builder",
+        "repository": "https://github.com/LudSoc/zpl-builder",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1269,
+                    "comment_lines": 24,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1269,
+            "total_comment_lines": 24
+        }
+    }
+}

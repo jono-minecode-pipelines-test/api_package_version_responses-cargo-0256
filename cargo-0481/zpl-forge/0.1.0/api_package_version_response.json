@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1917903,
+        "crate": "zpl-forge",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zpl-forge/0.1.0/download",
+        "readme_path": "/api/v1/crates/zpl-forge/0.1.0/readme",
+        "updated_at": "2026-01-03T00:43:22.242765Z",
+        "created_at": "2026-01-03T00:43:22.242765Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl-forge/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zpl-forge/0.1.0/downloads",
+            "authors": "/api/v1/crates/zpl-forge/0.1.0/authors"
+        },
+        "crate_size": 53985,
+        "published_by": {
+            "id": 375753,
+            "login": "rafael-arreola",
+            "name": "Carlos Rafael Arreola Hernandez",
+            "avatar": "https://avatars.githubusercontent.com/u/6570453?v=4",
+            "url": "https://github.com/rafael-arreola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 375753,
+                    "login": "rafael-arreola",
+                    "name": "Carlos Rafael Arreola Hernandez",
+                    "avatar": "https://avatars.githubusercontent.com/u/6570453?v=4",
+                    "url": "https://github.com/rafael-arreola"
+                },
+                "time": "2026-01-03T00:43:22.242765Z"
+            }
+        ],
+        "checksum": "5fb74ea5dfce23ed22faad84ddf0a97364914ea661beca9c10cfbacdb35a5aa1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A fast, memory-safe ZPL (Zebra Programming Language) parser and renderer.",
+        "homepage": "https://github.com/rafael-arreola/zpl-forge",
+        "documentation": "https://docs.rs/zpl-forge",
+        "repository": "https://github.com/rafael-arreola/zpl-forge",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2877,
+                    "comment_lines": 15,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 2877,
+            "total_comment_lines": 15
+        }
+    }
+}

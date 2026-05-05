@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 2031449,
+        "crate": "zpl_toolchain_cli",
+        "num": "0.1.14",
+        "dl_path": "/api/v1/crates/zpl_toolchain_cli/0.1.14/download",
+        "readme_path": "/api/v1/crates/zpl_toolchain_cli/0.1.14/readme",
+        "updated_at": "2026-02-15T22:55:46.265837Z",
+        "created_at": "2026-02-15T22:55:46.265837Z",
+        "downloads": 27,
+        "features": {
+            "default": [
+                "tcp",
+                "usb",
+                "serial"
+            ],
+            "serial": [
+                "zpl_toolchain_print_client/serial"
+            ],
+            "tcp": [
+                "zpl_toolchain_print_client/tcp"
+            ],
+            "usb": [
+                "zpl_toolchain_print_client/usb"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl_toolchain_cli/0.1.14/dependencies",
+            "version_downloads": "/api/v1/crates/zpl_toolchain_cli/0.1.14/downloads",
+            "authors": "/api/v1/crates/zpl_toolchain_cli/0.1.14/authors"
+        },
+        "crate_size": 70087,
+        "published_by": {
+            "id": 387920,
+            "login": "trevordcampbell",
+            "name": "Trevor Campbell",
+            "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+            "url": "https://github.com/trevordcampbell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387920,
+                    "login": "trevordcampbell",
+                    "name": "Trevor Campbell",
+                    "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+                    "url": "https://github.com/trevordcampbell"
+                },
+                "time": "2026-02-15T22:55:46.265837Z"
+            }
+        ],
+        "checksum": "31c97fa6edde57180893ce63cbe6a8882fe8cddfa005cd239c78773857144060",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zpl"
+        ],
+        "edition": "2024",
+        "description": "Command-line interface for parsing, validating, formatting, and printing ZPL II label code (part of the zpl-toolchain project)",
+        "homepage": "https://github.com/trevordcampbell/zpl-toolchain",
+        "documentation": null,
+        "repository": "https://github.com/trevordcampbell/zpl-toolchain",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2828,
+                    "comment_lines": 74,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 2828,
+            "total_comment_lines": 74
+        }
+    }
+}
