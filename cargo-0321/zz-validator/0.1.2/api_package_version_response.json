@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 2280407,
+        "crate": "zz-validator",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zz-validator/0.1.2/download",
+        "readme_path": "/api/v1/crates/zz-validator/0.1.2/readme",
+        "updated_at": "2026-04-20T08:31:53.925678Z",
+        "created_at": "2026-04-20T08:31:53.925678Z",
+        "downloads": 40,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zz-validator/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zz-validator/0.1.2/downloads",
+            "authors": "/api/v1/crates/zz-validator/0.1.2/authors"
+        },
+        "crate_size": 45716,
+        "published_by": {
+            "id": 39663,
+            "login": "calidion",
+            "name": "Eric",
+            "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+            "url": "https://github.com/calidion"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 39663,
+                    "login": "calidion",
+                    "name": "Eric",
+                    "avatar": "https://avatars.githubusercontent.com/u/131776?v=4",
+                    "url": "https://github.com/calidion"
+                },
+                "time": "2026-04-20T08:31:53.925678Z"
+            }
+        ],
+        "checksum": "48d5defe53fded39cd886e3c395398466ca42c7a34cbb9b6611bf1b2b5a8f106",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A Rust library for  DSL parsing and data validation.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Free-Web-Movement/validator.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1130,
+                    "comment_lines": 42,
+                    "files": 5
+                },
+                "Shell": {
+                    "code_lines": 26,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1156,
+            "total_comment_lines": 51
+        }
+    }
+}
