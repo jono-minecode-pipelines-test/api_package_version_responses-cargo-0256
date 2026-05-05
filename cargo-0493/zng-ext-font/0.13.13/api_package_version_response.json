@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 2221577,
+        "crate": "zng-ext-font",
+        "num": "0.13.13",
+        "dl_path": "/api/v1/crates/zng-ext-font/0.13.13/download",
+        "readme_path": "/api/v1/crates/zng-ext-font/0.13.13/readme",
+        "updated_at": "2026-04-07T07:18:21.154903Z",
+        "created_at": "2026-04-07T07:18:21.154903Z",
+        "downloads": 152,
+        "features": {
+            "hyphenation_embed_all": [
+                "hyphenation/embed_all"
+            ],
+            "ipc": [
+                "zng-task/ipc"
+            ],
+            "svg": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-font/0.13.13/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-font/0.13.13/downloads",
+            "authors": "/api/v1/crates/zng-ext-font/0.13.13/authors"
+        },
+        "crate_size": 126500,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-07T07:18:21.154903Z"
+            }
+        ],
+        "checksum": "7ace719582ee621f58926f132b54967fccba081f7cb69e671e7ee460855a50f9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_font",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 10704,
+                    "comment_lines": 644,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 10704,
+            "total_comment_lines": 644
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1556143,
+        "crate": "zng-ext-font",
+        "num": "0.6.3",
+        "dl_path": "/api/v1/crates/zng-ext-font/0.6.3/download",
+        "readme_path": "/api/v1/crates/zng-ext-font/0.6.3/readme",
+        "updated_at": "2025-05-09T02:46:11.925810Z",
+        "created_at": "2025-05-09T02:46:11.925810Z",
+        "downloads": 621,
+        "features": {
+            "hyphenation_embed_all": [
+                "hyphenation/embed_all"
+            ],
+            "svg": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-font/0.6.3/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-font/0.6.3/downloads",
+            "authors": "/api/v1/crates/zng-ext-font/0.6.3/authors"
+        },
+        "crate_size": 117270,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-09T02:46:11.925810Z"
+            }
+        ],
+        "checksum": "ffaef00acae686c8a47623f556198afbeba61216197211f48d0c637a151f7124",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_font",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 9913,
+                    "comment_lines": 619,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 9913,
+            "total_comment_lines": 619
+        }
+    }
+}
