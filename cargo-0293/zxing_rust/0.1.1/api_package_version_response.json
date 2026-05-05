@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 432507,
+        "crate": "zxing_rust",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zxing_rust/0.1.1/download",
+        "readme_path": "/api/v1/crates/zxing_rust/0.1.1/readme",
+        "updated_at": "2021-10-01T10:39:39.750331Z",
+        "created_at": "2021-10-01T10:39:39.750331Z",
+        "downloads": 1797,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zxing_rust/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxing_rust/0.1.1/downloads",
+            "authors": "/api/v1/crates/zxing_rust/0.1.1/authors"
+        },
+        "crate_size": 7874,
+        "published_by": {
+            "id": 134220,
+            "login": "lyl120117",
+            "name": "lyl120117",
+            "avatar": "https://avatars.githubusercontent.com/u/6166692?v=4",
+            "url": "https://github.com/lyl120117"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 134220,
+                    "login": "lyl120117",
+                    "name": "lyl120117",
+                    "avatar": "https://avatars.githubusercontent.com/u/6166692?v=4",
+                    "url": "https://github.com/lyl120117"
+                },
+                "time": "2021-10-01T10:39:39.750331Z"
+            }
+        ],
+        "checksum": "76ba6336a700019babe023b6412eb3b443e55831182779f760d728f47c724d17",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zxing_rust"
+        ],
+        "edition": "2018",
+        "description": "zxing_rust is an open-source, multi-format 1D/2D barcode image processing library implemented in Rust, with ports to other languages.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 13,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 15,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 28,
+            "total_comment_lines": 0
+        }
+    }
+}

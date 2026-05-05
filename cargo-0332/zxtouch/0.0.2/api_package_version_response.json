@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1006844,
+        "crate": "zxtouch",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zxtouch/0.0.2/download",
+        "readme_path": "/api/v1/crates/zxtouch/0.0.2/readme",
+        "updated_at": "2024-01-07T16:52:56.637398Z",
+        "created_at": "2024-01-07T16:52:56.637398Z",
+        "downloads": 1513,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxtouch/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zxtouch/0.0.2/downloads",
+            "authors": "/api/v1/crates/zxtouch/0.0.2/authors"
+        },
+        "crate_size": 7854195,
+        "published_by": {
+            "id": 247229,
+            "login": "dounine",
+            "name": "dounine",
+            "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+            "url": "https://github.com/dounine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 247229,
+                    "login": "dounine",
+                    "name": "dounine",
+                    "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+                    "url": "https://github.com/dounine"
+                },
+                "time": "2024-01-07T16:52:56.637398Z"
+            }
+        ],
+        "checksum": "90fcbff3894e51a86b1c29e1b546427622045f6df47f36a69cfad2e0878d7f07",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zxtouch ios \u81ea\u52a8\u5316",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dounine/zxtouch",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 198,
+                    "comment_lines": 3,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 198,
+            "total_comment_lines": 3
+        }
+    }
+}

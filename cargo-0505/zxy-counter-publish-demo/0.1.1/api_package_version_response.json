@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 677077,
+        "crate": "zxy-counter-publish-demo",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zxy-counter-publish-demo/0.1.1/download",
+        "readme_path": "/api/v1/crates/zxy-counter-publish-demo/0.1.1/readme",
+        "updated_at": "2022-12-05T10:26:53.112126Z",
+        "created_at": "2022-12-05T10:26:53.112126Z",
+        "downloads": 1512,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxy-counter-publish-demo/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zxy-counter-publish-demo/0.1.1/downloads",
+            "authors": "/api/v1/crates/zxy-counter-publish-demo/0.1.1/authors"
+        },
+        "crate_size": 1191,
+        "published_by": {
+            "id": 187937,
+            "login": "zxy12",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/4112803?v=4",
+            "url": "https://github.com/zxy12"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 187937,
+                    "login": "zxy12",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/4112803?v=4",
+                    "url": "https://github.com/zxy12"
+                },
+                "time": "2022-12-05T10:26:53.112126Z"
+            }
+        ],
+        "checksum": "4075097f7c6a6c0198999e875cd473a3286a1cbd6a066b2927ce296dce7fc2b8",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zxy-counter-publish-demo"
+        ],
+        "edition": "2021",
+        "description": "zxy-counter-publish-demo",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 44,
+                    "comment_lines": 6,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 44,
+            "total_comment_lines": 6
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 813108,
+        "crate": "zxnumber",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zxnumber/0.1.0/download",
+        "readme_path": "/api/v1/crates/zxnumber/0.1.0/readme",
+        "updated_at": "2023-06-01T12:21:49.500178Z",
+        "created_at": "2023-06-01T12:21:49.500178Z",
+        "downloads": 2029,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zxnumber/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxnumber/0.1.0/downloads",
+            "authors": "/api/v1/crates/zxnumber/0.1.0/authors"
+        },
+        "crate_size": 2541,
+        "published_by": {
+            "id": 155470,
+            "login": "vilcans",
+            "name": "Martin Vilcans",
+            "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+            "url": "https://github.com/vilcans"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 155470,
+                    "login": "vilcans",
+                    "name": "Martin Vilcans",
+                    "avatar": "https://avatars.githubusercontent.com/u/48641?v=4",
+                    "url": "https://github.com/vilcans"
+                },
+                "time": "2023-06-01T12:21:49.500178Z"
+            }
+        ],
+        "checksum": "879e3e883c46604986b76603df463378afe269afb5cb6100728134a3dba9b50f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Converter for the floating point number format used by the Sinclair home computers ZX Spectrum and ZX-81",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/vilcans/zxnumber",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 91,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 91,
+            "total_comment_lines": 0
+        }
+    }
+}

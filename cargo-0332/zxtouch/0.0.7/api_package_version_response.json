@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1021371,
+        "crate": "zxtouch",
+        "num": "0.0.7",
+        "dl_path": "/api/v1/crates/zxtouch/0.0.7/download",
+        "readme_path": "/api/v1/crates/zxtouch/0.0.7/readme",
+        "updated_at": "2024-01-21T13:46:41.939082Z",
+        "created_at": "2024-01-21T13:46:41.939082Z",
+        "downloads": 1529,
+        "features": {
+            "debug-print": [
+                "tracing",
+                "tracing-subscriber"
+            ],
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxtouch/0.0.7/dependencies",
+            "version_downloads": "/api/v1/crates/zxtouch/0.0.7/downloads",
+            "authors": "/api/v1/crates/zxtouch/0.0.7/authors"
+        },
+        "crate_size": 11269,
+        "published_by": {
+            "id": 247229,
+            "login": "dounine",
+            "name": "dounine",
+            "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+            "url": "https://github.com/dounine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 247229,
+                    "login": "dounine",
+                    "name": "dounine",
+                    "avatar": "https://avatars.githubusercontent.com/u/7344514?v=4",
+                    "url": "https://github.com/dounine"
+                },
+                "time": "2024-01-21T13:46:41.939082Z"
+            }
+        ],
+        "checksum": "5d0e7ef648db3bdd6cba5a043f39aae6ee5bb1e224a12253f3bbd8437a358e8f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zxtouch ios \u6309\u952e\u81ea\u52a8\u5316\u811a\u672c(\u8fde\u70b9\u5668)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dounine/zxtouch",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1018,
+                    "comment_lines": 101,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1018,
+            "total_comment_lines": 101
+        }
+    }
+}

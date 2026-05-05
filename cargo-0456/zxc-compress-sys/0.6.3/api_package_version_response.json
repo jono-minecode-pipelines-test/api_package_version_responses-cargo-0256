@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2019053,
+        "crate": "zxc-compress-sys",
+        "num": "0.6.3",
+        "dl_path": "/api/v1/crates/zxc-compress-sys/0.6.3/download",
+        "readme_path": "/api/v1/crates/zxc-compress-sys/0.6.3/readme",
+        "updated_at": "2026-02-11T17:32:45.187721Z",
+        "created_at": "2026-02-11T17:32:45.187721Z",
+        "downloads": 22,
+        "features": {
+            "default": [],
+            "system": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zxc",
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zxc-compress-sys/0.6.3/dependencies",
+            "version_downloads": "/api/v1/crates/zxc-compress-sys/0.6.3/downloads",
+            "authors": "/api/v1/crates/zxc-compress-sys/0.6.3/authors"
+        },
+        "crate_size": 62685,
+        "published_by": {
+            "id": 387550,
+            "login": "hellobertrand",
+            "name": "Bertrand Lebonnois",
+            "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+            "url": "https://github.com/hellobertrand"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387550,
+                    "login": "hellobertrand",
+                    "name": "Bertrand Lebonnois",
+                    "avatar": "https://avatars.githubusercontent.com/u/5901952?v=4",
+                    "url": "https://github.com/hellobertrand"
+                },
+                "time": "2026-02-11T17:32:45.187721Z"
+            }
+        ],
+        "checksum": "a246d9fdd6359ebe8c28e93744f3e4edbd76e9d92a099e595f2fca0842e66cef",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Low-level FFI bindings to the ZXC compression library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/hellobertrand/zxc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 3078,
+                    "comment_lines": 945,
+                    "files": 5
+                },
+                "C Header": {
+                    "code_lines": 903,
+                    "comment_lines": 1074,
+                    "files": 8
+                },
+                "Rust": {
+                    "code_lines": 365,
+                    "comment_lines": 63,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 4346,
+            "total_comment_lines": 2082
+        }
+    }
+}
