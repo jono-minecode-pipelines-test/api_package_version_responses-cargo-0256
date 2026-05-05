@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1944789,
+        "crate": "zwo_mount_control",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zwo_mount_control/0.2.1/download",
+        "readme_path": "/api/v1/crates/zwo_mount_control/0.2.1/readme",
+        "updated_at": "2026-01-14T22:54:16.691588Z",
+        "created_at": "2026-01-14T22:54:16.691588Z",
+        "downloads": 21,
+        "features": {
+            "async": [
+                "tokio"
+            ],
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwo_mount_control/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwo_mount_control/0.2.1/downloads",
+            "authors": "/api/v1/crates/zwo_mount_control/0.2.1/authors"
+        },
+        "crate_size": 58011,
+        "published_by": {
+            "id": 365583,
+            "login": "jmcguigs",
+            "name": "Jack McGuigan",
+            "avatar": "https://avatars.githubusercontent.com/u/81200073?v=4",
+            "url": "https://github.com/jmcguigs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 365583,
+                    "login": "jmcguigs",
+                    "name": "Jack McGuigan",
+                    "avatar": "https://avatars.githubusercontent.com/u/81200073?v=4",
+                    "url": "https://github.com/jmcguigs"
+                },
+                "time": "2026-01-14T22:54:16.691588Z"
+            }
+        ],
+        "checksum": "cef628a040c30d4813e8e8a3a32bbc2705ba4e7eb55cfda85f2bff7da9d06113",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust library for controlling ZWO AM5/AM3 telescope mounts with satellite tracking support",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/jmcguigs/zwo_mount_control",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3813,
+                    "comment_lines": 371,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 3813,
+            "total_comment_lines": 371
+        }
+    }
+}

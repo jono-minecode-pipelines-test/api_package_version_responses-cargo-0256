@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 221083,
+        "crate": "zvxryb-broadphase",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvxryb-broadphase/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvxryb-broadphase/0.1.0/readme",
+        "updated_at": "2020-03-15T02:01:29.010125Z",
+        "created_at": "2020-03-15T02:01:29.010125Z",
+        "downloads": 1702,
+        "features": {
+            "default": [
+                "parallel"
+            ],
+            "parallel": [
+                "rayon",
+                "thread_local"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvxryb-broadphase/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvxryb-broadphase/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvxryb-broadphase/0.1.0/authors"
+        },
+        "crate_size": 4511280,
+        "published_by": {
+            "id": 81966,
+            "login": "zvxryb",
+            "name": "Mike L.",
+            "avatar": "https://avatars0.githubusercontent.com/u/143794?v=4",
+            "url": "https://github.com/zvxryb"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 81966,
+                    "login": "zvxryb",
+                    "name": "Mike L.",
+                    "avatar": "https://avatars0.githubusercontent.com/u/143794?v=4",
+                    "url": "https://github.com/zvxryb"
+                },
+                "time": "2020-03-15T02:01:29.010125Z"
+            }
+        ],
+        "checksum": "6f80885e871bfa2957983009dda4e4564a6d933e917e2ab9f0873c55fc7a4dc6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A broadphase collision detection library",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1135,
+                    "comment_lines": 10,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1135,
+            "total_comment_lines": 10
+        }
+    }
+}

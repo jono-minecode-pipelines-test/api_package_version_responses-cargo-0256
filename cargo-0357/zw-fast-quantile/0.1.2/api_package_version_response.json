@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 453955,
+        "crate": "zw-fast-quantile",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zw-fast-quantile/0.1.2/download",
+        "readme_path": "/api/v1/crates/zw-fast-quantile/0.1.2/readme",
+        "updated_at": "2021-11-16T00:28:32.784785Z",
+        "created_at": "2021-11-16T00:28:32.784785Z",
+        "downloads": 1166,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zw-fast-quantile/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zw-fast-quantile/0.1.2/downloads",
+            "authors": "/api/v1/crates/zw-fast-quantile/0.1.2/authors"
+        },
+        "crate_size": 9498,
+        "published_by": {
+            "id": 52447,
+            "login": "MnO2",
+            "name": "Paul Meng",
+            "avatar": "https://avatars.githubusercontent.com/u/64175?v=4",
+            "url": "https://github.com/MnO2"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 52447,
+                    "login": "MnO2",
+                    "name": "Paul Meng",
+                    "avatar": "https://avatars.githubusercontent.com/u/64175?v=4",
+                    "url": "https://github.com/MnO2"
+                },
+                "time": "2021-11-16T00:28:32.784785Z"
+            }
+        ],
+        "checksum": "0e751db3f32c99e4b4203cf940bc892ed978204f30383ee5182e83c781839c28",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Zhang-Wang fast quantile algorithm in Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/MnO2/zw-fast-quantile",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 437,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 437,
+            "total_comment_lines": 2
+        }
+    }
+}

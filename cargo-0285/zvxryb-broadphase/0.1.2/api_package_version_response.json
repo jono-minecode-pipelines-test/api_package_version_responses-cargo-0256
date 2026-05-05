@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 227597,
+        "crate": "zvxryb-broadphase",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zvxryb-broadphase/0.1.2/download",
+        "readme_path": "/api/v1/crates/zvxryb-broadphase/0.1.2/readme",
+        "updated_at": "2020-04-04T01:28:49.898864Z",
+        "created_at": "2020-04-04T01:28:49.898864Z",
+        "downloads": 2133,
+        "features": {
+            "default": [
+                "parallel"
+            ],
+            "parallel": [
+                "rayon",
+                "thread_local"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvxryb-broadphase/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zvxryb-broadphase/0.1.2/downloads",
+            "authors": "/api/v1/crates/zvxryb-broadphase/0.1.2/authors"
+        },
+        "crate_size": 4522169,
+        "published_by": {
+            "id": 81966,
+            "login": "zvxryb",
+            "name": "Mike L.",
+            "avatar": "https://avatars0.githubusercontent.com/u/143794?v=4",
+            "url": "https://github.com/zvxryb"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 81966,
+                    "login": "zvxryb",
+                    "name": "Mike L.",
+                    "avatar": "https://avatars0.githubusercontent.com/u/143794?v=4",
+                    "url": "https://github.com/zvxryb"
+                },
+                "time": "2020-04-04T01:28:49.898864Z"
+            }
+        ],
+        "checksum": "b5e06d4590e7d301771457bf7a95d8479f34e9e96818a751f841c58526b3a93b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A broadphase collision detection library",
+        "homepage": null,
+        "documentation": "https://docs.rs/zvxryb-broadphase",
+        "repository": "https://github.com/zvxryb/broadphase-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1430,
+                    "comment_lines": 10,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1430,
+            "total_comment_lines": 10
+        }
+    }
+}

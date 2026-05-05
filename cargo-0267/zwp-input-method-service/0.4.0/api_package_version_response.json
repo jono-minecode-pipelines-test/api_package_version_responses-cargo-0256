@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 295791,
+        "crate": "zwp-input-method-service",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zwp-input-method-service/0.4.0/download",
+        "readme_path": "/api/v1/crates/zwp-input-method-service/0.4.0/readme",
+        "updated_at": "2026-02-07T18:18:30.572871Z",
+        "created_at": "2020-10-18T10:11:09.765088Z",
+        "downloads": 1373,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwp-input-method-service/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zwp-input-method-service/0.4.0/downloads",
+            "authors": "/api/v1/crates/zwp-input-method-service/0.4.0/authors"
+        },
+        "crate_size": 9818,
+        "published_by": {
+            "id": 98353,
+            "login": "grelltrier",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+            "url": "https://github.com/grelltrier"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 98353,
+                    "login": "grelltrier",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/67273701?v=4",
+                    "url": "https://github.com/grelltrier"
+                },
+                "time": "2020-10-18T10:11:09.765088Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 156020,
+                    "login": "pentamassiv",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/91755244?v=4",
+                    "url": "https://github.com/pentamassiv"
+                },
+                "time": "2026-02-07T18:18:30.575044Z"
+            }
+        ],
+        "checksum": "1e042a0cccf8069d1b76b7142d3f97eddb991baf674981aceded66979538879f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Safe wrapper to easily use the zwp-input-method protocol",
+        "homepage": null,
+        "documentation": "https://docs.rs/zwp-input-method-service",
+        "repository": "https://github.com/grelltrier/input_method_service",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 304,
+                    "comment_lines": 30,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 304,
+            "total_comment_lines": 30
+        }
+    }
+}

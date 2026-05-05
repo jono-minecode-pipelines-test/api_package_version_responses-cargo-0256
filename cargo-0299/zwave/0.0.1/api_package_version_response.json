@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 29553,
+        "crate": "zwave",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zwave/0.0.1/download",
+        "readme_path": "/api/v1/crates/zwave/0.0.1/readme",
+        "updated_at": "2017-11-30T02:45:46.024897Z",
+        "created_at": "2016-07-04T02:55:35.516784Z",
+        "downloads": 2613,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zwave/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwave/0.0.1/downloads",
+            "authors": "/api/v1/crates/zwave/0.0.1/authors"
+        },
+        "crate_size": 12195,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "acedff4c5b88d549931aef741fceb380ae18abb68156eae7d4916628844806ef",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Control Z-Wave networks with Rust.",
+        "homepage": "https://gitlab.com/dcuddeback/zwave",
+        "documentation": null,
+        "repository": "https://gitlab.com/dcuddeback/zwave",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1010,
+                    "comment_lines": 3,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 1010,
+            "total_comment_lines": 3
+        }
+    }
+}
