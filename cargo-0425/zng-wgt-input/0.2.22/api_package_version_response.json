@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1198322,
+        "crate": "zng-wgt-input",
+        "num": "0.2.22",
+        "dl_path": "/api/v1/crates/zng-wgt-input/0.2.22/download",
+        "readme_path": "/api/v1/crates/zng-wgt-input/0.2.22/readme",
+        "updated_at": "2024-07-10T02:58:22.319170Z",
+        "created_at": "2024-07-10T02:58:22.319170Z",
+        "downloads": 1116,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-input/0.2.22/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-input/0.2.22/downloads",
+            "authors": "/api/v1/crates/zng-wgt-input/0.2.22/authors"
+        },
+        "crate_size": 14338,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-07-10T02:58:22.319170Z"
+            }
+        ],
+        "checksum": "c4f4b4433359a412cbf0ede2bcc1ce3bf9b45643c9815ad1e97953f064afef16",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 30,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 1387,
+                    "comment_lines": 14,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 1417,
+            "total_comment_lines": 14
+        }
+    }
+}
