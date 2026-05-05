@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1616097,
+        "crate": "zng-wgt-material-icons",
+        "num": "0.6.4",
+        "dl_path": "/api/v1/crates/zng-wgt-material-icons/0.6.4/download",
+        "readme_path": "/api/v1/crates/zng-wgt-material-icons/0.6.4/readme",
+        "updated_at": "2025-06-25T22:04:28.912127Z",
+        "created_at": "2025-06-25T22:04:28.912127Z",
+        "downloads": 416,
+        "features": {
+            "default": [
+                "embedded",
+                "outlined",
+                "filled",
+                "rounded",
+                "sharp"
+            ],
+            "embedded": [],
+            "filled": [],
+            "outlined": [],
+            "rounded": [],
+            "sharp": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-material-icons/0.6.4/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-material-icons/0.6.4/downloads",
+            "authors": "/api/v1/crates/zng-wgt-material-icons/0.6.4/authors"
+        },
+        "crate_size": 835246,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-06-25T22:04:28.912127Z"
+            }
+        ],
+        "checksum": "7039fe8a2d4280de8541b86fbc1f9d261e81235687e1ba7568f4334b5303a177",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_material_icons",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 268,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 268,
+            "total_comment_lines": 0
+        }
+    }
+}
