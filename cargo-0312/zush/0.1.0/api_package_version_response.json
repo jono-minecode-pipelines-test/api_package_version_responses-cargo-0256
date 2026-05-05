@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 592163,
+        "crate": "zush",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zush/0.1.0/download",
+        "readme_path": "/api/v1/crates/zush/0.1.0/readme",
+        "updated_at": "2022-08-19T16:44:45.216299Z",
+        "created_at": "2022-07-27T21:44:42.087104Z",
+        "downloads": 1157,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zush/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zush/0.1.0/downloads",
+            "authors": "/api/v1/crates/zush/0.1.0/authors"
+        },
+        "crate_size": 10859,
+        "published_by": {
+            "id": 169862,
+            "login": "DominicValerio",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+            "url": "https://github.com/DominicValerio"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169862,
+                    "login": "DominicValerio",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+                    "url": "https://github.com/DominicValerio"
+                },
+                "time": "2022-07-27T21:44:42.087104Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 169862,
+                    "login": "DominicValerio",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+                    "url": "https://github.com/DominicValerio"
+                },
+                "time": "2022-08-19T16:44:45.221714Z"
+            }
+        ],
+        "checksum": "1cc5720a6397a1bdc90197695763233c3e8a0d44b9548e30d9b6b8fb56d323ae",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "main"
+        ],
+        "edition": "2021",
+        "description": "Shell",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 990,
+                    "comment_lines": 36,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 990,
+            "total_comment_lines": 36
+        }
+    }
+}

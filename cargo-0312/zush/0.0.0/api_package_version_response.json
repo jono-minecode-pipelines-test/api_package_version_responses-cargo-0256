@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 592189,
+        "crate": "zush",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zush/0.0.0/download",
+        "readme_path": "/api/v1/crates/zush/0.0.0/readme",
+        "updated_at": "2022-08-19T16:44:44.213758Z",
+        "created_at": "2022-07-27T22:23:49.759807Z",
+        "downloads": 1120,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zush/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zush/0.0.0/downloads",
+            "authors": "/api/v1/crates/zush/0.0.0/authors"
+        },
+        "crate_size": 10022,
+        "published_by": {
+            "id": 169862,
+            "login": "DominicValerio",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+            "url": "https://github.com/DominicValerio"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 169862,
+                    "login": "DominicValerio",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+                    "url": "https://github.com/DominicValerio"
+                },
+                "time": "2022-07-27T22:23:49.759807Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 169862,
+                    "login": "DominicValerio",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/92691393?v=4",
+                    "url": "https://github.com/DominicValerio"
+                },
+                "time": "2022-08-19T16:44:44.216870Z"
+            }
+        ],
+        "checksum": "fb88c0500addcb41bb4d7cfc43a48a9f98a92201dc255559e877b64ffeff2192",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ls",
+            "zush"
+        ],
+        "edition": "2021",
+        "description": "Shell",
+        "homepage": "https://github.com/DominicValerio/simplest-interpreter",
+        "documentation": "https://github.com/DominicValerio/simplest-interpreter",
+        "repository": "https://github.com/DominicValerio/simplest-interpreter",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 993,
+                    "comment_lines": 36,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 993,
+            "total_comment_lines": 36
+        }
+    }
+}
