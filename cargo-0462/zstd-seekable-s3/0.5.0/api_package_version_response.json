@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 371132,
+        "crate": "zstd-seekable-s3",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zstd-seekable-s3/0.5.0/download",
+        "readme_path": "/api/v1/crates/zstd-seekable-s3/0.5.0/readme",
+        "updated_at": "2021-04-26T00:13:40.411685Z",
+        "created_at": "2021-04-26T00:13:40.411685Z",
+        "downloads": 28880,
+        "features": {
+            "default": [
+                "rusoto_core/default",
+                "rusoto_s3/default"
+            ],
+            "rustls": [
+                "rusoto_core/rustls",
+                "rusoto_s3/rustls"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-seekable-s3/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-seekable-s3/0.5.0/downloads",
+            "authors": "/api/v1/crates/zstd-seekable-s3/0.5.0/authors"
+        },
+        "crate_size": 26084,
+        "published_by": {
+            "id": 94170,
+            "login": "Fuuzetsu",
+            "name": "Mateusz Kowalczyk",
+            "avatar": "https://avatars.githubusercontent.com/u/893115?v=4",
+            "url": "https://github.com/Fuuzetsu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 94170,
+                    "login": "Fuuzetsu",
+                    "name": "Mateusz Kowalczyk",
+                    "avatar": "https://avatars.githubusercontent.com/u/893115?v=4",
+                    "url": "https://github.com/Fuuzetsu"
+                },
+                "time": "2021-04-26T00:13:40.411685Z"
+            }
+        ],
+        "checksum": "326cd45434280ff28d20e405f9d02a658dcf34b1f0fa2d549873fb39da76854c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Seekable zstd-compressed S3 objects.",
+        "homepage": "https://github.com/Fuuzetsu/zstd-seekable-s3",
+        "documentation": null,
+        "repository": "https://github.com/Fuuzetsu/zstd-seekable-s3",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 608,
+                    "comment_lines": 99,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 608,
+            "total_comment_lines": 99
+        }
+    }
+}
