@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1470862,
+        "crate": "zox_rs",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zox_rs/0.2.0/download",
+        "readme_path": "/api/v1/crates/zox_rs/0.2.0/readme",
+        "updated_at": "2025-03-05T23:51:21.287856Z",
+        "created_at": "2025-03-05T23:51:21.287856Z",
+        "downloads": 1169,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zox_rs/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zox_rs/0.2.0/downloads",
+            "authors": "/api/v1/crates/zox_rs/0.2.0/authors"
+        },
+        "crate_size": 4038,
+        "published_by": {
+            "id": 285397,
+            "login": "roberte777",
+            "name": "Ethan Wilkes",
+            "avatar": "https://avatars.githubusercontent.com/u/33569440?v=4",
+            "url": "https://github.com/roberte777"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 285397,
+                    "login": "roberte777",
+                    "name": "Ethan Wilkes",
+                    "avatar": "https://avatars.githubusercontent.com/u/33569440?v=4",
+                    "url": "https://github.com/roberte777"
+                },
+                "time": "2025-03-05T23:51:21.287856Z"
+            }
+        ],
+        "checksum": "b7e65f7adaabd9147c0767b46a6fb3e9c08d1bb84e15421cda317b942da49a93",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Support for zesh",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/roberte777/zesh/zox_rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 202,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 202,
+            "total_comment_lines": 9
+        }
+    }
+}

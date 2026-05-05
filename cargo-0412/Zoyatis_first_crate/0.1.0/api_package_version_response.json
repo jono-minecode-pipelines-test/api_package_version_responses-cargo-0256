@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1464413,
+        "crate": "Zoyatis_first_crate",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/Zoyatis_first_crate/0.1.0/download",
+        "readme_path": "/api/v1/crates/Zoyatis_first_crate/0.1.0/readme",
+        "updated_at": "2025-03-01T12:12:40.190078Z",
+        "created_at": "2025-03-01T12:12:40.190078Z",
+        "downloads": 808,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/Zoyatis_first_crate/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/Zoyatis_first_crate/0.1.0/downloads",
+            "authors": "/api/v1/crates/Zoyatis_first_crate/0.1.0/authors"
+        },
+        "crate_size": 792,
+        "published_by": {
+            "id": 318566,
+            "login": "ZoyatisPro",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/105310925?v=4",
+            "url": "https://github.com/ZoyatisPro"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 318566,
+                    "login": "ZoyatisPro",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/105310925?v=4",
+                    "url": "https://github.com/ZoyatisPro"
+                },
+                "time": "2025-03-01T12:12:40.190078Z"
+            }
+        ],
+        "checksum": "32c896e47c843a400a67dbeabe65d735196087011d9aedf80d03cea110125e7a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "My first crate.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
