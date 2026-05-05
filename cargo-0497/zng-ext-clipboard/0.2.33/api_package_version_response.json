@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1270805,
+        "crate": "zng-ext-clipboard",
+        "num": "0.2.33",
+        "dl_path": "/api/v1/crates/zng-ext-clipboard/0.2.33/download",
+        "readme_path": "/api/v1/crates/zng-ext-clipboard/0.2.33/readme",
+        "updated_at": "2024-09-15T19:23:02.690118Z",
+        "created_at": "2024-09-15T19:23:02.690118Z",
+        "downloads": 1179,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-clipboard/0.2.33/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-clipboard/0.2.33/downloads",
+            "authors": "/api/v1/crates/zng-ext-clipboard/0.2.33/authors"
+        },
+        "crate_size": 5250,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-09-15T19:23:02.690118Z"
+            }
+        ],
+        "checksum": "8592e99c334c0d899a79e074617fec14a60d48246893a107a488b78d380a3957",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_clipboard",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 27,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 356,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 383,
+            "total_comment_lines": 0
+        }
+    }
+}
