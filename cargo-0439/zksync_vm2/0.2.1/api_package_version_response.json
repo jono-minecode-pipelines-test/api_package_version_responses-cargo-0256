@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1281413,
+        "crate": "zksync_vm2",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zksync_vm2/0.2.1/download",
+        "readme_path": "/api/v1/crates/zksync_vm2/0.2.1/readme",
+        "updated_at": "2024-09-26T06:33:01.341833Z",
+        "created_at": "2024-09-26T06:33:01.341833Z",
+        "downloads": 964,
+        "features": {
+            "default": [],
+            "single_instruction_test": [
+                "arbitrary",
+                "primitive-types/arbitrary",
+                "zk_evm",
+                "anyhow"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_vm2/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_vm2/0.2.1/downloads",
+            "authors": "/api/v1/crates/zksync_vm2/0.2.1/authors"
+        },
+        "crate_size": 62935,
+        "published_by": {
+            "id": 33956,
+            "login": "slowli",
+            "name": "Alex Ostrovski",
+            "avatar": "https://avatars.githubusercontent.com/u/9612896?v=4",
+            "url": "https://github.com/slowli"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 33956,
+                    "login": "slowli",
+                    "name": "Alex Ostrovski",
+                    "avatar": "https://avatars.githubusercontent.com/u/9612896?v=4",
+                    "url": "https://github.com/slowli"
+                },
+                "time": "2024-09-26T06:33:01.341833Z"
+            }
+        ],
+        "checksum": "29844a5dd7b815d2686ea0fe9f0e0ce489b1f52b24ea0793739186f60a6ecf0d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "High-performance rewrite of the out-of-circuit VM for ZKsync Era",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/vm2",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5323,
+                    "comment_lines": 93,
+                    "files": 35
+                }
+            },
+            "total_code_lines": 5323,
+            "total_comment_lines": 93
+        }
+    }
+}

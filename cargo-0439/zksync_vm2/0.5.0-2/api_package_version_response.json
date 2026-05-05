@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 2119115,
+        "crate": "zksync_vm2",
+        "num": "0.5.0-2",
+        "dl_path": "/api/v1/crates/zksync_vm2/0.5.0-2/download",
+        "readme_path": "/api/v1/crates/zksync_vm2/0.5.0-2/readme",
+        "updated_at": "2026-03-13T15:56:03.573664Z",
+        "created_at": "2026-03-13T15:56:03.573664Z",
+        "downloads": 11590,
+        "features": {
+            "default": [],
+            "single_instruction_test": [
+                "arbitrary",
+                "primitive-types/arbitrary",
+                "zk_evm",
+                "anyhow"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_vm2/0.5.0-2/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_vm2/0.5.0-2/downloads",
+            "authors": "/api/v1/crates/zksync_vm2/0.5.0-2/authors"
+        },
+        "crate_size": 79094,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-03-13T15:56:03.573664Z"
+            }
+        ],
+        "checksum": "f36376dce38bb91e8f1f961745a6b7c453a95fd9808796a6d8172d249e8f9c6f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "High-performance rewrite of the out-of-circuit VM for ZKsync Era",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/vm2",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6041,
+                    "comment_lines": 92,
+                    "files": 37
+                }
+            },
+            "total_code_lines": 6041,
+            "total_comment_lines": 92
+        }
+    }
+}
