@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2049799,
+        "crate": "zydis-rs",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zydis-rs/0.1.4/download",
+        "readme_path": "/api/v1/crates/zydis-rs/0.1.4/readme",
+        "updated_at": "2026-02-21T15:33:36.704301Z",
+        "created_at": "2026-02-21T15:33:36.704301Z",
+        "downloads": 18,
+        "features": {
+            "decoder": [],
+            "default": [
+                "decoder",
+                "formatter",
+                "encoder"
+            ],
+            "encoder": [
+                "decoder"
+            ],
+            "formatter": [],
+            "std": [],
+            "zydis-sys": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zydis-rs/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zydis-rs/0.1.4/downloads",
+            "authors": "/api/v1/crates/zydis-rs/0.1.4/authors"
+        },
+        "crate_size": 358194,
+        "published_by": {
+            "id": 391464,
+            "login": "linairx",
+            "name": "John Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/129045754?v=4",
+            "url": "https://github.com/linairx"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 391464,
+                    "login": "linairx",
+                    "name": "John Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/129045754?v=4",
+                    "url": "https://github.com/linairx"
+                },
+                "time": "2026-02-21T15:33:36.704301Z"
+            }
+        ],
+        "checksum": "efffed0eeb96d9d3d6532217587511380114be53e75ddfd4e5cf6fe85a38bba6",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A pure Rust x86/x64 disassembler and encoder library (inspired by Zydis)",
+        "homepage": null,
+        "documentation": "https://docs.rs/zydis-rs",
+        "repository": "https://github.com/linairx/zydis-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 52422,
+                    "comment_lines": 8214,
+                    "files": 53
+                }
+            },
+            "total_code_lines": 52422,
+            "total_comment_lines": 8214
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1712621,
+        "crate": "zyga",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zyga/0.1.0/download",
+        "readme_path": "/api/v1/crates/zyga/0.1.0/readme",
+        "updated_at": "2025-09-03T09:40:36.511877Z",
+        "created_at": "2025-09-03T09:40:36.511877Z",
+        "downloads": 284,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyga/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyga/0.1.0/downloads",
+            "authors": "/api/v1/crates/zyga/0.1.0/authors"
+        },
+        "crate_size": 29722,
+        "published_by": {
+            "id": 353876,
+            "login": "vitorpy",
+            "name": "Vitor Py",
+            "avatar": "https://avatars.githubusercontent.com/u/12871?v=4",
+            "url": "https://github.com/vitorpy"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 353876,
+                    "login": "vitorpy",
+                    "name": "Vitor Py",
+                    "avatar": "https://avatars.githubusercontent.com/u/12871?v=4",
+                    "url": "https://github.com/vitorpy"
+                },
+                "time": "2025-09-03T09:40:36.511877Z"
+            }
+        ],
+        "checksum": "58b1b9b2a343e2a371a28606dcfb1f5c9ed737bcc02f140176fff528a74aced8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zyga"
+        ],
+        "edition": "2021",
+        "description": "ZYGA zero-knowledge proof system - CLI and library for generating ZK proofs",
+        "homepage": "https://github.com/darklakefi/py-zk-tiago",
+        "documentation": "https://docs.rs/zyga",
+        "repository": "https://github.com/darklakefi/py-zk-tiago",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1495,
+                    "comment_lines": 224,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 1495,
+            "total_comment_lines": 224
+        }
+    }
+}

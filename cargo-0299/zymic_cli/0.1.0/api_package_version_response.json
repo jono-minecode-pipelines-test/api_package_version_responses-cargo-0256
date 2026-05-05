@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1732813,
+        "crate": "zymic_cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zymic_cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zymic_cli/0.1.0/readme",
+        "updated_at": "2025-09-16T19:37:22.314899Z",
+        "created_at": "2025-09-16T18:35:40.526406Z",
+        "downloads": 259,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zymic_cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zymic_cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zymic_cli/0.1.0/authors"
+        },
+        "crate_size": 24075,
+        "published_by": {
+            "id": 216969,
+            "login": "dpottavio",
+            "name": "Daniel Ottavio",
+            "avatar": "https://avatars.githubusercontent.com/u/16430099?v=4",
+            "url": "https://github.com/dpottavio"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 216969,
+                    "login": "dpottavio",
+                    "name": "Daniel Ottavio",
+                    "avatar": "https://avatars.githubusercontent.com/u/16430099?v=4",
+                    "url": "https://github.com/dpottavio"
+                },
+                "time": "2025-09-16T18:35:40.526406Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 216969,
+                    "login": "dpottavio",
+                    "name": "Daniel Ottavio",
+                    "avatar": "https://avatars.githubusercontent.com/u/16430099?v=4",
+                    "url": "https://github.com/dpottavio"
+                },
+                "time": "2025-09-16T19:37:22.317157Z"
+            }
+        ],
+        "checksum": "515638d8d589ae517f6d857942b8d1abf91f1f7942eedcea83cf6b0146165ade",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zymic"
+        ],
+        "edition": "2021",
+        "description": "Encrypt and decrypt files using the Zymic format.\n",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dpottavio/zymic",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 798,
+                    "comment_lines": 12,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 798,
+            "total_comment_lines": 12
+        }
+    }
+}

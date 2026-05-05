@@ -1,0 +1,92 @@
+{
+    "version": {
+        "id": 1743937,
+        "crate": "zyga",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zyga/0.4.0/download",
+        "readme_path": "/api/v1/crates/zyga/0.4.0/readme",
+        "updated_at": "2025-09-24T12:54:55.442860Z",
+        "created_at": "2025-09-24T12:54:55.442860Z",
+        "downloads": 265,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "solana": [
+                "solana-program",
+                "solana-bn254",
+                "borsh",
+                "borsh-derive"
+            ],
+            "std": [
+                "serde_json",
+                "thiserror",
+                "ark-std/std",
+                "ark-ff/std",
+                "ark-ec/std",
+                "ark-serialize/std",
+                "ark-bn254/std",
+                "hex/std",
+                "sha2/std",
+                "num-bigint/std",
+                "num-traits/std",
+                "serde/std",
+                "clap",
+                "bincode"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyga/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyga/0.4.0/downloads",
+            "authors": "/api/v1/crates/zyga/0.4.0/authors"
+        },
+        "crate_size": 130207,
+        "published_by": {
+            "id": 353876,
+            "login": "vitorpy",
+            "name": "Vitor Py",
+            "avatar": "https://avatars.githubusercontent.com/u/12871?v=4",
+            "url": "https://github.com/vitorpy"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 353876,
+                    "login": "vitorpy",
+                    "name": "Vitor Py",
+                    "avatar": "https://avatars.githubusercontent.com/u/12871?v=4",
+                    "url": "https://github.com/vitorpy"
+                },
+                "time": "2025-09-24T12:54:55.442860Z"
+            }
+        ],
+        "checksum": "d7f609afe59aeb057057d6a5ec106e4c5a751fbaa0dc81eda05ba2d8a2626ada",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zyga"
+        ],
+        "edition": "2021",
+        "description": "ZYGA zero-knowledge proof system - CLI and library for generating ZK proofs",
+        "homepage": "https://github.com/darklakefi/zyga",
+        "documentation": "https://docs.rs/zyga",
+        "repository": "https://github.com/darklakefi/zyga",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3404,
+                    "comment_lines": 402,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 3404,
+            "total_comment_lines": 402
+        }
+    }
+}
