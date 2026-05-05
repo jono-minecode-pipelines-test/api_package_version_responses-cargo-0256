@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2018140,
+        "crate": "zrx-graph",
+        "num": "0.0.7",
+        "dl_path": "/api/v1/crates/zrx-graph/0.0.7/download",
+        "readme_path": "/api/v1/crates/zrx-graph/0.0.7/readme",
+        "updated_at": "2026-02-11T12:44:22.640668Z",
+        "created_at": "2026-02-11T12:44:22.640668Z",
+        "downloads": 11421,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-graph/0.0.7/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-graph/0.0.7/downloads",
+            "authors": "/api/v1/crates/zrx-graph/0.0.7/authors"
+        },
+        "crate_size": 19304,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2026-02-11T12:44:22.640668Z"
+            }
+        ],
+        "checksum": "c40e047c9ddb9468f63046cf57a9952cfd9cc8607f60762cd140b7c6c940f374",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Graph construction and traversal utilities",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": null,
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1379,
+                    "comment_lines": 728,
+                    "files": 23
+                }
+            },
+            "total_code_lines": 1379,
+            "total_comment_lines": 728
+        }
+    }
+}

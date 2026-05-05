@@ -1,0 +1,138 @@
+{
+    "version": {
+        "id": 1737098,
+        "crate": "zrpc",
+        "num": "0.8.12",
+        "dl_path": "/api/v1/crates/zrpc/0.8.12/download",
+        "readme_path": "/api/v1/crates/zrpc/0.8.12/readme",
+        "updated_at": "2025-09-19T13:05:15.421312Z",
+        "created_at": "2025-09-19T13:05:15.421312Z",
+        "downloads": 381,
+        "features": {
+            "auth_pubkey": [
+                "zenoh/auth_pubkey"
+            ],
+            "auth_usrpwd": [
+                "zenoh/auth_usrpwd"
+            ],
+            "default": [
+                "query_payload",
+                "resp_json",
+                "router_json",
+                "send_json",
+                "state_json",
+                "transport_tcp",
+                "transport_udp",
+                "zenoh/unstable"
+            ],
+            "query_payload": [
+                "zenoh/unstable"
+            ],
+            "resp_bincode": [
+                "bincode"
+            ],
+            "resp_cbor": [
+                "serde_cbor"
+            ],
+            "resp_json": [
+                "serde_json"
+            ],
+            "router_json": [
+                "serde_json"
+            ],
+            "send_bincode": [
+                "bincode"
+            ],
+            "send_cbor": [
+                "serde_cbor"
+            ],
+            "send_json": [
+                "serde_json"
+            ],
+            "shared-memory": [
+                "zenoh/shared-memory"
+            ],
+            "state_bincode": [
+                "bincode"
+            ],
+            "state_cbor": [
+                "serde_cbor"
+            ],
+            "state_json": [
+                "serde_json"
+            ],
+            "stats": [
+                "zenoh/stats"
+            ],
+            "transport_quic": [
+                "zenoh/transport_quic"
+            ],
+            "transport_tcp": [
+                "zenoh/transport_tcp"
+            ],
+            "transport_tls": [
+                "zenoh/transport_tls"
+            ],
+            "transport_udp": [
+                "zenoh/transport_udp"
+            ],
+            "transport_unixsock-stream": [
+                "zenoh/transport_unixsock-stream"
+            ],
+            "transport_ws": [
+                "zenoh/transport_ws"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": " EPL-2.0 OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrpc/0.8.12/dependencies",
+            "version_downloads": "/api/v1/crates/zrpc/0.8.12/downloads",
+            "authors": "/api/v1/crates/zrpc/0.8.12/authors"
+        },
+        "crate_size": 36143,
+        "published_by": {
+            "id": 257101,
+            "login": "zettascale-bot",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/161707711?v=4",
+            "url": "https://github.com/zettascale-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 257101,
+                    "login": "zettascale-bot",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/161707711?v=4",
+                    "url": "https://github.com/zettascale-bot"
+                },
+                "time": "2025-09-19T13:05:15.421312Z"
+            }
+        ],
+        "checksum": "0b84a84d5701d02a33b557d648a7db537188c7fd874629eef49137ed7eccfc72",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Framework for decentralized and distributed microservices over Zenoh.",
+        "homepage": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "documentation": null,
+        "repository": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 754,
+                    "comment_lines": 135,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 754,
+            "total_comment_lines": 135
+        }
+    }
+}

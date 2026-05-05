@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1931527,
+        "crate": "zrl-proc-macros",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrl-proc-macros/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrl-proc-macros/0.1.0/readme",
+        "updated_at": "2026-01-09T13:36:53.586514Z",
+        "created_at": "2026-01-09T13:36:53.586514Z",
+        "downloads": 100,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrl-proc-macros/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrl-proc-macros/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrl-proc-macros/0.1.0/authors"
+        },
+        "crate_size": 2170,
+        "published_by": {
+            "id": 290946,
+            "login": "zhrexx",
+            "name": "Jan Moretz",
+            "avatar": "https://avatars.githubusercontent.com/u/134622710?v=4",
+            "url": "https://github.com/zhrexx"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 290946,
+                    "login": "zhrexx",
+                    "name": "Jan Moretz",
+                    "avatar": "https://avatars.githubusercontent.com/u/134622710?v=4",
+                    "url": "https://github.com/zhrexx"
+                },
+                "time": "2026-01-09T13:36:53.586514Z"
+            }
+        ],
+        "checksum": "f446207941b3d11a3a2d278ce429593f7eb54eb1b0d5da3850148effddfc1e37",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "proc-macros for zrl",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 81,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 81,
+            "total_comment_lines": 0
+        }
+    }
+}
