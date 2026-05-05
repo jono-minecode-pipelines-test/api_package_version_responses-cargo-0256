@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1801941,
+        "crate": "zrx-graph",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zrx-graph/0.0.1/download",
+        "readme_path": "/api/v1/crates/zrx-graph/0.0.1/readme",
+        "updated_at": "2025-10-31T14:21:00.917708Z",
+        "created_at": "2025-10-31T14:21:00.917708Z",
+        "downloads": 5235,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-graph/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-graph/0.0.1/downloads",
+            "authors": "/api/v1/crates/zrx-graph/0.0.1/authors"
+        },
+        "crate_size": 15784,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2025-10-31T14:21:00.917708Z"
+            }
+        ],
+        "checksum": "c8deb42a334884f7d30d4ceba77db865fe22ae0db9a2678e90d1449527c935ad",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Graph construction and traversal utilities",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": "https://github.com/zensical/zrx",
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 660,
+                    "comment_lines": 460,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 660,
+            "total_comment_lines": 460
+        }
+    }
+}

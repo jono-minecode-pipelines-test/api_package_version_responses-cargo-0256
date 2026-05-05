@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1189930,
+        "crate": "zrx-web-protocol",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrx-web-protocol/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrx-web-protocol/0.1.0/readme",
+        "updated_at": "2024-07-17T14:46:26.468417Z",
+        "created_at": "2024-07-01T11:43:05.613457Z",
+        "downloads": 1061,
+        "features": {
+            "zrx_server": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-web-protocol/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-web-protocol/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrx-web-protocol/0.1.0/authors"
+        },
+        "crate_size": 6729,
+        "published_by": {
+            "id": 245836,
+            "login": "morphqdd",
+            "name": "Insomnia",
+            "avatar": "https://avatars.githubusercontent.com/u/125282851?v=4",
+            "url": "https://github.com/morphqdd"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 245836,
+                    "login": "morphqdd",
+                    "name": "Insomnia",
+                    "avatar": "https://avatars.githubusercontent.com/u/125282851?v=4",
+                    "url": "https://github.com/morphqdd"
+                },
+                "time": "2024-07-01T11:43:05.613457Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 245836,
+                    "login": "morphqdd",
+                    "name": "Insomnia",
+                    "avatar": "https://avatars.githubusercontent.com/u/125282851?v=4",
+                    "url": "https://github.com/morphqdd"
+                },
+                "time": "2024-07-17T14:46:26.470030Z"
+            }
+        ],
+        "checksum": "41dc481e6ac5d1ab447a61b7b10ff44d282c07fce10ba435b3f7357ad3a9e8eb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZRX web protocol for ZerOX DataBase",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 104,
+                    "comment_lines": 0,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 104,
+            "total_comment_lines": 0
+        }
+    }
+}
