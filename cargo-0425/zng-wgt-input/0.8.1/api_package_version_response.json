@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 1774991,
+        "crate": "zng-wgt-input",
+        "num": "0.8.1",
+        "dl_path": "/api/v1/crates/zng-wgt-input/0.8.1/download",
+        "readme_path": "/api/v1/crates/zng-wgt-input/0.8.1/readme",
+        "updated_at": "2025-10-15T03:26:55.821173Z",
+        "created_at": "2025-10-15T03:26:55.821173Z",
+        "downloads": 316,
+        "features": {
+            "drag_drop": [
+                "zng-ext-input/drag_drop"
+            ],
+            "image": [
+                "zng-ext-window/image"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-input/0.8.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-input/0.8.1/downloads",
+            "authors": "/api/v1/crates/zng-wgt-input/0.8.1/authors"
+        },
+        "crate_size": 30179,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-10-15T03:26:55.821173Z"
+            }
+        ],
+        "checksum": "20e44dcd5222b175f60780ec447834501ef458253176f3d8ebfde299a96e7d3e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 30,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 1743,
+                    "comment_lines": 19,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 1773,
+            "total_comment_lines": 19
+        }
+    }
+}
