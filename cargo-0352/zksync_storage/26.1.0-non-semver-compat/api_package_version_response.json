@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1418035,
+        "crate": "zksync_storage",
+        "num": "26.1.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_storage/26.1.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_storage/26.1.0-non-semver-compat/readme",
+        "updated_at": "2025-01-22T18:40:07.202017Z",
+        "created_at": "2025-01-22T18:40:07.202017Z",
+        "downloads": 690,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_storage/26.1.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_storage/26.1.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_storage/26.1.0-non-semver-compat/authors"
+        },
+        "crate_size": 13077,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2025-01-22T18:40:07.202017Z"
+            }
+        ],
+        "checksum": "dbde77b364828469aaa881f4b052bac258ab907c5b219d3744054bc962bb3cc6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync RocksDB storage interfaces",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1073,
+                    "comment_lines": 25,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1073,
+            "total_comment_lines": 25
+        }
+    }
+}
