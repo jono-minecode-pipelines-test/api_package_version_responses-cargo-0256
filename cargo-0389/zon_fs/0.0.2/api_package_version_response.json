@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1263342,
+        "crate": "zon_fs",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zon_fs/0.0.2/download",
+        "readme_path": "/api/v1/crates/zon_fs/0.0.2/readme",
+        "updated_at": "2024-09-07T22:24:47.275987Z",
+        "created_at": "2024-09-07T22:24:47.275987Z",
+        "downloads": 1058,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zon_fs/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zon_fs/0.0.2/downloads",
+            "authors": "/api/v1/crates/zon_fs/0.0.2/authors"
+        },
+        "crate_size": 16285,
+        "published_by": {
+            "id": 6913,
+            "login": "jplatte",
+            "name": "Jonas Platte",
+            "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+            "url": "https://github.com/jplatte"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6913,
+                    "login": "jplatte",
+                    "name": "Jonas Platte",
+                    "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+                    "url": "https://github.com/jplatte"
+                },
+                "time": "2024-09-07T22:24:47.275987Z"
+            }
+        ],
+        "checksum": "aa19e58e9acb53392597db5bfbaf5893c6c1c03e454db4f5b3e8413a450288bc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "part of a new WIP, very incomplete async http service stack",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1520,
+                    "comment_lines": 77,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 1520,
+            "total_comment_lines": 77
+        }
+    }
+}

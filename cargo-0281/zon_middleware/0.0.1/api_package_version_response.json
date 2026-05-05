@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1255773,
+        "crate": "zon_middleware",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zon_middleware/0.0.1/download",
+        "readme_path": "/api/v1/crates/zon_middleware/0.0.1/readme",
+        "updated_at": "2024-09-01T11:56:50.316367Z",
+        "created_at": "2024-09-01T11:56:50.316367Z",
+        "downloads": 990,
+        "features": {
+            "set-status": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zon_middleware/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zon_middleware/0.0.1/downloads",
+            "authors": "/api/v1/crates/zon_middleware/0.0.1/authors"
+        },
+        "crate_size": 2063,
+        "published_by": {
+            "id": 6913,
+            "login": "jplatte",
+            "name": "Jonas Platte",
+            "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+            "url": "https://github.com/jplatte"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6913,
+                    "login": "jplatte",
+                    "name": "Jonas Platte",
+                    "avatar": "https://avatars.githubusercontent.com/u/951129?v=4",
+                    "url": "https://github.com/jplatte"
+                },
+                "time": "2024-09-01T11:56:50.316367Z"
+            }
+        ],
+        "checksum": "c0bd662fc5538e1d6ca3caaffec07a3f76bda263a10ae7d0190e60ef14d25361",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "part of a new WIP, very incomplete async http service stack",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 43,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 43,
+            "total_comment_lines": 0
+        }
+    }
+}

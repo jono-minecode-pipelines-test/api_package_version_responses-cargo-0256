@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 932716,
+        "crate": "zombienet-support",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zombienet-support/0.0.0/download",
+        "readme_path": "/api/v1/crates/zombienet-support/0.0.0/readme",
+        "updated_at": "2023-10-23T11:57:07.109568Z",
+        "created_at": "2023-10-23T11:57:07.109568Z",
+        "downloads": 1173,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-support/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-support/0.0.0/downloads",
+            "authors": "/api/v1/crates/zombienet-support/0.0.0/authors"
+        },
+        "crate_size": 952,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2023-10-23T11:57:07.109568Z"
+            }
+        ],
+        "checksum": "22552bc13bddf5d6a7cde10d08f3556bb40be2d2046dc2e8b260bd3bfc4d3465",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zombienet-support"
+        ],
+        "edition": "2021",
+        "description": "Zombienet support",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pepoviola/zombienet-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
