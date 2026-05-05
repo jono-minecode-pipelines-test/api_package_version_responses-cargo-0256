@@ -1,0 +1,108 @@
+{
+    "version": {
+        "id": 2214229,
+        "crate": "zorto-core",
+        "num": "0.20.1",
+        "dl_path": "/api/v1/crates/zorto-core/0.20.1/download",
+        "readme_path": "/api/v1/crates/zorto-core/0.20.1/readme",
+        "updated_at": "2026-04-05T13:43:11.743212Z",
+        "created_at": "2026-04-05T13:43:11.743212Z",
+        "downloads": 19,
+        "features": {
+            "default": [
+                "embed-python",
+                "search",
+                "theme-zorto",
+                "theme-dkdc",
+                "theme-default",
+                "theme-ember",
+                "theme-forest",
+                "theme-ocean",
+                "theme-rose",
+                "theme-slate",
+                "theme-midnight",
+                "theme-sunset",
+                "theme-mint",
+                "theme-plum",
+                "theme-sand",
+                "theme-arctic",
+                "theme-lime",
+                "theme-charcoal"
+            ],
+            "embed-python": [
+                "python",
+                "pyo3/auto-initialize"
+            ],
+            "python": [
+                "dep:pyo3"
+            ],
+            "search": [
+                "dep:rusqlite"
+            ],
+            "theme-arctic": [],
+            "theme-charcoal": [],
+            "theme-default": [],
+            "theme-dkdc": [],
+            "theme-ember": [],
+            "theme-forest": [],
+            "theme-lime": [],
+            "theme-midnight": [],
+            "theme-mint": [],
+            "theme-ocean": [],
+            "theme-plum": [],
+            "theme-rose": [],
+            "theme-sand": [],
+            "theme-slate": [],
+            "theme-sunset": [],
+            "theme-zorto": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-core/0.20.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-core/0.20.1/downloads",
+            "authors": "/api/v1/crates/zorto-core/0.20.1/authors"
+        },
+        "crate_size": 115005,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "95f54ba1b410c8ab72ee769c1c06ab928621aa64f7db62cbfaecb2a68738ac81",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core library for zorto \u2014 the AI-native static site generator (SSG) with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "24002697577",
+            "sha": "a9234ac94383b037e17bed8778d3ae9ba5cd9100"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 829,
+                    "comment_lines": 0,
+                    "files": 15
+                },
+                "Rust": {
+                    "code_lines": 8413,
+                    "comment_lines": 323,
+                    "files": 14
+                },
+                "Sass": {
+                    "code_lines": 2293,
+                    "comment_lines": 150,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 11535,
+            "total_comment_lines": 473
+        }
+    }
+}

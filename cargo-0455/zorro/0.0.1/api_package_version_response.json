@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 354585,
+        "crate": "zorro",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zorro/0.0.1/download",
+        "readme_path": "/api/v1/crates/zorro/0.0.1/readme",
+        "updated_at": "2021-03-20T19:36:26.577791Z",
+        "created_at": "2021-03-20T19:36:26.577791Z",
+        "downloads": 1641,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zorro/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorro/0.0.1/downloads",
+            "authors": "/api/v1/crates/zorro/0.0.1/authors"
+        },
+        "crate_size": 350648,
+        "published_by": {
+            "id": 116417,
+            "login": "chrisftw",
+            "name": "Chris Reister",
+            "avatar": "https://avatars.githubusercontent.com/u/29630?v=4",
+            "url": "https://github.com/chrisftw"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 116417,
+                    "login": "chrisftw",
+                    "name": "Chris Reister",
+                    "avatar": "https://avatars.githubusercontent.com/u/29630?v=4",
+                    "url": "https://github.com/chrisftw"
+                },
+                "time": "2021-03-20T19:36:26.577791Z"
+            }
+        ],
+        "checksum": "82ae56d873f82681b5fca81326eb0741396ba2325ca62c8d19cadf62ce625dc6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Encode data into, and decode data out of images.",
+        "homepage": "https://github.com/chrisftw/zorro",
+        "documentation": "https://github.com/chrisftw/zorro",
+        "repository": "https://github.com/chrisftw/zorro",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 324,
+                    "comment_lines": 22,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 324,
+            "total_comment_lines": 22
+        }
+    }
+}

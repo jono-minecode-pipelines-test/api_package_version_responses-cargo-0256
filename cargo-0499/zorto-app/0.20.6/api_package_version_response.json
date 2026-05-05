@@ -1,0 +1,51 @@
+{
+    "version": {
+        "id": 2218709,
+        "crate": "zorto-app",
+        "num": "0.20.6",
+        "dl_path": "/api/v1/crates/zorto-app/0.20.6/download",
+        "readme_path": "/api/v1/crates/zorto-app/0.20.6/readme",
+        "updated_at": "2026-04-06T16:35:21.492078Z",
+        "created_at": "2026-04-06T16:35:21.492078Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-app/0.20.6/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-app/0.20.6/downloads",
+            "authors": "/api/v1/crates/zorto-app/0.20.6/authors"
+        },
+        "crate_size": 1264,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "f33ac311690096669326428c8d93756ad5e095879a4444403caaa10e0edc6e98",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Desktop app for zorto (future)",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "24040296449",
+            "sha": "eabac77aa9169fe5016ea139367395182b0d3bf2"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 4,
+            "total_comment_lines": 0
+        }
+    }
+}

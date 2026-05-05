@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2169513,
+        "crate": "zorto-app",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zorto-app/0.9.1/download",
+        "readme_path": "/api/v1/crates/zorto-app/0.9.1/readme",
+        "updated_at": "2026-03-26T03:15:58.428187Z",
+        "created_at": "2026-03-26T03:15:58.428187Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-app/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-app/0.9.1/downloads",
+            "authors": "/api/v1/crates/zorto-app/0.9.1/authors"
+        },
+        "crate_size": 1172,
+        "published_by": {
+            "id": 171333,
+            "login": "lostmygithubaccount",
+            "name": "Cody Peterson",
+            "avatar": "https://avatars.githubusercontent.com/u/54814569?v=4",
+            "url": "https://github.com/lostmygithubaccount"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 171333,
+                    "login": "lostmygithubaccount",
+                    "name": "Cody Peterson",
+                    "avatar": "https://avatars.githubusercontent.com/u/54814569?v=4",
+                    "url": "https://github.com/lostmygithubaccount"
+                },
+                "time": "2026-03-26T03:15:58.428187Z"
+            }
+        ],
+        "checksum": "fe2a751a755bd55471d616c5ce92425d6b0cb7cf558adfab518ac75d6de3ae52",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Desktop app for zorto (future)",
+        "homepage": "https://github.com/lostmygithubaccount/zorto",
+        "documentation": null,
+        "repository": "https://github.com/lostmygithubaccount/zorto",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 4,
+            "total_comment_lines": 0
+        }
+    }
+}
