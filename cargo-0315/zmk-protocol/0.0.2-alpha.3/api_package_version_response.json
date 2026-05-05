@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1189809,
+        "crate": "zmk-protocol",
+        "num": "0.0.2-alpha.3",
+        "dl_path": "/api/v1/crates/zmk-protocol/0.0.2-alpha.3/download",
+        "readme_path": "/api/v1/crates/zmk-protocol/0.0.2-alpha.3/readme",
+        "updated_at": "2024-07-01T08:05:51.744672Z",
+        "created_at": "2024-07-01T08:05:51.744672Z",
+        "downloads": 1349,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zmk-protocol/0.0.2-alpha.3/dependencies",
+            "version_downloads": "/api/v1/crates/zmk-protocol/0.0.2-alpha.3/downloads",
+            "authors": "/api/v1/crates/zmk-protocol/0.0.2-alpha.3/authors"
+        },
+        "crate_size": 4782,
+        "published_by": {
+            "id": 156308,
+            "login": "SergioRibera",
+            "name": "Sergio Alejandro Ribera Costa",
+            "avatar": "https://avatars.githubusercontent.com/u/56278796?v=4",
+            "url": "https://github.com/SergioRibera"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156308,
+                    "login": "SergioRibera",
+                    "name": "Sergio Alejandro Ribera Costa",
+                    "avatar": "https://avatars.githubusercontent.com/u/56278796?v=4",
+                    "url": "https://github.com/SergioRibera"
+                },
+                "time": "2024-07-01T08:05:51.744672Z"
+            }
+        ],
+        "checksum": "972bb180b96d0572bfd0c213a340d72f8ebb50e635b6868a9584e76700e67763",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A protocol to interact with ZMK firmware",
+        "homepage": "https://zmk.dev",
+        "documentation": null,
+        "repository": "https://github.com/SergioRibera/zmk-protocol",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 608,
+                    "comment_lines": 21,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 608,
+            "total_comment_lines": 21
+        }
+    }
+}
