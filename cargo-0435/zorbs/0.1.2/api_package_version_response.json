@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2069867,
+        "crate": "zorbs",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zorbs/0.1.2/download",
+        "readme_path": "/api/v1/crates/zorbs/0.1.2/readme",
+        "updated_at": "2026-02-27T14:17:01.465424Z",
+        "created_at": "2026-02-27T14:17:01.465424Z",
+        "downloads": 21,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorbs/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zorbs/0.1.2/downloads",
+            "authors": "/api/v1/crates/zorbs/0.1.2/authors"
+        },
+        "crate_size": 390322,
+        "published_by": {
+            "id": 339795,
+            "login": "murphsicles",
+            "name": "Roy Murphy",
+            "avatar": "https://avatars.githubusercontent.com/u/215738114?v=4",
+            "url": "https://github.com/murphsicles"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 339795,
+                    "login": "murphsicles",
+                    "name": "Roy Murphy",
+                    "avatar": "https://avatars.githubusercontent.com/u/215738114?v=4",
+                    "url": "https://github.com/murphsicles"
+                },
+                "time": "2026-02-27T14:17:01.465424Z"
+            }
+        ],
+        "checksum": "445a4745b4dde4ed1e4e10074f65b4c7c061269835b0dfe7b2ffcae5f12938be",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zorb",
+            "zorbs"
+        ],
+        "edition": "2021",
+        "description": "The official registry for Zorbs by The Zeta Foundation (zorbs.io)",
+        "homepage": "https://zorbs.io",
+        "documentation": "https://zorbs.io/docs",
+        "repository": "https://github.com/murphsicles/zorbs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 448,
+                    "comment_lines": 6,
+                    "files": 4
+                },
+                "Rust": {
+                    "code_lines": 1515,
+                    "comment_lines": 30,
+                    "files": 22
+                },
+                "SQL": {
+                    "code_lines": 85,
+                    "comment_lines": 8,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 2048,
+            "total_comment_lines": 44
+        }
+    }
+}

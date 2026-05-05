@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2320779,
+        "crate": "zord",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zord/0.1.2/download",
+        "readme_path": "/api/v1/crates/zord/0.1.2/readme",
+        "updated_at": "2026-04-28T16:58:07.859102Z",
+        "created_at": "2026-04-28T16:58:07.859102Z",
+        "downloads": 11,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zord/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zord/0.1.2/downloads",
+            "authors": "/api/v1/crates/zord/0.1.2/authors"
+        },
+        "crate_size": 17161,
+        "published_by": {
+            "id": 345253,
+            "login": "douglance",
+            "name": "doug",
+            "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+            "url": "https://github.com/douglance"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 345253,
+                    "login": "douglance",
+                    "name": "doug",
+                    "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+                    "url": "https://github.com/douglance"
+                },
+                "time": "2026-04-28T16:58:07.859102Z"
+            }
+        ],
+        "checksum": "4389415dde3c6d72619e540262390fd3e1b9db45d21495d663b6f169f89c8a67",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zord"
+        ],
+        "edition": "2021",
+        "description": "A minimal text editor with terminal UI (ratatui)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/douglance/zord",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 798,
+                    "comment_lines": 52,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 798,
+            "total_comment_lines": 52
+        }
+    }
+}

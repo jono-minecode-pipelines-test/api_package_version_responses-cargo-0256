@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1923426,
+        "crate": "zopp-store-postgres",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zopp-store-postgres/0.1.1/download",
+        "readme_path": "/api/v1/crates/zopp-store-postgres/0.1.1/readme",
+        "updated_at": "2026-01-05T19:23:01.175080Z",
+        "created_at": "2026-01-05T19:23:01.175080Z",
+        "downloads": 92,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-store-postgres/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-store-postgres/0.1.1/downloads",
+            "authors": "/api/v1/crates/zopp-store-postgres/0.1.1/authors"
+        },
+        "crate_size": 28963,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T19:23:01.175080Z"
+            }
+        ],
+        "checksum": "07500b7e47d21315b5168fbc13426a5cd2981838fecfeac81642327f69174e23",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "PostgreSQL storage backend for zopp secrets manager",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1410,
+                    "comment_lines": 28,
+                    "files": 2
+                },
+                "SQL": {
+                    "code_lines": 111,
+                    "comment_lines": 2,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1521,
+            "total_comment_lines": 30
+        }
+    }
+}

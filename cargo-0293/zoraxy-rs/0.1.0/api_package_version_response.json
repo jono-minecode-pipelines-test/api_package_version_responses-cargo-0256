@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1832069,
+        "crate": "zoraxy-rs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoraxy-rs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoraxy-rs/0.1.0/readme",
+        "updated_at": "2025-11-19T06:23:10.918654Z",
+        "created_at": "2025-11-19T06:23:10.918654Z",
+        "downloads": 45,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0 and MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoraxy-rs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoraxy-rs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoraxy-rs/0.1.0/authors"
+        },
+        "crate_size": 44106,
+        "published_by": {
+            "id": 157979,
+            "login": "AnthonyMichaelTDM",
+            "name": "Anthony Rubick",
+            "avatar": "https://avatars.githubusercontent.com/u/68485672?v=4",
+            "url": "https://github.com/AnthonyMichaelTDM"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 157979,
+                    "login": "AnthonyMichaelTDM",
+                    "name": "Anthony Rubick",
+                    "avatar": "https://avatars.githubusercontent.com/u/68485672?v=4",
+                    "url": "https://github.com/AnthonyMichaelTDM"
+                },
+                "time": "2025-11-19T06:23:10.918654Z"
+            }
+        ],
+        "checksum": "8b0c1fb31ff0035dd283bc902a387e8c6162fda414052a318bc87f9c6368bd8e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A Rust crate for building plugins for the Zoraxy Reverse Proxy",
+        "homepage": "https://zoraxy.aroz.org/",
+        "documentation": null,
+        "repository": "https://github.com/aroz-online/zoraxy-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1290,
+                    "comment_lines": 3,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 1290,
+            "total_comment_lines": 3
+        }
+    }
+}

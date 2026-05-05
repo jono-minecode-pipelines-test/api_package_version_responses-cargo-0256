@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2331006,
+        "crate": "zornmesh",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zornmesh/0.3.0/download",
+        "readme_path": "/api/v1/crates/zornmesh/0.3.0/readme",
+        "updated_at": "2026-04-30T16:37:21.250641Z",
+        "created_at": "2026-04-30T16:37:21.250641Z",
+        "downloads": 8,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zornmesh/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zornmesh/0.3.0/downloads",
+            "authors": "/api/v1/crates/zornmesh/0.3.0/authors"
+        },
+        "crate_size": 197303,
+        "published_by": {
+            "id": 411033,
+            "login": "nebrass",
+            "name": "Nebrass Lamouchi",
+            "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+            "url": "https://github.com/nebrass"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 411033,
+                    "login": "nebrass",
+                    "name": "Nebrass Lamouchi",
+                    "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+                    "url": "https://github.com/nebrass"
+                },
+                "time": "2026-04-30T16:37:21.250641Z"
+            }
+        ],
+        "checksum": "94ec73a385611533e9223cb80f3e5c9af8f6f6be14d93d778d9a3b913ae4dc42",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zornmesh"
+        ],
+        "edition": "2024",
+        "description": "Local-first agent mesh CLI and Model Context Protocol stdio bridge.",
+        "homepage": "https://github.com/nebrass/zorn-mesh",
+        "documentation": null,
+        "repository": "https://github.com/nebrass/zorn-mesh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 21141,
+                    "comment_lines": 33,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 21141,
+            "total_comment_lines": 33
+        }
+    }
+}

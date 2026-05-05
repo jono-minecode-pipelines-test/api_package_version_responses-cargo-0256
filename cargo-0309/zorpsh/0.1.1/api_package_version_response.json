@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1465664,
+        "crate": "zorpsh",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zorpsh/0.1.1/download",
+        "readme_path": "/api/v1/crates/zorpsh/0.1.1/readme",
+        "updated_at": "2025-03-02T23:34:53.679694Z",
+        "created_at": "2025-03-02T23:34:53.679694Z",
+        "downloads": 624,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorpsh/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorpsh/0.1.1/downloads",
+            "authors": "/api/v1/crates/zorpsh/0.1.1/authors"
+        },
+        "crate_size": 16083,
+        "published_by": {
+            "id": 318772,
+            "login": "aphexlog",
+            "name": "Aaron",
+            "avatar": "https://avatars.githubusercontent.com/u/20426719?v=4",
+            "url": "https://github.com/aphexlog"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 318772,
+                    "login": "aphexlog",
+                    "name": "Aaron",
+                    "avatar": "https://avatars.githubusercontent.com/u/20426719?v=4",
+                    "url": "https://github.com/aphexlog"
+                },
+                "time": "2025-03-02T23:34:53.679694Z"
+            }
+        ],
+        "checksum": "887a0cd34ae64d716fb38a0ad0750f3f9e633277145f61aced78a35afa9673d3",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zorpsh"
+        ],
+        "edition": "2021",
+        "description": "ZorpShell is a shell that is designed to be a drop-in replacement for Zsh.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/aphexlog/ZorpSh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 129,
+                    "comment_lines": 18,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 129,
+            "total_comment_lines": 18
+        }
+    }
+}
