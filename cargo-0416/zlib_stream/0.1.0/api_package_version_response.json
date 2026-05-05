@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 462276,
+        "crate": "zlib_stream",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlib_stream/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlib_stream/0.1.0/readme",
+        "updated_at": "2021-12-03T02:37:02.376612Z",
+        "created_at": "2021-12-03T02:37:02.376612Z",
+        "downloads": 2436,
+        "features": {
+            "default": [
+                "stream"
+            ],
+            "stream": [
+                "futures-util"
+            ],
+            "tokio-runtime": [
+                "stream",
+                "tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib_stream/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib_stream/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlib_stream/0.1.0/authors"
+        },
+        "crate_size": 4585,
+        "published_by": {
+            "id": 120717,
+            "login": "ByteAlex",
+            "name": "Alex",
+            "avatar": "https://avatars.githubusercontent.com/u/2230292?v=4",
+            "url": "https://github.com/ByteAlex"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 120717,
+                    "login": "ByteAlex",
+                    "name": "Alex",
+                    "avatar": "https://avatars.githubusercontent.com/u/2230292?v=4",
+                    "url": "https://github.com/ByteAlex"
+                },
+                "time": "2021-12-03T02:37:02.376612Z"
+            }
+        ],
+        "checksum": "3be397110ce38f156f6409fa012583529d54892979850f5ade19fcd57884aede",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An utility to decompress zlib-stream encoded WebSocket messages",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ZeroTwo-Bot/zlib-stream-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 260,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 260,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 427156,
+        "crate": "zlib_stream",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zlib_stream/0.0.2/download",
+        "readme_path": "/api/v1/crates/zlib_stream/0.0.2/readme",
+        "updated_at": "2021-09-18T01:37:21.637589Z",
+        "created_at": "2021-09-18T01:37:21.637589Z",
+        "downloads": 1277,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib_stream/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zlib_stream/0.0.2/downloads",
+            "authors": "/api/v1/crates/zlib_stream/0.0.2/authors"
+        },
+        "crate_size": 2824,
+        "published_by": {
+            "id": 120717,
+            "login": "ByteAlex",
+            "name": "Alex",
+            "avatar": "https://avatars.githubusercontent.com/u/2230292?v=4",
+            "url": "https://github.com/ByteAlex"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 120717,
+                    "login": "ByteAlex",
+                    "name": "Alex",
+                    "avatar": "https://avatars.githubusercontent.com/u/2230292?v=4",
+                    "url": "https://github.com/ByteAlex"
+                },
+                "time": "2021-09-18T01:37:21.637589Z"
+            }
+        ],
+        "checksum": "67966e170d39fdf173f07ee08d77862833c1d712ca2a7fe47a70d376ffabcd93",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "An utility to decompress zlib-stream encoded WebSocket messages",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ZeroTwo-Bot/zlib-stream-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 101,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 101,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 6315,
+        "crate": "zlib-sys",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zlib-sys/0.0.1/download",
+        "readme_path": "/api/v1/crates/zlib-sys/0.0.1/readme",
+        "updated_at": "2017-11-30T04:18:54.832315Z",
+        "created_at": "2015-03-13T21:56:13.511658Z",
+        "downloads": 1618,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-sys/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-sys/0.0.1/downloads",
+            "authors": "/api/v1/crates/zlib-sys/0.0.1/authors"
+        },
+        "crate_size": 2034,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "149b2adf8ec195a19a6e1efd0a93dfd2bbcde18bb4b34becf973605a1f7550bf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "FFI binding to zlib.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 161,
+                    "comment_lines": 19,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 161,
+            "total_comment_lines": 19
+        }
+    }
+}

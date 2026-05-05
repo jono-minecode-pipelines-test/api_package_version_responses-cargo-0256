@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 6316,
+        "crate": "zlib-sys",
+        "num": "0.0.2",
+        "dl_path": "/api/v1/crates/zlib-sys/0.0.2/download",
+        "readme_path": "/api/v1/crates/zlib-sys/0.0.2/readme",
+        "updated_at": "2017-11-30T03:53:17.258341Z",
+        "created_at": "2015-03-13T21:57:03.308933Z",
+        "downloads": 2696,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-sys/0.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-sys/0.0.2/downloads",
+            "authors": "/api/v1/crates/zlib-sys/0.0.2/authors"
+        },
+        "crate_size": 2368,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "98c29096c31d64d92e692226f3b64f7842622d51c6110d18df047fdf01042a52",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "FFI binding to zlib.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/daggerbot/zlib-rs.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 161,
+                    "comment_lines": 19,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 161,
+            "total_comment_lines": 19
+        }
+    }
+}
