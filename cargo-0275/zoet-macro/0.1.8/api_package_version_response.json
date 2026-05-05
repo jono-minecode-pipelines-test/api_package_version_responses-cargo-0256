@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 466582,
+        "crate": "zoet-macro",
+        "num": "0.1.8",
+        "dl_path": "/api/v1/crates/zoet-macro/0.1.8/download",
+        "readme_path": "/api/v1/crates/zoet-macro/0.1.8/readme",
+        "updated_at": "2021-12-11T14:05:03.045755Z",
+        "created_at": "2021-12-11T14:05:03.045755Z",
+        "downloads": 1237,
+        "features": {
+            "alloc": [],
+            "clippy-insane": [],
+            "nightly": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoet-macro/0.1.8/dependencies",
+            "version_downloads": "/api/v1/crates/zoet-macro/0.1.8/downloads",
+            "authors": "/api/v1/crates/zoet-macro/0.1.8/authors"
+        },
+        "crate_size": 14889,
+        "published_by": {
+            "id": 49601,
+            "login": "mooli",
+            "name": "Peter Corlett",
+            "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+            "url": "https://github.com/mooli"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49601,
+                    "login": "mooli",
+                    "name": "Peter Corlett",
+                    "avatar": "https://avatars.githubusercontent.com/u/85358?v=4",
+                    "url": "https://github.com/mooli"
+                },
+                "time": "2021-12-11T14:05:03.045755Z"
+            }
+        ],
+        "checksum": "cc3005839df89c7c3b0377dbc0440929ad03a91e13e07396531371ba29b4b9db",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Implementation detail for `#[zoet]` macro",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/mooli/zoet-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1681,
+                    "comment_lines": 166,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1681,
+            "total_comment_lines": 166
+        }
+    }
+}

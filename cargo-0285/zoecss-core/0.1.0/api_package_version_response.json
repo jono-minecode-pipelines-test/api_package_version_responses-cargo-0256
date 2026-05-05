@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2011304,
+        "crate": "zoecss-core",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoecss-core/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoecss-core/0.1.0/readme",
+        "updated_at": "2026-02-09T08:52:58.007442Z",
+        "created_at": "2026-02-09T08:52:58.007442Z",
+        "downloads": 127,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoecss-core/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoecss-core/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoecss-core/0.1.0/authors"
+        },
+        "crate_size": 7115,
+        "published_by": {
+            "id": 353626,
+            "login": "goulvenclech",
+            "name": "Goulven CLEC'H",
+            "avatar": "https://avatars.githubusercontent.com/u/35667800?v=4",
+            "url": "https://github.com/goulvenclech"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 353626,
+                    "login": "goulvenclech",
+                    "name": "Goulven CLEC'H",
+                    "avatar": "https://avatars.githubusercontent.com/u/35667800?v=4",
+                    "url": "https://github.com/goulvenclech"
+                },
+                "time": "2026-02-09T08:52:58.007442Z"
+            }
+        ],
+        "checksum": "f98007df8b9f53dd11914db91a30fe0399cd3688474c22c452053368e4dbf393",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core CSS generation engine for ZoeCSS",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/bruits/zoecss",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 465,
+                    "comment_lines": 4,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 465,
+            "total_comment_lines": 4
+        }
+    }
+}

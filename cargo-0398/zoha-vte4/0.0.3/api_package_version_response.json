@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1133625,
+        "crate": "zoha-vte4",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zoha-vte4/0.0.3/download",
+        "readme_path": "/api/v1/crates/zoha-vte4/0.0.3/readme",
+        "updated_at": "2024-05-03T06:30:42.478234Z",
+        "created_at": "2024-05-03T06:30:42.478234Z",
+        "downloads": 1454,
+        "features": {
+            "default": [],
+            "v0_66": [
+                "ffi/v0_66"
+            ],
+            "v0_70": [
+                "v0_66",
+                "ffi/v0_70"
+            ],
+            "v0_72": [
+                "v0_70",
+                "ffi/v0_72"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoha-vte4/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zoha-vte4/0.0.3/downloads",
+            "authors": "/api/v1/crates/zoha-vte4/0.0.3/authors"
+        },
+        "crate_size": 16724,
+        "published_by": {
+            "id": 151877,
+            "login": "hkoosha",
+            "name": "Koosha",
+            "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+            "url": "https://github.com/hkoosha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 151877,
+                    "login": "hkoosha",
+                    "name": "Koosha",
+                    "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+                    "url": "https://github.com/hkoosha"
+                },
+                "time": "2024-05-03T06:30:42.478234Z"
+            }
+        ],
+        "checksum": "591db8a8dbbe293a8befa1b0befefb475caa5eec425d88973ecf9406334a39c5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust bindings for the VTE Gtk4 library, temporary clone of original GTK work",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/hkoosha/zoha-vte4",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4150,
+                    "comment_lines": 88,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 4150,
+            "total_comment_lines": 88
+        }
+    }
+}

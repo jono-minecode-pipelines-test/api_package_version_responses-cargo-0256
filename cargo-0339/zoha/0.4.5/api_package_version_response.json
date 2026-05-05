@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 990695,
+        "crate": "zoha",
+        "num": "0.4.5",
+        "dl_path": "/api/v1/crates/zoha/0.4.5/download",
+        "readme_path": "/api/v1/crates/zoha/0.4.5/readme",
+        "updated_at": "2023-12-19T15:34:45.572450Z",
+        "created_at": "2023-12-19T15:34:45.572450Z",
+        "downloads": 1200,
+        "features": {
+            "default": [
+                "hack"
+            ],
+            "hack": [
+                "dep:device_query"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoha/0.4.5/dependencies",
+            "version_downloads": "/api/v1/crates/zoha/0.4.5/downloads",
+            "authors": "/api/v1/crates/zoha/0.4.5/authors"
+        },
+        "crate_size": 49645,
+        "published_by": {
+            "id": 151877,
+            "login": "hkoosha",
+            "name": "Koosha",
+            "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+            "url": "https://github.com/hkoosha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 151877,
+                    "login": "hkoosha",
+                    "name": "Koosha",
+                    "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+                    "url": "https://github.com/hkoosha"
+                },
+                "time": "2023-12-19T15:34:45.572450Z"
+            }
+        ],
+        "checksum": "bcdf8805588d71ed9c4e7d34df351ec497d170e66eea2d4973791d10efedb110",
+        "rust_version": "1.60.0",
+        "has_lib": true,
+        "bin_names": [
+            "zoha"
+        ],
+        "edition": "2021",
+        "description": "A drop down terminal inspired by Tilda",
+        "homepage": "https://zoha.rs",
+        "documentation": null,
+        "repository": "https://github.com/hkoosha/zoha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3407,
+                    "comment_lines": 76,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 3407,
+            "total_comment_lines": 76
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 927395,
+        "crate": "zoha",
+        "num": "0.2.1",
+        "dl_path": "/api/v1/crates/zoha/0.2.1/download",
+        "readme_path": "/api/v1/crates/zoha/0.2.1/readme",
+        "updated_at": "2023-10-17T05:54:21.547377Z",
+        "created_at": "2023-10-17T05:54:21.547377Z",
+        "downloads": 1133,
+        "features": {
+            "default": [
+                "hack"
+            ],
+            "hack": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoha/0.2.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoha/0.2.1/downloads",
+            "authors": "/api/v1/crates/zoha/0.2.1/authors"
+        },
+        "crate_size": 48319,
+        "published_by": {
+            "id": 151877,
+            "login": "hkoosha",
+            "name": "Koosha",
+            "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+            "url": "https://github.com/hkoosha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 151877,
+                    "login": "hkoosha",
+                    "name": "Koosha",
+                    "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+                    "url": "https://github.com/hkoosha"
+                },
+                "time": "2023-10-17T05:54:21.547377Z"
+            }
+        ],
+        "checksum": "0dc84a200df886e29dd679aa6a76470a33f6158a8220d2bb6b4abbc91bd61195",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zoha"
+        ],
+        "edition": "2021",
+        "description": "A drop down terminal inspired by Tilda",
+        "homepage": "https://zoha.rs",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3159,
+                    "comment_lines": 65,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 3159,
+            "total_comment_lines": 65
+        }
+    }
+}

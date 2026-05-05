@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1866878,
+        "crate": "zoha",
+        "num": "0.8.0",
+        "dl_path": "/api/v1/crates/zoha/0.8.0/download",
+        "readme_path": "/api/v1/crates/zoha/0.8.0/readme",
+        "updated_at": "2025-12-08T13:07:48.339092Z",
+        "created_at": "2025-12-08T13:07:48.339092Z",
+        "downloads": 42,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoha/0.8.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoha/0.8.0/downloads",
+            "authors": "/api/v1/crates/zoha/0.8.0/authors"
+        },
+        "crate_size": 47910,
+        "published_by": {
+            "id": 151877,
+            "login": "hkoosha",
+            "name": "Koosha",
+            "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+            "url": "https://github.com/hkoosha"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 151877,
+                    "login": "hkoosha",
+                    "name": "Koosha",
+                    "avatar": "https://avatars.githubusercontent.com/u/63921250?v=4",
+                    "url": "https://github.com/hkoosha"
+                },
+                "time": "2025-12-08T13:07:48.339092Z"
+            }
+        ],
+        "checksum": "ea7acf2619cf2c86a279b9dcaf046cd80d20097cbf09d9f8ab63d95da4ce720a",
+        "rust_version": "1.85.0",
+        "has_lib": true,
+        "bin_names": [
+            "zoha"
+        ],
+        "edition": "2024",
+        "description": "A drop down terminal inspired by Tilda",
+        "homepage": "https://zoha.rs",
+        "documentation": null,
+        "repository": "https://github.com/hkoosha/zoha",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3246,
+                    "comment_lines": 44,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 3246,
+            "total_comment_lines": 44
+        }
+    }
+}
