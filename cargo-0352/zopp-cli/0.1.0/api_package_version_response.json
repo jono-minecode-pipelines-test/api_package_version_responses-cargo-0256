@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1923303,
+        "crate": "zopp-cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zopp-cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zopp-cli/0.1.0/readme",
+        "updated_at": "2026-01-05T17:57:03.366926Z",
+        "created_at": "2026-01-05T17:57:03.366926Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zopp-cli/0.1.0/authors"
+        },
+        "crate_size": 37688,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T17:57:03.366926Z"
+            }
+        ],
+        "checksum": "2a3a497274fa4e25f999c0f86c9207496b7764785a1d2c00df4f4373421e97b7",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zopp"
+        ],
+        "edition": "2021",
+        "description": "Command-line interface for zopp secrets manager",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2126,
+                    "comment_lines": 32,
+                    "files": 18
+                }
+            },
+            "total_code_lines": 2126,
+            "total_comment_lines": 32
+        }
+    }
+}

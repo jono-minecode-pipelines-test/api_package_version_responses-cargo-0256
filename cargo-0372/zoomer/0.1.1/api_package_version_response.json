@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 670112,
+        "crate": "zoomer",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zoomer/0.1.1/download",
+        "readme_path": "/api/v1/crates/zoomer/0.1.1/readme",
+        "updated_at": "2022-11-24T19:13:20.685612Z",
+        "created_at": "2022-11-24T19:13:20.685612Z",
+        "downloads": 1136,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoomer/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoomer/0.1.1/downloads",
+            "authors": "/api/v1/crates/zoomer/0.1.1/authors"
+        },
+        "crate_size": 4132,
+        "published_by": {
+            "id": 106975,
+            "login": "cyqsimon",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+            "url": "https://github.com/cyqsimon"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 106975,
+                    "login": "cyqsimon",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+                    "url": "https://github.com/cyqsimon"
+                },
+                "time": "2022-11-24T19:13:20.685612Z"
+            }
+        ],
+        "checksum": "6eb85d8f7fae67c383a2b8cc4c48fe43183f6e22d9e8fde824a3b4713cdb0eda",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Making Rust a true modern language\u2122\ufe0f with revolutionary macros.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 165,
+                    "comment_lines": 1,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 165,
+            "total_comment_lines": 1
+        }
+    }
+}

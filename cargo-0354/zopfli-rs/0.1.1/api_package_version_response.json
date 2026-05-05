@@ -1,0 +1,61 @@
+{
+    "version": {
+        "id": 85303,
+        "crate": "zopfli-rs",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zopfli-rs/0.1.1/download",
+        "readme_path": "/api/v1/crates/zopfli-rs/0.1.1/readme",
+        "updated_at": "2018-03-18T02:55:47.554706Z",
+        "created_at": "2018-03-18T02:55:47.554706Z",
+        "downloads": 2942,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopfli-rs/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zopfli-rs/0.1.1/downloads",
+            "authors": "/api/v1/crates/zopfli-rs/0.1.1/authors"
+        },
+        "crate_size": 144154,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "e201eef1833c58c4cf804dffb938616bc5946add0591cd8661c128e5a457e37a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Bindings to zopfli for deflate, gzip, and zlib compression.",
+        "homepage": "https://github.com/dfrankland/zopfli-rs",
+        "documentation": null,
+        "repository": "https://github.com/dfrankland/zopfli-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 2485,
+                    "comment_lines": 705,
+                    "files": 13
+                },
+                "C Header": {
+                    "code_lines": 973,
+                    "comment_lines": 1970,
+                    "files": 16
+                },
+                "C++": {
+                    "code_lines": 6059,
+                    "comment_lines": 908,
+                    "files": 4
+                },
+                "Rust": {
+                    "code_lines": 125,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 9642,
+            "total_comment_lines": 3583
+        }
+    }
+}

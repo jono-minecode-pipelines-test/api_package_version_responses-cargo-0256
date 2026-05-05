@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 670084,
+        "crate": "zoomer",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoomer/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoomer/0.1.0/readme",
+        "updated_at": "2022-11-24T17:29:44.026359Z",
+        "created_at": "2022-11-24T17:29:44.026359Z",
+        "downloads": 1100,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoomer/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoomer/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoomer/0.1.0/authors"
+        },
+        "crate_size": 1560,
+        "published_by": {
+            "id": 106975,
+            "login": "cyqsimon",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+            "url": "https://github.com/cyqsimon"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 106975,
+                    "login": "cyqsimon",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+                    "url": "https://github.com/cyqsimon"
+                },
+                "time": "2022-11-24T17:29:44.026359Z"
+            }
+        ],
+        "checksum": "65edf929f58dddbff1f1f80815bcf80c77721cb821bf35722a99cc18ad967b1f",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoomer"
+        ],
+        "edition": "2021",
+        "description": "Just your casual name-squatting crate. I'll be doing something fun with it later.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

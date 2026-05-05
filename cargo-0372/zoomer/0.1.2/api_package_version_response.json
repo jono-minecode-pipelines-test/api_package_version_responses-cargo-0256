@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 670114,
+        "crate": "zoomer",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zoomer/0.1.2/download",
+        "readme_path": "/api/v1/crates/zoomer/0.1.2/readme",
+        "updated_at": "2022-11-24T19:18:04.344088Z",
+        "created_at": "2022-11-24T19:18:04.344088Z",
+        "downloads": 1560,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoomer/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zoomer/0.1.2/downloads",
+            "authors": "/api/v1/crates/zoomer/0.1.2/authors"
+        },
+        "crate_size": 4177,
+        "published_by": {
+            "id": 106975,
+            "login": "cyqsimon",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+            "url": "https://github.com/cyqsimon"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 106975,
+                    "login": "cyqsimon",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/28627918?v=4",
+                    "url": "https://github.com/cyqsimon"
+                },
+                "time": "2022-11-24T19:18:04.344088Z"
+            }
+        ],
+        "checksum": "a7f803a694aa18a8987834d38f748711f8b94f46cf76b6f30326e5c210280f9a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Making Rust a true modern language\u2122\ufe0f with revolutionary macros.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zoomer",
+        "repository": "https://github.com/cyqsimon/zoomer-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 165,
+                    "comment_lines": 1,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 165,
+            "total_comment_lines": 1
+        }
+    }
+}

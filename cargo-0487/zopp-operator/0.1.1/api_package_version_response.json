@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1923422,
+        "crate": "zopp-operator",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zopp-operator/0.1.1/download",
+        "readme_path": "/api/v1/crates/zopp-operator/0.1.1/readme",
+        "updated_at": "2026-01-05T19:22:23.015919Z",
+        "created_at": "2026-01-05T19:22:23.015919Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopp-operator/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zopp-operator/0.1.1/downloads",
+            "authors": "/api/v1/crates/zopp-operator/0.1.1/authors"
+        },
+        "crate_size": 31515,
+        "published_by": {
+            "id": 126700,
+            "login": "vieiralucas",
+            "name": "Lucas Vieira",
+            "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+            "url": "https://github.com/vieiralucas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 126700,
+                    "login": "vieiralucas",
+                    "name": "Lucas Vieira",
+                    "avatar": "https://avatars.githubusercontent.com/u/7764293?v=4",
+                    "url": "https://github.com/vieiralucas"
+                },
+                "time": "2026-01-05T19:22:23.015919Z"
+            }
+        ],
+        "checksum": "8d330f5c911fe2d213f3ab450113059e64c6de42b2bf8c6d53e6aadcb68c72fc",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zopp-operator"
+        ],
+        "edition": "2021",
+        "description": "Kubernetes operator for zopp secrets manager",
+        "homepage": "https://github.com/faiscadev/zopp",
+        "documentation": null,
+        "repository": "https://github.com/faiscadev/zopp",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 823,
+                    "comment_lines": 57,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 823,
+            "total_comment_lines": 57
+        }
+    }
+}

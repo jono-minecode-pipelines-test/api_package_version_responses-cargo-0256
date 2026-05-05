@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 440991,
+        "crate": "zoomtiler",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zoomtiler/1.0.0/download",
+        "readme_path": "/api/v1/crates/zoomtiler/1.0.0/readme",
+        "updated_at": "2021-10-21T13:58:42.971539Z",
+        "created_at": "2021-10-21T13:58:42.971539Z",
+        "downloads": 1539,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoomtiler/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoomtiler/1.0.0/downloads",
+            "authors": "/api/v1/crates/zoomtiler/1.0.0/authors"
+        },
+        "crate_size": 16590,
+        "published_by": {
+            "id": 22909,
+            "login": "mpizenberg",
+            "name": "Matthieu Pizenberg",
+            "avatar": "https://avatars.githubusercontent.com/u/2905865?v=4",
+            "url": "https://github.com/mpizenberg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 22909,
+                    "login": "mpizenberg",
+                    "name": "Matthieu Pizenberg",
+                    "avatar": "https://avatars.githubusercontent.com/u/2905865?v=4",
+                    "url": "https://github.com/mpizenberg"
+                },
+                "time": "2021-10-21T13:58:42.971539Z"
+            }
+        ],
+        "checksum": "f6b59dded4f895bf11ebc8801e9df91659fe89c9160d532cfb7f6c28463a7911",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoomtiler"
+        ],
+        "edition": "2018",
+        "description": "Generate zoomable tiled images",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 315,
+                    "comment_lines": 29,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 315,
+            "total_comment_lines": 29
+        }
+    }
+}
