@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 2190072,
+        "crate": "zorto-core",
+        "num": "0.13.0",
+        "dl_path": "/api/v1/crates/zorto-core/0.13.0/download",
+        "readme_path": "/api/v1/crates/zorto-core/0.13.0/readme",
+        "updated_at": "2026-03-31T01:24:53.487785Z",
+        "created_at": "2026-03-31T01:24:53.487785Z",
+        "downloads": 20,
+        "features": {
+            "default": [
+                "embed-python",
+                "theme-dkdc",
+                "theme-light",
+                "theme-dark",
+                "theme-zorto"
+            ],
+            "embed-python": [
+                "python",
+                "pyo3/auto-initialize"
+            ],
+            "python": [
+                "dep:pyo3"
+            ],
+            "theme-dark": [],
+            "theme-dkdc": [],
+            "theme-light": [],
+            "theme-zorto": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-core/0.13.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-core/0.13.0/downloads",
+            "authors": "/api/v1/crates/zorto-core/0.13.0/authors"
+        },
+        "crate_size": 95989,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "ffdf66031e77255ce4b49eafa815d03cdf377137c9e373b0268c2bebebbc8ecb",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core library for zorto \u2014 a fast static site generator with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23775893935",
+            "sha": "3171e0ec6ceb24e28d7a7065c2fd29eda66b7634"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 1200,
+                    "comment_lines": 0,
+                    "files": 24
+                },
+                "Rust": {
+                    "code_lines": 4348,
+                    "comment_lines": 158,
+                    "files": 12
+                },
+                "Sass": {
+                    "code_lines": 3519,
+                    "comment_lines": 379,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 9067,
+            "total_comment_lines": 537
+        }
+    }
+}

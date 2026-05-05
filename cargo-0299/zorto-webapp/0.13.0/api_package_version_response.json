@@ -1,0 +1,51 @@
+{
+    "version": {
+        "id": 2190074,
+        "crate": "zorto-webapp",
+        "num": "0.13.0",
+        "dl_path": "/api/v1/crates/zorto-webapp/0.13.0/download",
+        "readme_path": "/api/v1/crates/zorto-webapp/0.13.0/readme",
+        "updated_at": "2026-03-31T01:25:50.478238Z",
+        "created_at": "2026-03-31T01:25:50.478238Z",
+        "downloads": 15,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-webapp/0.13.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-webapp/0.13.0/downloads",
+            "authors": "/api/v1/crates/zorto-webapp/0.13.0/authors"
+        },
+        "crate_size": 28975,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "02e29b5230d2ce45297b4db8c3e63fc218f0623cc68d2e4ba066f4123f2740cd",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "HTMX CMS webapp for zorto",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23775893935",
+            "sha": "3171e0ec6ceb24e28d7a7065c2fd29eda66b7634"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1423,
+                    "comment_lines": 15,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 1423,
+            "total_comment_lines": 15
+        }
+    }
+}

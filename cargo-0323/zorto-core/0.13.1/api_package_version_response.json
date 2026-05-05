@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 2190153,
+        "crate": "zorto-core",
+        "num": "0.13.1",
+        "dl_path": "/api/v1/crates/zorto-core/0.13.1/download",
+        "readme_path": "/api/v1/crates/zorto-core/0.13.1/readme",
+        "updated_at": "2026-03-31T02:00:58.058018Z",
+        "created_at": "2026-03-31T02:00:58.058018Z",
+        "downloads": 21,
+        "features": {
+            "default": [
+                "embed-python",
+                "theme-dkdc",
+                "theme-light",
+                "theme-dark",
+                "theme-zorto"
+            ],
+            "embed-python": [
+                "python",
+                "pyo3/auto-initialize"
+            ],
+            "python": [
+                "dep:pyo3"
+            ],
+            "theme-dark": [],
+            "theme-dkdc": [],
+            "theme-light": [],
+            "theme-zorto": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-core/0.13.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-core/0.13.1/downloads",
+            "authors": "/api/v1/crates/zorto-core/0.13.1/authors"
+        },
+        "crate_size": 96006,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "a30bfb0b29fad1683da307d17d8866ecfc72066ce43e1b2d4807546e6dff278b",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core library for zorto \u2014 the AI-native static site generator (SSG) with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23776798590",
+            "sha": "8082ee25ab83f1c8a10baee2dd73d0f9d2cccb09"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 1200,
+                    "comment_lines": 0,
+                    "files": 24
+                },
+                "Rust": {
+                    "code_lines": 4348,
+                    "comment_lines": 158,
+                    "files": 12
+                },
+                "Sass": {
+                    "code_lines": 3519,
+                    "comment_lines": 379,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 9067,
+            "total_comment_lines": 537
+        }
+    }
+}

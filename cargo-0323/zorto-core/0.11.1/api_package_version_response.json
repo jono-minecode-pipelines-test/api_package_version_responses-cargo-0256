@@ -1,0 +1,62 @@
+{
+    "version": {
+        "id": 2180706,
+        "crate": "zorto-core",
+        "num": "0.11.1",
+        "dl_path": "/api/v1/crates/zorto-core/0.11.1/download",
+        "readme_path": "/api/v1/crates/zorto-core/0.11.1/readme",
+        "updated_at": "2026-03-28T20:47:15.945407Z",
+        "created_at": "2026-03-28T20:47:15.945407Z",
+        "downloads": 19,
+        "features": {
+            "default": [
+                "embed-python"
+            ],
+            "embed-python": [
+                "python",
+                "pyo3/auto-initialize"
+            ],
+            "python": [
+                "dep:pyo3"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto-core/0.11.1/dependencies",
+            "version_downloads": "/api/v1/crates/zorto-core/0.11.1/downloads",
+            "authors": "/api/v1/crates/zorto-core/0.11.1/authors"
+        },
+        "crate_size": 44585,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "c6a4d6f702a53c52713591ce7c8d9eb67a634f1085969b8e0611a2e7178bf594",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Core library for zorto \u2014 a fast static site generator with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23693966905",
+            "sha": "728f16ce3512ead34bb94bf0a2c1b26da0be6f0b"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3175,
+                    "comment_lines": 121,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 3175,
+            "total_comment_lines": 121
+        }
+    }
+}
