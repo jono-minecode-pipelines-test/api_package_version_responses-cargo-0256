@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 127340,
+        "crate": "zkvm",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zkvm/0.0.0/download",
+        "readme_path": "/api/v1/crates/zkvm/0.0.0/readme",
+        "updated_at": "2019-01-09T13:45:44.688827Z",
+        "created_at": "2019-01-09T13:45:44.688827Z",
+        "downloads": 2011,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvm/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zkvm/0.0.0/downloads",
+            "authors": "/api/v1/crates/zkvm/0.0.0/authors"
+        },
+        "crate_size": 4979,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "b2070e6eb80cb6fe20d56dda683600cce3a1d23b7c038169fa425bfcbf967c99",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A blockchain VM with cloaked transactions and zero-knowledge smart contracts",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/interstellar/zkvm",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

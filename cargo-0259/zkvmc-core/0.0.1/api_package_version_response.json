@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1519761,
+        "crate": "zkvmc-core",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zkvmc-core/0.0.1/download",
+        "readme_path": "/api/v1/crates/zkvmc-core/0.0.1/readme",
+        "updated_at": "2025-04-11T08:13:32.893897Z",
+        "created_at": "2025-04-11T08:13:32.893897Z",
+        "downloads": 1908,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvmc-core/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zkvmc-core/0.0.1/downloads",
+            "authors": "/api/v1/crates/zkvmc-core/0.0.1/authors"
+        },
+        "crate_size": 8623,
+        "published_by": {
+            "id": 321547,
+            "login": "johnxudev",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+            "url": "https://github.com/johnxudev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 321547,
+                    "login": "johnxudev",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+                    "url": "https://github.com/johnxudev"
+                },
+                "time": "2025-04-11T08:13:32.893897Z"
+            }
+        ],
+        "checksum": "4d84b424cb4d9128277e0c142f35f080c925c6f24872d9948bfbcaa7e6869530",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zkVMc core library",
+        "homepage": "https://github.com/dyxushuai/zkvmc",
+        "documentation": null,
+        "repository": "https://github.com/dyxushuai/zkvmc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 437,
+                    "comment_lines": 13,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 437,
+            "total_comment_lines": 13
+        }
+    }
+}

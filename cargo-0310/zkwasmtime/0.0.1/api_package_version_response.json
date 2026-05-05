@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 587082,
+        "crate": "zkwasmtime",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zkwasmtime/0.0.1/download",
+        "readme_path": "/api/v1/crates/zkwasmtime/0.0.1/readme",
+        "updated_at": "2022-07-20T03:39:57.928216Z",
+        "created_at": "2022-07-20T03:39:57.928216Z",
+        "downloads": 1529,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT AND Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkwasmtime/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zkwasmtime/0.0.1/downloads",
+            "authors": "/api/v1/crates/zkwasmtime/0.0.1/authors"
+        },
+        "crate_size": 13054,
+        "published_by": {
+            "id": 168792,
+            "login": "FullyNonlinear",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/101962850?v=4",
+            "url": "https://github.com/FullyNonlinear"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 168792,
+                    "login": "FullyNonlinear",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/101962850?v=4",
+                    "url": "https://github.com/FullyNonlinear"
+                },
+                "time": "2022-07-20T03:39:57.928216Z"
+            }
+        ],
+        "checksum": "37e572ae4fde0bebbe736a61b6c4e6725b677e73375664314dbd873e9bf1bd22",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zkwasmtime"
+        ],
+        "edition": "2021",
+        "description": "A zk-friendly virtual machine for WebAssembly",
+        "homepage": "https://github.com/Riemannstein/zkWasmtime",
+        "documentation": null,
+        "repository": "https://github.com/Riemannstein/zkWasmtime",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 2,
+            "total_comment_lines": 0
+        }
+    }
+}
