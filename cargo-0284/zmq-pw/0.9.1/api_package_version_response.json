@@ -1,0 +1,56 @@
+{
+    "version": {
+        "id": 57718,
+        "crate": "zmq-pw",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zmq-pw/0.9.1/download",
+        "readme_path": "/api/v1/crates/zmq-pw/0.9.1/readme",
+        "updated_at": "2017-11-30T02:50:56.820454Z",
+        "created_at": "2017-06-23T14:51:51.983905Z",
+        "downloads": 1602,
+        "features": {
+            "default": [
+                "zmq_has"
+            ],
+            "unstable": [],
+            "unstable-testing": [
+                "compiletest_rs",
+                "unstable"
+            ],
+            "zmq_has": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-pw/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-pw/0.9.1/downloads",
+            "authors": "/api/v1/crates/zmq-pw/0.9.1/authors"
+        },
+        "crate_size": 38899,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "78e2ea9b35731290600a7862b1a8fed7887f821cc96d45de3d44a22f85f9f0c2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "High-level bindings to the zeromq library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/evernym/rust-zmq-pw",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1146,
+                    "comment_lines": 24,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1146,
+            "total_comment_lines": 24
+        }
+    }
+}

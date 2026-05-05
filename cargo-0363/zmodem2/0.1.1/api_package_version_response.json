@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1147425,
+        "crate": "zmodem2",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zmodem2/0.1.1/download",
+        "readme_path": "/api/v1/crates/zmodem2/0.1.1/readme",
+        "updated_at": "2024-05-17T14:12:17.400406Z",
+        "created_at": "2024-05-17T14:12:17.400406Z",
+        "downloads": 1432,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmodem2/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmodem2/0.1.1/downloads",
+            "authors": "/api/v1/crates/zmodem2/0.1.1/authors"
+        },
+        "crate_size": 1069781,
+        "published_by": {
+            "id": 152658,
+            "login": "jarkkojs",
+            "name": "Jarkko Sakkinen",
+            "avatar": "https://avatars.githubusercontent.com/u/112336?v=4",
+            "url": "https://github.com/jarkkojs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 152658,
+                    "login": "jarkkojs",
+                    "name": "Jarkko Sakkinen",
+                    "avatar": "https://avatars.githubusercontent.com/u/112336?v=4",
+                    "url": "https://github.com/jarkkojs"
+                },
+                "time": "2024-05-17T14:12:17.400406Z"
+            }
+        ],
+        "checksum": "5f26686912483a733cde938e6f400f6db4797ea0c1fe064eb8583b552ac4f79b",
+        "rust_version": "1.73",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZMODEM file transfer protocol",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://gitlab.com/jarkkojs/zmodem2",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 818,
+                    "comment_lines": 9,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 818,
+            "total_comment_lines": 9
+        }
+    }
+}

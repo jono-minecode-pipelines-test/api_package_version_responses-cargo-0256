@@ -1,0 +1,51 @@
+{
+    "version": {
+        "id": 25224,
+        "crate": "zmq-rs",
+        "num": "0.1.6",
+        "dl_path": "/api/v1/crates/zmq-rs/0.1.6/download",
+        "readme_path": "/api/v1/crates/zmq-rs/0.1.6/readme",
+        "updated_at": "2017-11-30T04:01:28.438794Z",
+        "created_at": "2016-04-08T14:58:11.915703Z",
+        "downloads": 6582,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq-rs/0.1.6/dependencies",
+            "version_downloads": "/api/v1/crates/zmq-rs/0.1.6/downloads",
+            "authors": "/api/v1/crates/zmq-rs/0.1.6/authors"
+        },
+        "crate_size": 17957,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "156c358a8a1106ac6510ab2c9238b565613a1c4c7d83b8ee3cc535939f2dba36",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "A ZeroMQ library binding (Windows compatible) for ZMQ-4.1.4",
+        "homepage": null,
+        "documentation": "https://gpuhell.com/doc/zmq-rs/zmq_rs/",
+        "repository": "https://github.com/Ginurx/zmq-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 295,
+                    "comment_lines": 97,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1079,
+                    "comment_lines": 16,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 1374,
+            "total_comment_lines": 113
+        }
+    }
+}

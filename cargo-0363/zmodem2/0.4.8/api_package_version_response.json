@@ -1,0 +1,74 @@
+{
+    "version": {
+        "id": 2003301,
+        "crate": "zmodem2",
+        "num": "0.4.8",
+        "dl_path": "/api/v1/crates/zmodem2/0.4.8/download",
+        "readme_path": "/api/v1/crates/zmodem2/0.4.8/readme",
+        "updated_at": "2026-02-06T04:49:02.132473Z",
+        "created_at": "2026-02-06T04:49:02.132473Z",
+        "downloads": 23,
+        "features": {
+            "default": [
+                "std"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmodem2/0.4.8/dependencies",
+            "version_downloads": "/api/v1/crates/zmodem2/0.4.8/downloads",
+            "authors": "/api/v1/crates/zmodem2/0.4.8/authors"
+        },
+        "crate_size": 60389,
+        "published_by": {
+            "id": 152658,
+            "login": "jarkkojs",
+            "name": "Jarkko Sakkinen",
+            "avatar": "https://avatars.githubusercontent.com/u/112336?v=4",
+            "url": "https://github.com/jarkkojs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 152658,
+                    "login": "jarkkojs",
+                    "name": "Jarkko Sakkinen",
+                    "avatar": "https://avatars.githubusercontent.com/u/112336?v=4",
+                    "url": "https://github.com/jarkkojs"
+                },
+                "time": "2026-02-06T04:49:02.132473Z"
+            }
+        ],
+        "checksum": "f593b430f720f1fbb4b7d3bc13917c627ac24e268d22639768713de5ff42731b",
+        "rust_version": "1.81",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZMODEM file transfer protocol",
+        "homepage": "https://codeberg.org/jarkko/zmodem2",
+        "documentation": null,
+        "repository": "https://codeberg.org/jarkko/zmodem2.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1511,
+                    "comment_lines": 28,
+                    "files": 11
+                },
+                "Shell": {
+                    "code_lines": 22,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1533,
+            "total_comment_lines": 29
+        }
+    }
+}
