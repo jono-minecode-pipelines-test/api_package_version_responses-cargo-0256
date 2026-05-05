@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2150843,
+        "crate": "zsync-rs",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zsync-rs/0.0.0/download",
+        "readme_path": "/api/v1/crates/zsync-rs/0.0.0/readme",
+        "updated_at": "2026-03-21T15:50:04.454352Z",
+        "created_at": "2026-03-21T15:50:04.454352Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsync-rs/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsync-rs/0.0.0/downloads",
+            "authors": "/api/v1/crates/zsync-rs/0.0.0/authors"
+        },
+        "crate_size": 781,
+        "published_by": {
+            "id": 105517,
+            "login": "QaidVoid",
+            "name": "Rabindra Dhakal",
+            "avatar": "https://avatars.githubusercontent.com/u/12017109?v=4",
+            "url": "https://github.com/QaidVoid"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 105517,
+                    "login": "QaidVoid",
+                    "name": "Rabindra Dhakal",
+                    "avatar": "https://avatars.githubusercontent.com/u/12017109?v=4",
+                    "url": "https://github.com/QaidVoid"
+                },
+                "time": "2026-03-21T15:50:04.454352Z"
+            }
+        ],
+        "checksum": "f7cc1798b020938aade5846a6e83db08466ba7e3eec2c285bae6063b92151f4e",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zsync-rs"
+        ],
+        "edition": "2024",
+        "description": "Zsync implementation in Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

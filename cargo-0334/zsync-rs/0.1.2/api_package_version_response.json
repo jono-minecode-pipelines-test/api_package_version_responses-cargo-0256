@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2167885,
+        "crate": "zsync-rs",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zsync-rs/0.1.2/download",
+        "readme_path": "/api/v1/crates/zsync-rs/0.1.2/readme",
+        "updated_at": "2026-03-25T17:20:53.052640Z",
+        "created_at": "2026-03-25T17:20:53.052640Z",
+        "downloads": 156,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsync-rs/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zsync-rs/0.1.2/downloads",
+            "authors": "/api/v1/crates/zsync-rs/0.1.2/authors"
+        },
+        "crate_size": 24227,
+        "published_by": {
+            "id": 105517,
+            "login": "QaidVoid",
+            "name": "Rabindra Dhakal",
+            "avatar": "https://avatars.githubusercontent.com/u/12017109?v=4",
+            "url": "https://github.com/QaidVoid"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 105517,
+                    "login": "QaidVoid",
+                    "name": "Rabindra Dhakal",
+                    "avatar": "https://avatars.githubusercontent.com/u/12017109?v=4",
+                    "url": "https://github.com/QaidVoid"
+                },
+                "time": "2026-03-25T17:20:53.052640Z"
+            }
+        ],
+        "checksum": "e59a7879aa5d9a89715a97940db5741fb63e09ac4077d74506941f6190152723",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zsync"
+        ],
+        "edition": "2024",
+        "description": "Efficient file transfer using rsync algorithm over HTTP",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1483,
+                    "comment_lines": 6,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 1483,
+            "total_comment_lines": 6
+        }
+    }
+}

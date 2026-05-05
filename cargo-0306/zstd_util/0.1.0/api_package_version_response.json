@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 357081,
+        "crate": "zstd_util",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zstd_util/0.1.0/download",
+        "readme_path": "/api/v1/crates/zstd_util/0.1.0/readme",
+        "updated_at": "2021-03-27T10:59:04.602643Z",
+        "created_at": "2021-03-27T10:59:04.602643Z",
+        "downloads": 1212,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd_util/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstd_util/0.1.0/downloads",
+            "authors": "/api/v1/crates/zstd_util/0.1.0/authors"
+        },
+        "crate_size": 69812,
+        "published_by": {
+            "id": 116976,
+            "login": "tyrylu",
+            "name": "Luk\u00e1\u0161 Tyrychtr",
+            "avatar": "https://avatars.githubusercontent.com/u/1107720?v=4",
+            "url": "https://github.com/tyrylu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 116976,
+                    "login": "tyrylu",
+                    "name": "Luk\u00e1\u0161 Tyrychtr",
+                    "avatar": "https://avatars.githubusercontent.com/u/1107720?v=4",
+                    "url": "https://github.com/tyrylu"
+                },
+                "time": "2021-03-27T10:59:04.602643Z"
+            }
+        ],
+        "checksum": "7765388cb93a1c6587ab0ea7729c917a018bd94061b212e567a97cfaa25f9249",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A simple zstd_safe based compression and decompression wrapper",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/tyrylu/zstd_util",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 105,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 105,
+            "total_comment_lines": 0
+        }
+    }
+}
