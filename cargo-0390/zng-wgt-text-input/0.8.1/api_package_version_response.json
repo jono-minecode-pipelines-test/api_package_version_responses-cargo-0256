@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1691047,
+        "crate": "zng-wgt-text-input",
+        "num": "0.8.1",
+        "dl_path": "/api/v1/crates/zng-wgt-text-input/0.8.1/download",
+        "readme_path": "/api/v1/crates/zng-wgt-text-input/0.8.1/readme",
+        "updated_at": "2025-08-18T20:30:02.307622Z",
+        "created_at": "2025-08-18T20:30:02.307622Z",
+        "downloads": 402,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-text-input/0.8.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-text-input/0.8.1/downloads",
+            "authors": "/api/v1/crates/zng-wgt-text-input/0.8.1/authors"
+        },
+        "crate_size": 28658,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-08-18T20:30:02.307622Z"
+            }
+        ],
+        "checksum": "d4ee89448d5a91d10e9a1df709bec7d03f7b0f63c61cdc5536b2b4674a0168d6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_text_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 480,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 480,
+            "total_comment_lines": 0
+        }
+    }
+}

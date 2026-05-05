@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1422794,
+        "crate": "zng-wgt-text-input",
+        "num": "0.5.10",
+        "dl_path": "/api/v1/crates/zng-wgt-text-input/0.5.10/download",
+        "readme_path": "/api/v1/crates/zng-wgt-text-input/0.5.10/readme",
+        "updated_at": "2025-01-26T21:12:56.670845Z",
+        "created_at": "2025-01-26T21:12:56.670845Z",
+        "downloads": 694,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-text-input/0.5.10/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-text-input/0.5.10/downloads",
+            "authors": "/api/v1/crates/zng-wgt-text-input/0.5.10/authors"
+        },
+        "crate_size": 26090,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-01-26T21:12:56.670845Z"
+            }
+        ],
+        "checksum": "83b1483290d3ceace5843fbb240faa19bccf0fff14954e8c286b3a35ee778c30",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_text_input",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 475,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 475,
+            "total_comment_lines": 0
+        }
+    }
+}
