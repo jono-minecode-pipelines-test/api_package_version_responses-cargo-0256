@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2114559,
+        "crate": "zksync_l1_contract_interface",
+        "num": "29.13.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_l1_contract_interface/29.13.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_l1_contract_interface/29.13.0-non-semver-compat/readme",
+        "updated_at": "2026-03-12T13:53:28.842882Z",
+        "created_at": "2026-03-12T13:53:28.842882Z",
+        "downloads": 687,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_l1_contract_interface/29.13.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_l1_contract_interface/29.13.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_l1_contract_interface/29.13.0-non-semver-compat/authors"
+        },
+        "crate_size": 45251,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-03-12T13:53:28.842882Z"
+            }
+        ],
+        "checksum": "992da66cdb52cf542c61a77ea312d72dcfbcdad181f602511f139cc29dd47473",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Interfaces for interacting with ZKsync contracts",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 984,
+                    "comment_lines": 41,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 984,
+            "total_comment_lines": 41
+        }
+    }
+}
