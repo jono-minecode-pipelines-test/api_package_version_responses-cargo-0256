@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2087705,
+        "crate": "zksync_node_framework_derive",
+        "num": "29.12.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_node_framework_derive/29.12.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_node_framework_derive/29.12.0-non-semver-compat/readme",
+        "updated_at": "2026-03-04T20:52:36.671373Z",
+        "created_at": "2026-03-04T20:52:36.671373Z",
+        "downloads": 177,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_node_framework_derive/29.12.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_node_framework_derive/29.12.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_node_framework_derive/29.12.0-non-semver-compat/authors"
+        },
+        "crate_size": 4606,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-03-04T20:52:36.671373Z"
+            }
+        ],
+        "checksum": "dd400425057dc3d9a51bc695e864962ea0b23988c887f3169911c2935eb0daea",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Derive macro for ZKsync node framework",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 309,
+                    "comment_lines": 9,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 309,
+            "total_comment_lines": 9
+        }
+    }
+}
