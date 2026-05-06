@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 1260342,
+        "crate": "zksync_pairing",
+        "num": "0.30.0",
+        "dl_path": "/api/v1/crates/zksync_pairing/0.30.0/download",
+        "readme_path": "/api/v1/crates/zksync_pairing/0.30.0/readme",
+        "updated_at": "2024-09-05T13:44:30.224736Z",
+        "created_at": "2024-09-05T10:27:29.376786Z",
+        "downloads": 1017,
+        "features": {
+            "asm": [
+                "ff/asm_derive"
+            ],
+            "default": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_pairing/0.30.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_pairing/0.30.0/downloads",
+            "authors": "/api/v1/crates/zksync_pairing/0.30.0/authors"
+        },
+        "crate_size": 533920,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-05T10:27:29.376786Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-05T13:44:30.226545Z"
+            }
+        ],
+        "checksum": "67f4aea3b4b6c48023c111fd9540eb690edf243c2a34a09a7d033060f6fb51dc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Pairing-friendly elliptic curve library, based on pairing crate",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 10889,
+                    "comment_lines": 734,
+                    "files": 24
+                },
+                "Shell": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 10890,
+            "total_comment_lines": 734
+        }
+    }
+}

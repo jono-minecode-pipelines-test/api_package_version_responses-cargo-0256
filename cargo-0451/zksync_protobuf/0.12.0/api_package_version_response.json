@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1621785,
+        "crate": "zksync_protobuf",
+        "num": "0.12.0",
+        "dl_path": "/api/v1/crates/zksync_protobuf/0.12.0/download",
+        "readme_path": "/api/v1/crates/zksync_protobuf/0.12.0/readme",
+        "updated_at": "2025-06-30T19:35:52.905012Z",
+        "created_at": "2025-06-30T19:35:52.905012Z",
+        "downloads": 390,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zksync_protobuf_proto",
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_protobuf/0.12.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_protobuf/0.12.0/downloads",
+            "authors": "/api/v1/crates/zksync_protobuf/0.12.0/authors"
+        },
+        "crate_size": 28761,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-06-30T19:35:52.905012Z"
+            }
+        ],
+        "checksum": "fe9d6e928e1231c8a23e9c15b81e8ec549a6831ecbe62ce9bdba1d372f1f8124",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus protobuf types and utilities",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 726,
+                    "comment_lines": 19,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 726,
+            "total_comment_lines": 19
+        }
+    }
+}
