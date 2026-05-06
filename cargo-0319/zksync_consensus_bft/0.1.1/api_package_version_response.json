@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1261770,
+        "crate": "zksync_consensus_bft",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zksync_consensus_bft/0.1.1/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_bft/0.1.1/readme",
+        "updated_at": "2024-09-06T12:57:42.145626Z",
+        "created_at": "2024-09-06T12:57:42.145626Z",
+        "downloads": 12628,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_bft/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_bft/0.1.1/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_bft/0.1.1/authors"
+        },
+        "crate_size": 42950,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-09-06T12:57:42.145626Z"
+            }
+        ],
+        "checksum": "45c409ae915056cf9cadd9304dbc8718fa38edfcb346d06e5b3582dcd2489ef9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus bft actor",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4170,
+                    "comment_lines": 343,
+                    "files": 28
+                }
+            },
+            "total_code_lines": 4170,
+            "total_comment_lines": 343
+        }
+    }
+}

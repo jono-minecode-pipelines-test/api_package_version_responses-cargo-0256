@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1220948,
+        "crate": "zksync_consensus_bft",
+        "num": "0.1.0-rc.5",
+        "dl_path": "/api/v1/crates/zksync_consensus_bft/0.1.0-rc.5/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_bft/0.1.0-rc.5/readme",
+        "updated_at": "2024-08-01T15:26:55.618318Z",
+        "created_at": "2024-08-01T15:26:55.618318Z",
+        "downloads": 1960,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_bft/0.1.0-rc.5/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_bft/0.1.0-rc.5/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_bft/0.1.0-rc.5/authors"
+        },
+        "crate_size": 42832,
+        "published_by": {
+            "id": 196241,
+            "login": "pompon0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+            "url": "https://github.com/pompon0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-08-01T15:26:55.618318Z"
+            }
+        ],
+        "checksum": "5e8b6a76b90b909d9fec814ff980e03ea6179139821bd6edc3df3e1b08d8e765",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus bft actor",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4160,
+                    "comment_lines": 343,
+                    "files": 28
+                }
+            },
+            "total_code_lines": 4160,
+            "total_comment_lines": 343
+        }
+    }
+}
