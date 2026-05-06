@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1744420,
+        "crate": "zksync_gateway_migrator",
+        "num": "29.4.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_gateway_migrator/29.4.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_gateway_migrator/29.4.0-non-semver-compat/readme",
+        "updated_at": "2025-09-24T18:20:00.452514Z",
+        "created_at": "2025-09-24T18:20:00.452514Z",
+        "downloads": 269,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_gateway_migrator/29.4.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_gateway_migrator/29.4.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_gateway_migrator/29.4.0-non-semver-compat/authors"
+        },
+        "crate_size": 46482,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-09-24T18:20:00.452514Z"
+            }
+        ],
+        "checksum": "0676727233bed9c00842d6451c97e092d794d9fd4798d94fd703a92ce9558a0a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Component that handles the migration of the zkSync network from/to gateway",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 153,
+                    "comment_lines": 4,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 153,
+            "total_comment_lines": 4
+        }
+    }
+}
