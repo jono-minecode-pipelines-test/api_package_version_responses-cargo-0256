@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1224759,
+        "crate": "zksync_consensus_executor",
+        "num": "0.1.0-rc.8",
+        "dl_path": "/api/v1/crates/zksync_consensus_executor/0.1.0-rc.8/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_executor/0.1.0-rc.8/readme",
+        "updated_at": "2024-08-05T17:41:22.003692Z",
+        "created_at": "2024-08-05T17:41:22.003692Z",
+        "downloads": 3039,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_executor/0.1.0-rc.8/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_executor/0.1.0-rc.8/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_executor/0.1.0-rc.8/authors"
+        },
+        "crate_size": 9137,
+        "published_by": {
+            "id": 196241,
+            "login": "pompon0",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+            "url": "https://github.com/pompon0"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-08-05T17:41:22.003692Z"
+            }
+        ],
+        "checksum": "8495b9056a895ee4e720b803d3e26ffad18776ae374805bab34a5ff5b648be6e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus executor actor",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 731,
+                    "comment_lines": 41,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 731,
+            "total_comment_lines": 41
+        }
+    }
+}

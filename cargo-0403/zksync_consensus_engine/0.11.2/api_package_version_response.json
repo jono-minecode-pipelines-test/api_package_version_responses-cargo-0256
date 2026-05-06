@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1588367,
+        "crate": "zksync_consensus_engine",
+        "num": "0.11.2",
+        "dl_path": "/api/v1/crates/zksync_consensus_engine/0.11.2/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_engine/0.11.2/readme",
+        "updated_at": "2025-06-03T01:01:50.695735Z",
+        "created_at": "2025-06-03T01:01:50.695735Z",
+        "downloads": 4117,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_engine/0.11.2/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_engine/0.11.2/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_engine/0.11.2/authors"
+        },
+        "crate_size": 25999,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-06-03T01:01:50.695735Z"
+            }
+        ],
+        "checksum": "d32a41fc06d6e7df89f9da72e17c2497128023fb41f17c9f12f8b2818ca80479",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync consensus engine",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1048,
+                    "comment_lines": 45,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 1048,
+            "total_comment_lines": 45
+        }
+    }
+}
