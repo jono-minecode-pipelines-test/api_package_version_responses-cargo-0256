@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1891341,
+        "crate": "zksync_os_interface",
+        "num": "0.0.11",
+        "dl_path": "/api/v1/crates/zksync_os_interface/0.0.11/download",
+        "readme_path": "/api/v1/crates/zksync_os_interface/0.0.11/readme",
+        "updated_at": "2025-12-19T14:13:19.787813Z",
+        "created_at": "2025-12-19T14:13:19.787813Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_os_interface/0.0.11/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_os_interface/0.0.11/downloads",
+            "authors": "/api/v1/crates/zksync_os_interface/0.0.11/authors"
+        },
+        "crate_size": 23059,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-12-19T14:13:19.787813Z"
+            }
+        ],
+        "checksum": "3b4347539d42d43bd1d20a812423fa02def34780cde717036b29b46fda12113c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "MultiVM interface for ZKsync OS",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-os-interface",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 491,
+                    "comment_lines": 16,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 491,
+            "total_comment_lines": 16
+        }
+    }
+}
