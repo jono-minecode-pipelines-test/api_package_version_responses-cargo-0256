@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 735240,
+        "crate": "zksync_circuit",
+        "num": "3.0.0",
+        "dl_path": "/api/v1/crates/zksync_circuit/3.0.0/download",
+        "readme_path": "/api/v1/crates/zksync_circuit/3.0.0/readme",
+        "updated_at": "2023-02-25T03:58:21.283407Z",
+        "created_at": "2023-02-25T03:58:21.283407Z",
+        "downloads": 1507,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_circuit/3.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_circuit/3.0.0/downloads",
+            "authors": "/api/v1/crates/zksync_circuit/3.0.0/authors"
+        },
+        "crate_size": 777,
+        "published_by": {
+            "id": 199865,
+            "login": "dhanushqwert",
+            "name": "example",
+            "avatar": "https://avatars.githubusercontent.com/u/123306108?v=4",
+            "url": "https://github.com/dhanushqwert"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 199865,
+                    "login": "dhanushqwert",
+                    "name": "example",
+                    "avatar": "https://avatars.githubusercontent.com/u/123306108?v=4",
+                    "url": "https://github.com/dhanushqwert"
+                },
+                "time": "2023-02-25T03:58:21.283407Z"
+            }
+        ],
+        "checksum": "bf973eef3162a2e13f9784ed978957446d3f732745c70d21e061b0b90054092d",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zksync_circuit"
+        ],
+        "edition": "2021",
+        "description": "Takeover PoC / Immunefi Username @Example",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}
