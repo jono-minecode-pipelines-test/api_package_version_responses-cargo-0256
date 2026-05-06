@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1885235,
+        "crate": "zksync_instrument",
+        "num": "29.7.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_instrument/29.7.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_instrument/29.7.0-non-semver-compat/readme",
+        "updated_at": "2025-12-17T01:17:40.269968Z",
+        "created_at": "2025-12-17T01:17:40.269968Z",
+        "downloads": 168,
+        "features": {
+            "jemalloc": [
+                "dep:tikv-jemalloc-ctl"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_instrument/29.7.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_instrument/29.7.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_instrument/29.7.0-non-semver-compat/authors"
+        },
+        "crate_size": 6915,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-12-17T01:17:40.269968Z"
+            }
+        ],
+        "checksum": "19ebd1b0bc49ab85439accfcf3778bd5d3fd339764fa68573e4fb89a5dd8d84d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "General-purpose instrumentation for ZKsync",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 208,
+                    "comment_lines": 1,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 208,
+            "total_comment_lines": 1
+        }
+    }
+}
